@@ -1,0 +1,294 @@
+[
+ {
+  "nazov": "*",
+  "kod": 1434
+ },
+ {
+  "nazov": "*",
+  "kod": 10262
+ },
+ {
+  "nazov": "Alexyho, pekárne",
+  "kod": 614
+ },
+ {
+  "nazov": "Andice, Droppa",
+  "kod": 650
+ },
+ {
+  "nazov": "Andice, Háčik",
+  "kod": 662
+ },
+ {
+  "nazov": "AquaPark",
+  "kod": 664
+ },
+ {
+  "nazov": "Aut. stanica",
+  "kod": 610
+ },
+ {
+  "nazov": "Benice, Gorecký",
+  "kod": 663
+ },
+ {
+  "nazov": "Bodice, Jednota",
+  "kod": 599
+ },
+ {
+  "nazov": "Bodice, kostol",
+  "kod": 598
+ },
+ {
+  "nazov": "Borbisova, bytovky",
+  "kod": 615
+ },
+ {
+  "nazov": "Borbisova, cintorín",
+  "kod": 616
+ },
+ {
+  "nazov": "Centrum",
+  "kod": 618
+ },
+ {
+  "nazov": "Demänová, Mlynisko",
+  "kod": 649
+ },
+ {
+  "nazov": "Demänová, rázc.",
+  "kod": 647
+ },
+ {
+  "nazov": "Demänová, zvonica",
+  "kod": 648
+ },
+ {
+  "nazov": "Geodézia",
+  "kod": 622
+ },
+ {
+  "nazov": "Hodžova, gymnázium",
+  "kod": 609
+ },
+ {
+  "nazov": "Hollého, KD",
+  "kod": 619
+ },
+ {
+  "nazov": "Hotel Jánošík",
+  "kod": 656
+ },
+ {
+  "nazov": "Hurbanova, MŠ",
+  "kod": 621
+ },
+ {
+  "nazov": "Iľanovo, Hollý",
+  "kod": 644
+ },
+ {
+  "nazov": "Iľanovo, KD",
+  "kod": 645
+ },
+ {
+  "nazov": "Iľanovo, otočka",
+  "kod": 646
+ },
+ {
+  "nazov": "Komenského, MŠ",
+  "kod": 623
+ },
+ {
+  "nazov": "Lekáreň",
+  "kod": 620
+ },
+ {
+  "nazov": "Mliekareň",
+  "kod": 659
+ },
+ {
+  "nazov": "Modom",
+  "kod": 613
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 633
+ },
+ {
+  "nazov": "Nová, Lidl",
+  "kod": 601
+ },
+ {
+  "nazov": "Nálepkova, VPS",
+  "kod": 624
+ },
+ {
+  "nazov": "Okoličné, otočka",
+  "kod": 635
+ },
+ {
+  "nazov": "Okoličné, ZŠ",
+  "kod": 638
+ },
+ {
+  "nazov": "Ondrašová, kostol",
+  "kod": 605
+ },
+ {
+  "nazov": "Ondrašová, most",
+  "kod": 606
+ },
+ {
+  "nazov": "Ondrašová, otočka",
+  "kod": 607
+ },
+ {
+  "nazov": "Palúdzka, Bocian",
+  "kod": 597
+ },
+ {
+  "nazov": "Palúdzka, E. Penkalu",
+  "kod": 630
+ },
+ {
+  "nazov": "Palúdzka, Kaufland",
+  "kod": 665
+ },
+ {
+  "nazov": "Palúdzka, LAS",
+  "kod": 631
+ },
+ {
+  "nazov": "Palúdzka, Palugyayho",
+  "kod": 3630
+ },
+ {
+  "nazov": "Palúdzka, SNP",
+  "kod": 660
+ },
+ {
+  "nazov": "Palúdzka, SOUP",
+  "kod": 634
+ },
+ {
+  "nazov": "Palúdzka, ZŠ",
+  "kod": 632
+ },
+ {
+  "nazov": "Ploštín, Diel",
+  "kod": 640
+ },
+ {
+  "nazov": "Ploštín, ihrisko",
+  "kod": 641
+ },
+ {
+  "nazov": "Ploštín, KD",
+  "kod": 642
+ },
+ {
+  "nazov": "Ploštín, otočka",
+  "kod": 643
+ },
+ {
+  "nazov": "Ploštínska cesta",
+  "kod": 639
+ },
+ {
+  "nazov": "Podbreziny, juh",
+  "kod": 651
+ },
+ {
+  "nazov": "Podbreziny, otočka",
+  "kod": 652
+ },
+ {
+  "nazov": "Podbreziny, stred",
+  "kod": 653
+ },
+ {
+  "nazov": "Podtatranského, bytovky",
+  "kod": 625
+ },
+ {
+  "nazov": "Podtatranského, záhradné mesto",
+  "kod": 626
+ },
+ {
+  "nazov": "Priemyselná, cintorín",
+  "kod": 600
+ },
+ {
+  "nazov": "Priemyselná, Deltech",
+  "kod": 627
+ },
+ {
+  "nazov": "Rachmaninovo nám.",
+  "kod": 658
+ },
+ {
+  "nazov": "Revolučná, Lidl",
+  "kod": 611
+ },
+ {
+  "nazov": "Revolučná, Point",
+  "kod": 4732
+ },
+ {
+  "nazov": "St. Nicolaus",
+  "kod": 602
+ },
+ {
+  "nazov": "Stop Shop",
+  "kod": 595
+ },
+ {
+  "nazov": "Stošice, otočka",
+  "kod": 655
+ },
+ {
+  "nazov": "Stošice, rázc.",
+  "kod": 594
+ },
+ {
+  "nazov": "Stošická",
+  "kod": 4082
+ },
+ {
+  "nazov": "Tesco",
+  "kod": 604
+ },
+ {
+  "nazov": "Vojenská akadémia",
+  "kod": 657
+ },
+ {
+  "nazov": "Vrbica-Nábrežie",
+  "kod": 654
+ },
+ {
+  "nazov": "Vrlíkova, most",
+  "kod": 628
+ },
+ {
+  "nazov": "Zápotockého",
+  "kod": 629
+ },
+ {
+  "nazov": "Závažná Poruba, Luhy",
+  "kod": 596
+ },
+ {
+  "nazov": "ZŠ Janošku",
+  "kod": 617
+ },
+ {
+  "nazov": "Úrad práce",
+  "kod": 608
+ },
+ {
+  "nazov": "Štúrova, MsÚ",
+  "kod": 612
+ }
+]

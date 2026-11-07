@@ -1,0 +1,462 @@
+[
+ {
+  "nazov": "1",
+  "kod": 10069
+ },
+ {
+  "nazov": "4",
+  "kod": 10027
+ },
+ {
+  "nazov": "5",
+  "kod": 10031
+ },
+ {
+  "nazov": "6",
+  "kod": 10032
+ },
+ {
+  "nazov": "ABŠO",
+  "kod": 980
+ },
+ {
+  "nazov": "Autobusové nástupište",
+  "kod": 923
+ },
+ {
+  "nazov": "Dolný Milochov, pošta",
+  "kod": 3699
+ },
+ {
+  "nazov": "Dolný Milochov, SMT",
+  "kod": 992
+ },
+ {
+  "nazov": "Dolný Milochov, žel. stanica",
+  "kod": 993
+ },
+ {
+  "nazov": "Dolný Moštenec II",
+  "kod": 997
+ },
+ {
+  "nazov": "Dolný Moštenec III",
+  "kod": 996
+ },
+ {
+  "nazov": "Dolný Moštenec IV",
+  "kod": 998
+ },
+ {
+  "nazov": "Dolný Moštenec, rázc.",
+  "kod": 995
+ },
+ {
+  "nazov": "Dom služieb",
+  "kod": 951
+ },
+ {
+  "nazov": "Hliny",
+  "kod": 961
+ },
+ {
+  "nazov": "Hliny, rázc.",
+  "kod": 962
+ },
+ {
+  "nazov": "Horný Milochov I",
+  "kod": 990
+ },
+ {
+  "nazov": "Horný Milochov II",
+  "kod": 991
+ },
+ {
+  "nazov": "Horný Milochov III",
+  "kod": 1016
+ },
+ {
+  "nazov": "Horný Milochov IV",
+  "kod": 1021
+ },
+ {
+  "nazov": "Horný Moštenec I",
+  "kod": 999
+ },
+ {
+  "nazov": "Horný Moštenec II",
+  "kod": 1000
+ },
+ {
+  "nazov": "Horný Moštenec III",
+  "kod": 1001
+ },
+ {
+  "nazov": "Hromadné garáže",
+  "kod": 947
+ },
+ {
+  "nazov": "III. ZŠ",
+  "kod": 979
+ },
+ {
+  "nazov": "IV. ZŠ",
+  "kod": 948
+ },
+ {
+  "nazov": "Jelšové, cintorín",
+  "kod": 4288
+ },
+ {
+  "nazov": "Kvašov, Šuraba",
+  "kod": 1007
+ },
+ {
+  "nazov": "Kúpalisko",
+  "kod": 928
+ },
+ {
+  "nazov": "MTS",
+  "kod": 967
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 930
+ },
+ {
+  "nazov": "Orlové, cintorín",
+  "kod": 943
+ },
+ {
+  "nazov": "Orlové, stred",
+  "kod": 944
+ },
+ {
+  "nazov": "Park",
+  "kod": 925
+ },
+ {
+  "nazov": "Pekárne",
+  "kod": 959
+ },
+ {
+  "nazov": "Podmanín I",
+  "kod": 1013
+ },
+ {
+  "nazov": "Podmanín, konečná",
+  "kod": 1014
+ },
+ {
+  "nazov": "Podmanínska cesta",
+  "kod": 1015
+ },
+ {
+  "nazov": "Podvažie I",
+  "kod": 933
+ },
+ {
+  "nazov": "Podvažie II",
+  "kod": 934
+ },
+ {
+  "nazov": "Podvažie, konečná",
+  "kod": 931
+ },
+ {
+  "nazov": "Podvažie, lávka",
+  "kod": 932
+ },
+ {
+  "nazov": "Považská Teplá, autocamp.",
+  "kod": 977
+ },
+ {
+  "nazov": "Považská Teplá, chata",
+  "kod": 976
+ },
+ {
+  "nazov": "Považská Teplá, Jednota",
+  "kod": 971
+ },
+ {
+  "nazov": "Považská Teplá, močiare",
+  "kod": 969
+ },
+ {
+  "nazov": "Považská Teplá, vodojem",
+  "kod": 978
+ },
+ {
+  "nazov": "Považská Teplá, Vrtižer",
+  "kod": 973
+ },
+ {
+  "nazov": "Považská Teplá, Zálužie",
+  "kod": 974
+ },
+ {
+  "nazov": "Považská Teplá, Zápotočie",
+  "kod": 972
+ },
+ {
+  "nazov": "Považská Teplá, č. d. 221",
+  "kod": 975
+ },
+ {
+  "nazov": "Považská Teplá, č. d. 56",
+  "kod": 970
+ },
+ {
+  "nazov": "Považské Podhradie, cintorín",
+  "kod": 939
+ },
+ {
+  "nazov": "Považské Podhradie, kaštieľ",
+  "kod": 937
+ },
+ {
+  "nazov": "Považské Podhradie, Križan",
+  "kod": 940
+ },
+ {
+  "nazov": "Považské Podhradie, LZ",
+  "kod": 942
+ },
+ {
+  "nazov": "Považské Podhradie, priem. areál II",
+  "kod": 941
+ },
+ {
+  "nazov": "Považské Podhradie, ZŠ",
+  "kod": 938
+ },
+ {
+  "nazov": "Považské strojárne I",
+  "kod": 4010
+ },
+ {
+  "nazov": "Považské strojárne II",
+  "kod": 4011
+ },
+ {
+  "nazov": "Považské strojárne III",
+  "kod": 4012
+ },
+ {
+  "nazov": "Poľovnícka reštaurácia",
+  "kod": 960
+ },
+ {
+  "nazov": "Pošta",
+  "kod": 981
+ },
+ {
+  "nazov": "Praznov I",
+  "kod": 1008
+ },
+ {
+  "nazov": "Praznov II",
+  "kod": 1009
+ },
+ {
+  "nazov": "Praznov IV",
+  "kod": 1011
+ },
+ {
+  "nazov": "Praznov, III (KD)",
+  "kod": 1010
+ },
+ {
+  "nazov": "Praznov, konečná",
+  "kod": 1012
+ },
+ {
+  "nazov": "Púchov, Continental Juh",
+  "kod": 4745
+ },
+ {
+  "nazov": "Púchov, Klenoty",
+  "kod": 4741
+ },
+ {
+  "nazov": "Púchov, Kolonka",
+  "kod": 4744
+ },
+ {
+  "nazov": "Púchov, Nosice, žel. stanica",
+  "kod": 4742
+ },
+ {
+  "nazov": "Púchov, žel. stanica",
+  "kod": 4743
+ },
+ {
+  "nazov": "SPŠ",
+  "kod": 927
+ },
+ {
+  "nazov": "Sídlisko Stred",
+  "kod": 950
+ },
+ {
+  "nazov": "Tesco",
+  "kod": 956
+ },
+ {
+  "nazov": "Tesco, parkovisko",
+  "kod": 952
+ },
+ {
+  "nazov": "Ul. Helenská I (M)",
+  "kod": 1003
+ },
+ {
+  "nazov": "Ul. Helenská II (N)",
+  "kod": 1004
+ },
+ {
+  "nazov": "Ul. Kukučínova",
+  "kod": 945
+ },
+ {
+  "nazov": "Ul. Lečkova, IBV",
+  "kod": 968
+ },
+ {
+  "nazov": "Ul. Lánska",
+  "kod": 929
+ },
+ {
+  "nazov": "Ul. M. Benku I (K)",
+  "kod": 1005
+ },
+ {
+  "nazov": "Ul. M. Benku II (V. ZŠ)",
+  "kod": 1006
+ },
+ {
+  "nazov": "Ul. M. Benku III (H)",
+  "kod": 1018
+ },
+ {
+  "nazov": "Ul. M. Benku IV, otočka",
+  "kod": 1019
+ },
+ {
+  "nazov": "Ul. Mládežnícka",
+  "kod": 1020
+ },
+ {
+  "nazov": "Ul. Novomeského I",
+  "kod": 4289
+ },
+ {
+  "nazov": "Ul. Novomeského II",
+  "kod": 4290
+ },
+ {
+  "nazov": "Ul. Novomeského III",
+  "kod": 4291
+ },
+ {
+  "nazov": "Ul. Nálepkova",
+  "kod": 982
+ },
+ {
+  "nazov": "Ul. Podhorská I",
+  "kod": 953
+ },
+ {
+  "nazov": "Ul. Podhorská II",
+  "kod": 954
+ },
+ {
+  "nazov": "Ul. Sl. partizánov",
+  "kod": 957
+ },
+ {
+  "nazov": "Ul. Sl. partizánov II",
+  "kod": 958
+ },
+ {
+  "nazov": "Ul. Sládkovičova",
+  "kod": 994
+ },
+ {
+  "nazov": "Ul. Východná (H)",
+  "kod": 3727
+ },
+ {
+  "nazov": "Ul. ČSA (F)",
+  "kod": 1002
+ },
+ {
+  "nazov": "Ul. Šoltésovej I",
+  "kod": 983
+ },
+ {
+  "nazov": "Ul. Šoltésovej II",
+  "kod": 984
+ },
+ {
+  "nazov": "Ul. Šoltésovej III",
+  "kod": 985
+ },
+ {
+  "nazov": "Ul. Šoltésovej, otočka",
+  "kod": 986
+ },
+ {
+  "nazov": "Ul. Štefánikova",
+  "kod": 926
+ },
+ {
+  "nazov": "Vlečka",
+  "kod": 988
+ },
+ {
+  "nazov": "Vodáreň",
+  "kod": 989
+ },
+ {
+  "nazov": "VÚB",
+  "kod": 966
+ },
+ {
+  "nazov": "Zakvášov, konečná",
+  "kod": 955
+ },
+ {
+  "nazov": "Zemiansky Kvašov",
+  "kod": 965
+ },
+ {
+  "nazov": "Zemiansky Kvašov II",
+  "kod": 964
+ },
+ {
+  "nazov": "Zemiansky Kvašov III",
+  "kod": 963
+ },
+ {
+  "nazov": "ZŠ sv. Augustína",
+  "kod": 949
+ },
+ {
+  "nazov": "Šebešťanová, kaplnka",
+  "kod": 935
+ },
+ {
+  "nazov": "Šebešťanová, priem. areál",
+  "kod": 936
+ },
+ {
+  "nazov": "Štadión",
+  "kod": 946
+ },
+ {
+  "nazov": "Železničná stanica",
+  "kod": 924
+ }
+]

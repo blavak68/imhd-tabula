@@ -1,0 +1,826 @@
+[
+ {
+  "nazov": "8. mája",
+  "kod": 2087
+ },
+ {
+  "nazov": "A",
+  "kod": 10624
+ },
+ {
+  "nazov": "Amfiteáter",
+  "kod": 1956
+ },
+ {
+  "nazov": "Andreja Hlinku, Centro",
+  "kod": 1955
+ },
+ {
+  "nazov": "Atletický štadión",
+  "kod": 2086
+ },
+ {
+  "nazov": "B",
+  "kod": 10628
+ },
+ {
+  "nazov": "Belopotockého",
+  "kod": 1958
+ },
+ {
+  "nazov": "Bizetova",
+  "kod": 2018
+ },
+ {
+  "nazov": "Bohúňova",
+  "kod": 1961
+ },
+ {
+  "nazov": "Bolečkova",
+  "kod": 1962
+ },
+ {
+  "nazov": "Bottova",
+  "kod": 4141
+ },
+ {
+  "nazov": "Braneckého",
+  "kod": 1966
+ },
+ {
+  "nazov": "Branč, Arkuš",
+  "kod": 1963
+ },
+ {
+  "nazov": "Branč, kultúrny dom",
+  "kod": 2015
+ },
+ {
+  "nazov": "Branč, Kurucká",
+  "kod": 2123
+ },
+ {
+  "nazov": "Branč, pneuservis",
+  "kod": 2043
+ },
+ {
+  "nazov": "Branč, Veľkoveská",
+  "kod": 1964
+ },
+ {
+  "nazov": "Branč, železničná stanica",
+  "kod": 1965
+ },
+ {
+  "nazov": "C",
+  "kod": 10627
+ },
+ {
+  "nazov": "Cabajská",
+  "kod": 1967
+ },
+ {
+  "nazov": "CENTRUM, Mlyny",
+  "kod": 1968
+ },
+ {
+  "nazov": "Chmeľová dolina",
+  "kod": 2045
+ },
+ {
+  "nazov": "Chotárna",
+  "kod": 1975
+ },
+ {
+  "nazov": "Chrenovská, MAX",
+  "kod": 1978
+ },
+ {
+  "nazov": "Chrenovský cintorín",
+  "kod": 2079
+ },
+ {
+  "nazov": "Cintorín Mlynárce",
+  "kod": 2133
+ },
+ {
+  "nazov": "D",
+  "kod": 10626
+ },
+ {
+  "nazov": "Divadlo Andreja Bagara",
+  "kod": 2038
+ },
+ {
+  "nazov": "Dolnočermánska",
+  "kod": 1982
+ },
+ {
+  "nazov": "Dražovce",
+  "kod": 1984
+ },
+ {
+  "nazov": "Drozdí chodník",
+  "kod": 2054
+ },
+ {
+  "nazov": "Dubíkova",
+  "kod": 2035
+ },
+ {
+  "nazov": "Dvorčianska",
+  "kod": 1987
+ },
+ {
+  "nazov": "E",
+  "kod": 10625
+ },
+ {
+  "nazov": "Edisonova",
+  "kod": 2059
+ },
+ {
+  "nazov": "F",
+  "kod": 10767
+ },
+ {
+  "nazov": "Ferrenit",
+  "kod": 1952
+ },
+ {
+  "nazov": "Fraňa Mojtu",
+  "kod": 2088
+ },
+ {
+  "nazov": "Golianova",
+  "kod": 1971
+ },
+ {
+  "nazov": "Gorazdova",
+  "kod": 1977
+ },
+ {
+  "nazov": "Hanulova",
+  "kod": 1989
+ },
+ {
+  "nazov": "Hattalova",
+  "kod": 1990
+ },
+ {
+  "nazov": "Hlavná",
+  "kod": 1991
+ },
+ {
+  "nazov": "Hodžova",
+  "kod": 1957
+ },
+ {
+  "nazov": "Hollého",
+  "kod": 1992
+ },
+ {
+  "nazov": "Hornozoborská",
+  "kod": 1994
+ },
+ {
+  "nazov": "Horné Krškany",
+  "kod": 1993
+ },
+ {
+  "nazov": "Hypermarket Tesco",
+  "kod": 1980
+ },
+ {
+  "nazov": "Hájnická",
+  "kod": 2000
+ },
+ {
+  "nazov": "Idea",
+  "kod": 2001
+ },
+ {
+  "nazov": "Ivanka pri Nitre, kultúrny dom",
+  "kod": 2014
+ },
+ {
+  "nazov": "Ivanka pri Nitre, Luk",
+  "kod": 2004
+ },
+ {
+  "nazov": "Ivanka pri Nitre, Orolská",
+  "kod": 2025
+ },
+ {
+  "nazov": "Ivanka pri Nitre, Texiplast",
+  "kod": 2019
+ },
+ {
+  "nazov": "Ivanka pri Nitre, železničná stanica",
+  "kod": 2005
+ },
+ {
+  "nazov": "Jakuba Haška",
+  "kod": 1972
+ },
+ {
+  "nazov": "Janíkovce",
+  "kod": 2007
+ },
+ {
+  "nazov": "Janíkovská cesta",
+  "kod": 2071
+ },
+ {
+  "nazov": "Jarocká",
+  "kod": 2040
+ },
+ {
+  "nazov": "Jurský dvor",
+  "kod": 2010
+ },
+ {
+  "nazov": "Jánskeho",
+  "kod": 2008
+ },
+ {
+  "nazov": "Kalvária",
+  "kod": 2012
+ },
+ {
+  "nazov": "Kasalova",
+  "kod": 2013
+ },
+ {
+  "nazov": "Kasárne Krškany",
+  "kod": 2099
+ },
+ {
+  "nazov": "Kavcova",
+  "kod": 2132
+ },
+ {
+  "nazov": "Klinčeková",
+  "kod": 2016
+ },
+ {
+  "nazov": "Kmeťova",
+  "kod": 2017
+ },
+ {
+  "nazov": "Kostolná",
+  "kod": 2021
+ },
+ {
+  "nazov": "KSC Janíkovce",
+  "kod": 2108
+ },
+ {
+  "nazov": "Kynek",
+  "kod": 2024
+ },
+ {
+  "nazov": "Lanovka",
+  "kod": 2117
+ },
+ {
+  "nazov": "Leopoldov",
+  "kod": 3664
+ },
+ {
+  "nazov": "Letecká",
+  "kod": 2136
+ },
+ {
+  "nazov": "Levická",
+  "kod": 2067
+ },
+ {
+  "nazov": "Liaharenský podnik",
+  "kod": 2026
+ },
+ {
+  "nazov": "Lomnická",
+  "kod": 2027
+ },
+ {
+  "nazov": "Lukov dvor",
+  "kod": 2028
+ },
+ {
+  "nazov": "Lužianky, Hlohovecká",
+  "kod": 2138
+ },
+ {
+  "nazov": "Lužianky, Korytovská",
+  "kod": 2020
+ },
+ {
+  "nazov": "Lužianky, Rastislavova",
+  "kod": 2066
+ },
+ {
+  "nazov": "Lužianky, Rázcestie Vinárska",
+  "kod": 2094
+ },
+ {
+  "nazov": "Lužianky, Vinárska",
+  "kod": 2095
+ },
+ {
+  "nazov": "Lužianky, VÚŽV",
+  "kod": 2003
+ },
+ {
+  "nazov": "Lužianky, ZŠ",
+  "kod": 2110
+ },
+ {
+  "nazov": "Lužianky, železničná stanica",
+  "kod": 2029
+ },
+ {
+  "nazov": "Malé Janíkovce I",
+  "kod": 2134
+ },
+ {
+  "nazov": "Malé Janíkovce II",
+  "kod": 2135
+ },
+ {
+  "nazov": "Martinská dolina",
+  "kod": 2115
+ },
+ {
+  "nazov": "Mestská hala",
+  "kod": 2011
+ },
+ {
+  "nazov": "Mestský park",
+  "kod": 4123
+ },
+ {
+  "nazov": "Metodova",
+  "kod": 2119
+ },
+ {
+  "nazov": "Metro",
+  "kod": 2031
+ },
+ {
+  "nazov": "Mevak",
+  "kod": 1959
+ },
+ {
+  "nazov": "Mikov dvor",
+  "kod": 2033
+ },
+ {
+  "nazov": "Mikovíniho",
+  "kod": 1997
+ },
+ {
+  "nazov": "Moskovská",
+  "kod": 2036
+ },
+ {
+  "nazov": "Murgašova",
+  "kod": 2030
+ },
+ {
+  "nazov": "Murániho",
+  "kod": 2124
+ },
+ {
+  "nazov": "Muškátová",
+  "kod": 2041
+ },
+ {
+  "nazov": "Na Priehon",
+  "kod": 2089
+ },
+ {
+  "nazov": "NAD",
+  "kod": 2060
+ },
+ {
+  "nazov": "Nedbalova",
+  "kod": 1988
+ },
+ {
+  "nazov": "Nemocnica Zobor",
+  "kod": 2118
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce",
+  "kod": 1995
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce, Krajná",
+  "kod": 2073
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce, Pod Sokolom",
+  "kod": 2074
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce, vinohrady",
+  "kod": 2096
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce, ZŠ",
+  "kod": 2107
+ },
+ {
+  "nazov": "Nitr. Hrnčiarovce, Šopronská",
+  "kod": 2076
+ },
+ {
+  "nazov": "Nitrafrost",
+  "kod": 2039
+ },
+ {
+  "nazov": "Nitrianska",
+  "kod": 2042
+ },
+ {
+  "nazov": "Nitrianske strojárne",
+  "kod": 2022
+ },
+ {
+  "nazov": "Nový cintorín",
+  "kod": 2006
+ },
+ {
+  "nazov": "Nábrežie mládeže",
+  "kod": 2002
+ },
+ {
+  "nazov": "Orechová",
+  "kod": 2048
+ },
+ {
+  "nazov": "Orgovánová",
+  "kod": 2049
+ },
+ {
+  "nazov": "Palárikova",
+  "kod": 2052
+ },
+ {
+  "nazov": "Panská dolina",
+  "kod": 2053
+ },
+ {
+  "nazov": "Partizánska",
+  "kod": 2061
+ },
+ {
+  "nazov": "PD Dražovce",
+  "kod": 2080
+ },
+ {
+  "nazov": "Pekárne",
+  "kod": 2120
+ },
+ {
+  "nazov": "Plynárenská",
+  "kod": 2121
+ },
+ {
+  "nazov": "Pod Zoborom",
+  "kod": 1976
+ },
+ {
+  "nazov": "Podhájska",
+  "kod": 1954
+ },
+ {
+  "nazov": "Poliklinika Chrenová",
+  "kod": 2102
+ },
+ {
+  "nazov": "Poliklinika Klokočina",
+  "kod": 1996
+ },
+ {
+  "nazov": "Popradská",
+  "kod": 2062
+ },
+ {
+  "nazov": "Potočná",
+  "kod": 2063
+ },
+ {
+  "nazov": "Považská",
+  "kod": 2130
+ },
+ {
+  "nazov": "Prameň",
+  "kod": 1973
+ },
+ {
+  "nazov": "Pražská",
+  "kod": 2044
+ },
+ {
+  "nazov": "Predmostie",
+  "kod": 2068
+ },
+ {
+  "nazov": "Pri kríži",
+  "kod": 2009
+ },
+ {
+  "nazov": "Priemyselná",
+  "kod": 2023
+ },
+ {
+  "nazov": "Priemyselný park I",
+  "kod": 2128
+ },
+ {
+  "nazov": "Priemyselný park II",
+  "kod": 2129
+ },
+ {
+  "nazov": "Priemyselný park III",
+  "kod": 2137
+ },
+ {
+  "nazov": "Priemyselný park IV",
+  "kod": 2131
+ },
+ {
+  "nazov": "Priemyselný park V",
+  "kod": 1981
+ },
+ {
+  "nazov": "Priemyselný park VI",
+  "kod": 4553
+ },
+ {
+  "nazov": "Priemyselný park VII",
+  "kod": 2140
+ },
+ {
+  "nazov": "Priemyselný park, nadjazd",
+  "kod": 4139
+ },
+ {
+  "nazov": "Párovská",
+  "kod": 2057
+ },
+ {
+  "nazov": "Párovské Háje",
+  "kod": 2056
+ },
+ {
+  "nazov": "Rastislavova",
+  "kod": 2046
+ },
+ {
+  "nazov": "Rybárska",
+  "kod": 1979
+ },
+ {
+  "nazov": "Rázcestie Autobusová stanica",
+  "kod": 1960
+ },
+ {
+  "nazov": "Rázcestie Kmeťova",
+  "kod": 1998
+ },
+ {
+  "nazov": "Rázcestie Metodova",
+  "kod": 2032
+ },
+ {
+  "nazov": "Rázcestie Moskovská",
+  "kod": 2037
+ },
+ {
+  "nazov": "Rázcestie Panská dolina",
+  "kod": 2055
+ },
+ {
+  "nazov": "Rázcestie Priemyselná",
+  "kod": 2065
+ },
+ {
+  "nazov": "Rázcestie Priemyselný park",
+  "kod": 2127
+ },
+ {
+  "nazov": "Rázcestie Železničná stanica",
+  "kod": 2114
+ },
+ {
+  "nazov": "Rázusova",
+  "kod": 2075
+ },
+ {
+  "nazov": "SEC",
+  "kod": 2125
+ },
+ {
+  "nazov": "Sitnianska",
+  "kod": 2103
+ },
+ {
+  "nazov": "Slamkova",
+  "kod": 2072
+ },
+ {
+  "nazov": "Správa ciest",
+  "kod": 2050
+ },
+ {
+  "nazov": "Stavebná škola",
+  "kod": 2081
+ },
+ {
+  "nazov": "Strategický park I",
+  "kod": 4555
+ },
+ {
+  "nazov": "Strategický park II",
+  "kod": 4556
+ },
+ {
+  "nazov": "Strategický park III",
+  "kod": 4557
+ },
+ {
+  "nazov": "Strategický park IV",
+  "kod": 4558
+ },
+ {
+  "nazov": "Strmá",
+  "kod": 2084
+ },
+ {
+  "nazov": "Stromová",
+  "kod": 2058
+ },
+ {
+  "nazov": "Tehelná",
+  "kod": 2085
+ },
+ {
+  "nazov": "Tokajská",
+  "kod": 2112
+ },
+ {
+  "nazov": "Trans Motel",
+  "kod": 2051
+ },
+ {
+  "nazov": "Trnava, Žel. stanica",
+  "kod": 2685
+ },
+ {
+  "nazov": "Turistická",
+  "kod": 1969
+ },
+ {
+  "nazov": "Univerzity",
+  "kod": 2100
+ },
+ {
+  "nazov": "Urbancova",
+  "kod": 2047
+ },
+ {
+  "nazov": "Vašinova",
+  "kod": 2091
+ },
+ {
+  "nazov": "Veterinárska",
+  "kod": 2092
+ },
+ {
+  "nazov": "Viničky",
+  "kod": 2126
+ },
+ {
+  "nazov": "Vinohrady Chrenová",
+  "kod": 2122
+ },
+ {
+  "nazov": "Vinárske závody",
+  "kod": 2093
+ },
+ {
+  "nazov": "Vodohospodárske stavby",
+  "kod": 2098
+ },
+ {
+  "nazov": "Výstavisko",
+  "kod": 2101
+ },
+ {
+  "nazov": "Wilsonovo nábrežie",
+  "kod": 2104
+ },
+ {
+  "nazov": "Zariadenie pre seniorov Zobor",
+  "kod": 2139
+ },
+ {
+  "nazov": "Zlatomoravecká",
+  "kod": 4554
+ },
+ {
+  "nazov": "Zvolenská",
+  "kod": 2069
+ },
+ {
+  "nazov": "Záborského",
+  "kod": 2106
+ },
+ {
+  "nazov": "Záhradná",
+  "kod": 2105
+ },
+ {
+  "nazov": "ZŠ Krškany",
+  "kod": 2109
+ },
+ {
+  "nazov": "ZŠ pod Zoborom",
+  "kod": 2111
+ },
+ {
+  "nazov": "ZŠ Škultétyho",
+  "kod": 1983
+ },
+ {
+  "nazov": "Úzka",
+  "kod": 2090
+ },
+ {
+  "nazov": "Čajkovského",
+  "kod": 1999
+ },
+ {
+  "nazov": "Červenova",
+  "kod": 1974
+ },
+ {
+  "nazov": "Ďurková",
+  "kod": 1986
+ },
+ {
+  "nazov": "Ďurčanského",
+  "kod": 1985
+ },
+ {
+  "nazov": "Šindolka",
+  "kod": 4138
+ },
+ {
+  "nazov": "Šindolka, Dolnohorská",
+  "kod": 2070
+ },
+ {
+  "nazov": "Špitálska",
+  "kod": 2078
+ },
+ {
+  "nazov": "Štitáre",
+  "kod": 2083
+ },
+ {
+  "nazov": "Štitáre, Ku Gáborke",
+  "kod": 2082
+ },
+ {
+  "nazov": "Štitáre, Šöpröš",
+  "kod": 2077
+ },
+ {
+  "nazov": "Štúrova",
+  "kod": 2064
+ },
+ {
+  "nazov": "Švecova",
+  "kod": 4730
+ },
+ {
+  "nazov": "Železničiarska",
+  "kod": 1953
+ },
+ {
+  "nazov": "Železničná stanica Nitra",
+  "kod": 2113
+ },
+ {
+  "nazov": "Železničná zastávka Mlynárce",
+  "kod": 2034
+ },
+ {
+  "nazov": "Žilinská",
+  "kod": 2116
+ }
+]

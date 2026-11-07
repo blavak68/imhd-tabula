@@ -1,0 +1,474 @@
+[
+ {
+  "nazov": "2",
+  "kod": 8398
+ },
+ {
+  "nazov": "A. Pietra",
+  "kod": 4160
+ },
+ {
+  "nazov": "Bystrička, Agáty",
+  "kod": 4154
+ },
+ {
+  "nazov": "Bystrička, Breziny",
+  "kod": 4752
+ },
+ {
+  "nazov": "Bystrička, centrum",
+  "kod": 4155
+ },
+ {
+  "nazov": "Bystrička, Lesný závod",
+  "kod": 4158
+ },
+ {
+  "nazov": "Bystrička, Lázky",
+  "kod": 4157
+ },
+ {
+  "nazov": "Campo di Martin",
+  "kod": 4183
+ },
+ {
+  "nazov": "Diviaky",
+  "kod": 4965
+ },
+ {
+  "nazov": "Dojčenský ústav",
+  "kod": 4163
+ },
+ {
+  "nazov": "Dolné Záturčie I",
+  "kod": 4164
+ },
+ {
+  "nazov": "Dolné Záturčie II",
+  "kod": 4165
+ },
+ {
+  "nazov": "Dolné Záturčie, cesta I/18",
+  "kod": 4166
+ },
+ {
+  "nazov": "Dolné Záturčie, sídlisko",
+  "kod": 4167
+ },
+ {
+  "nazov": "Dom smútku",
+  "kod": 4168
+ },
+ {
+  "nazov": "Dopravný podnik mesta Martin",
+  "kod": 4169
+ },
+ {
+  "nazov": "HBM Pharma",
+  "kod": 4170
+ },
+ {
+  "nazov": "Hlavná pošta",
+  "kod": 4171
+ },
+ {
+  "nazov": "Horná Štubňa",
+  "kod": 4964
+ },
+ {
+  "nazov": "Horná Štubňa obec",
+  "kod": 4963
+ },
+ {
+  "nazov": "Horná Štubňa zastávka",
+  "kod": 4962
+ },
+ {
+  "nazov": "Horné Záturčie",
+  "kod": 4172
+ },
+ {
+  "nazov": "Hotel Turiec",
+  "kod": 4173
+ },
+ {
+  "nazov": "Hrby",
+  "kod": 4156
+ },
+ {
+  "nazov": "Hviezdoslavova",
+  "kod": 4174
+ },
+ {
+  "nazov": "Jazernica",
+  "kod": 4961
+ },
+ {
+  "nazov": "Jesenského",
+  "kod": 4175
+ },
+ {
+  "nazov": "Kláštor pod Znievom",
+  "kod": 4960
+ },
+ {
+  "nazov": "Kolónia Hviezda I",
+  "kod": 4176
+ },
+ {
+  "nazov": "Kolónia Hviezda II",
+  "kod": 4177
+ },
+ {
+  "nazov": "Kolónia Hviezda, konečná",
+  "kod": 4182
+ },
+ {
+  "nazov": "Košúty, kostol",
+  "kod": 4185
+ },
+ {
+  "nazov": "Košúty, sídlisko",
+  "kod": 4187
+ },
+ {
+  "nazov": "Košťany nad Turcom",
+  "kod": 4959
+ },
+ {
+  "nazov": "Lipovec",
+  "kod": 4190
+ },
+ {
+  "nazov": "Lipovec, SKŠ",
+  "kod": 4159
+ },
+ {
+  "nazov": "Malý Čepčín",
+  "kod": 4958
+ },
+ {
+  "nazov": "Mládeže",
+  "kod": 4191
+ },
+ {
+  "nazov": "MŠ Bagarova",
+  "kod": 4192
+ },
+ {
+  "nazov": "Nade Hejnej",
+  "kod": 4194
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 4197
+ },
+ {
+  "nazov": "Nákladné nádražie",
+  "kod": 4195
+ },
+ {
+  "nazov": "Národný cintorín",
+  "kod": 4196
+ },
+ {
+  "nazov": "Obchodná akadémia",
+  "kod": 4198
+ },
+ {
+  "nazov": "OC Turiec",
+  "kod": 4839
+ },
+ {
+  "nazov": "Odtoky, kúpalisko",
+  "kod": 4199
+ },
+ {
+  "nazov": "Podháj I",
+  "kod": 4200
+ },
+ {
+  "nazov": "Podháj II",
+  "kod": 4201
+ },
+ {
+  "nazov": "Podháj III",
+  "kod": 4202
+ },
+ {
+  "nazov": "Podháj, J. Goliana",
+  "kod": 4203
+ },
+ {
+  "nazov": "Podháj, športová hala",
+  "kod": 4204
+ },
+ {
+  "nazov": "Poliklinika Škultétyho",
+  "kod": 4205
+ },
+ {
+  "nazov": "Priekopa",
+  "kod": 4955
+ },
+ {
+  "nazov": "Priekopa I",
+  "kod": 4206
+ },
+ {
+  "nazov": "Priekopa II",
+  "kod": 4207
+ },
+ {
+  "nazov": "Priekopa III",
+  "kod": 4208
+ },
+ {
+  "nazov": "Priekopa, areál SIM",
+  "kod": 4637
+ },
+ {
+  "nazov": "Priekopa, I. kolónia",
+  "kod": 4209
+ },
+ {
+  "nazov": "Priekopa, I. kolónia, obchod",
+  "kod": 4210
+ },
+ {
+  "nazov": "Priekopa, Lipová",
+  "kod": 4211
+ },
+ {
+  "nazov": "Priekopa, Medňanského",
+  "kod": 4212
+ },
+ {
+  "nazov": "Priekopa, Nová Neografia",
+  "kod": 4213
+ },
+ {
+  "nazov": "Priekopa, Rover",
+  "kod": 4214
+ },
+ {
+  "nazov": "Prieložtek",
+  "kod": 4215
+ },
+ {
+  "nazov": "Príbovce-Rakovo",
+  "kod": 4956
+ },
+ {
+  "nazov": "Robotnícka",
+  "kod": 4216
+ },
+ {
+  "nazov": "Ruppeldtova",
+  "kod": 4217
+ },
+ {
+  "nazov": "SAD",
+  "kod": 4218
+ },
+ {
+  "nazov": "Sever II",
+  "kod": 4219
+ },
+ {
+  "nazov": "Sever, obch. dom",
+  "kod": 4220
+ },
+ {
+  "nazov": "Stavbárska",
+  "kod": 4222
+ },
+ {
+  "nazov": "Stráne",
+  "kod": 4223
+ },
+ {
+  "nazov": "Stráne, Brezová",
+  "kod": 4224
+ },
+ {
+  "nazov": "Stráne, Hollého I",
+  "kod": 4225
+ },
+ {
+  "nazov": "Stráne, Hollého II",
+  "kod": 4227
+ },
+ {
+  "nazov": "Stráne, Hollého III",
+  "kod": 4226
+ },
+ {
+  "nazov": "Stráne, Hrdinov SNP I",
+  "kod": 4228
+ },
+ {
+  "nazov": "Stráne, Hrdinov SNP II",
+  "kod": 4229
+ },
+ {
+  "nazov": "Tepláreň",
+  "kod": 4230
+ },
+ {
+  "nazov": "Tomčany",
+  "kod": 4231
+ },
+ {
+  "nazov": "Tulip",
+  "kod": 4840
+ },
+ {
+  "nazov": "Turčan",
+  "kod": 4232
+ },
+ {
+  "nazov": "Turčianske Kľačany",
+  "kod": 4245
+ },
+ {
+  "nazov": "Turčianske Kľačany, most",
+  "kod": 4244
+ },
+ {
+  "nazov": "Turčianske Kľačany, ZŠ",
+  "kod": 4246
+ },
+ {
+  "nazov": "Turčianske Teplice",
+  "kod": 4957
+ },
+ {
+  "nazov": "Vrútky, Dielenská Kružná",
+  "kod": 4248
+ },
+ {
+  "nazov": "Vrútky, Dolné Vrútky",
+  "kod": 4249
+ },
+ {
+  "nazov": "Vrútky, ev. kostol",
+  "kod": 4250
+ },
+ {
+  "nazov": "Vrútky, Hôrka",
+  "kod": 4251
+ },
+ {
+  "nazov": "Vrútky, I. čsl. brigády",
+  "kod": 4254
+ },
+ {
+  "nazov": "Vrútky, Karvaša a Bláhovca I",
+  "kod": 4255
+ },
+ {
+  "nazov": "Vrútky, Karvaša a Bláhovca II",
+  "kod": 4256
+ },
+ {
+  "nazov": "Vrútky, M. R. Štefánika",
+  "kod": 4257
+ },
+ {
+  "nazov": "Vrútky, MsÚ",
+  "kod": 4258
+ },
+ {
+  "nazov": "Vrútky, Nábrežná",
+  "kod": 4259
+ },
+ {
+  "nazov": "Vrútky, Pamätník Karvaša a Bláhovca",
+  "kod": 4260
+ },
+ {
+  "nazov": "Vrútky, Rázc. Karvaša a Bláhovca",
+  "kod": 4261
+ },
+ {
+  "nazov": "Vrútky, Sládkovičova",
+  "kod": 4262
+ },
+ {
+  "nazov": "Vrútky, Sv. Cyrila a Metoda I",
+  "kod": 4263
+ },
+ {
+  "nazov": "Vrútky, Sv. Cyrila a Metoda II",
+  "kod": 4264
+ },
+ {
+  "nazov": "Vrútky, ZŠ M. R. Štefánika",
+  "kod": 4239
+ },
+ {
+  "nazov": "Vrútky, Čachovský rad",
+  "kod": 4247
+ },
+ {
+  "nazov": "Vrútky, Švermova",
+  "kod": 4265
+ },
+ {
+  "nazov": "Vrútky, žel. stanica",
+  "kod": 4266
+ },
+ {
+  "nazov": "Vrútky, ŽOS Vrútky",
+  "kod": 4243
+ },
+ {
+  "nazov": "ZŠ A. Bernoláka",
+  "kod": 4236
+ },
+ {
+  "nazov": "ZŠ A. Dubčeka",
+  "kod": 4237
+ },
+ {
+  "nazov": "ZŠ Nade Hejnej",
+  "kod": 4240
+ },
+ {
+  "nazov": "ZŠ Priehradná",
+  "kod": 4238
+ },
+ {
+  "nazov": "ZŠ Východná",
+  "kod": 4241
+ },
+ {
+  "nazov": "ZŤS, poliklinika",
+  "kod": 4242
+ },
+ {
+  "nazov": "Červenej armády I",
+  "kod": 4161
+ },
+ {
+  "nazov": "Červenej armády II",
+  "kod": 4162
+ },
+ {
+  "nazov": "Ľadoveň",
+  "kod": 4189
+ },
+ {
+  "nazov": "Štadión",
+  "kod": 4221
+ },
+ {
+  "nazov": "Žel. stanica",
+  "kod": 4234
+ },
+ {
+  "nazov": "Žilina, Železničná stanica",
+  "kod": 1846
+ }
+]

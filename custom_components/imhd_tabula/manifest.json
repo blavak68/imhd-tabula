@@ -1,0 +1,13 @@
+{
+  "domain": "imhd_tabula",
+  "name": "imhd.sk zastávková tabuľa",
+  "codeowners": ["blavak68"],
+  "config_flow": true,
+  "documentation": "https://github.com/USER/imhd-tabula",
+  "integration_type": "service",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/USER/imhd-tabula/issues",
+  "loggers": ["socketio", "engineio"],
+  "requirements": ["python-socketio>=5.11.0"],
+  "version": "0.1.0"
+}

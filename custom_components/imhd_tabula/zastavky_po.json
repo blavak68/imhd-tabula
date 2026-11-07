@@ -1,0 +1,1046 @@
+[
+ {
+  "nazov": "*",
+  "kod": 3189
+ },
+ {
+  "nazov": "Andreja Sládkoviča",
+  "kod": 3557
+ },
+ {
+  "nazov": "Bajkalská",
+  "kod": 1654
+ },
+ {
+  "nazov": "Bohúňova",
+  "kod": 3545
+ },
+ {
+  "nazov": "Borkút",
+  "kod": 1775
+ },
+ {
+  "nazov": "Budovateľská",
+  "kod": 1599
+ },
+ {
+  "nazov": "Bzenov",
+  "kod": 1745
+ },
+ {
+  "nazov": "Bzenov, OÚ Bzenov",
+  "kod": 1743
+ },
+ {
+  "nazov": "Bzenov, Rázcestie Janov",
+  "kod": 1744
+ },
+ {
+  "nazov": "Cemjata",
+  "kod": 1740
+ },
+ {
+  "nazov": "Centrum",
+  "kod": 1566
+ },
+ {
+  "nazov": "Centrál",
+  "kod": 1732
+ },
+ {
+  "nazov": "Chalupkova",
+  "kod": 1578
+ },
+ {
+  "nazov": "Chatky",
+  "kod": 1742
+ },
+ {
+  "nazov": "Cintorín Solivar",
+  "kod": 1759
+ },
+ {
+  "nazov": "Clementisova",
+  "kod": 1616
+ },
+ {
+  "nazov": "Delňa",
+  "kod": 1649
+ },
+ {
+  "nazov": "Detská nemocnica",
+  "kod": 3548
+ },
+ {
+  "nazov": "Dilongova",
+  "kod": 1651
+ },
+ {
+  "nazov": "Divadlo Jonáša Záborského",
+  "kod": 1804
+ },
+ {
+  "nazov": "Dopravný podnik",
+  "kod": 1586
+ },
+ {
+  "nazov": "Družstevná",
+  "kod": 1621
+ },
+ {
+  "nazov": "Duchnovičovo námestie",
+  "kod": 1611
+ },
+ {
+  "nazov": "Duklianska",
+  "kod": 1588
+ },
+ {
+  "nazov": "Dulova ves, Dulova Ves",
+  "kod": 3731
+ },
+ {
+  "nazov": "Dulova ves, Dulova Ves - kostol",
+  "kod": 3732
+ },
+ {
+  "nazov": "Dulova ves, Vlčie Doly",
+  "kod": 3733
+ },
+ {
+  "nazov": "Dúbrava",
+  "kod": 1605
+ },
+ {
+  "nazov": "Dúbravská",
+  "kod": 1770
+ },
+ {
+  "nazov": "Eperia",
+  "kod": 3742
+ },
+ {
+  "nazov": "Fakultná nemocnica",
+  "kod": 3549
+ },
+ {
+  "nazov": "Fintice",
+  "kod": 1687
+ },
+ {
+  "nazov": "Fintice, Gribľovec",
+  "kod": 1682
+ },
+ {
+  "nazov": "Fintice, Ihrisko",
+  "kod": 1683
+ },
+ {
+  "nazov": "Fintice, Námestie Jozefa Kolarčíka",
+  "kod": 1685
+ },
+ {
+  "nazov": "Fintice, Pri lipe",
+  "kod": 1805
+ },
+ {
+  "nazov": "Fintice, V kopci",
+  "kod": 1686
+ },
+ {
+  "nazov": "Fintice, Červený mostík",
+  "kod": 1684
+ },
+ {
+  "nazov": "Fintická",
+  "kod": 1679
+ },
+ {
+  "nazov": "Floriánova",
+  "kod": 1777
+ },
+ {
+  "nazov": "Futbal Tatran Aréna",
+  "kod": 1581
+ },
+ {
+  "nazov": "Garrett",
+  "kod": 1784
+ },
+ {
+  "nazov": "Gemor",
+  "kod": 1693
+ },
+ {
+  "nazov": "Gen. Ambruša",
+  "kod": 1758
+ },
+ {
+  "nazov": "Grešova",
+  "kod": 1650
+ },
+ {
+  "nazov": "Gymnázium sv. Moniky",
+  "kod": 1630
+ },
+ {
+  "nazov": "Haniska",
+  "kod": 1696
+ },
+ {
+  "nazov": "Haniska, Lemešianska",
+  "kod": 1695
+ },
+ {
+  "nazov": "Haniska, Priecestie",
+  "kod": 1694
+ },
+ {
+  "nazov": "Herlianska",
+  "kod": 1791
+ },
+ {
+  "nazov": "Hobby park",
+  "kod": 1807
+ },
+ {
+  "nazov": "Horárska",
+  "kod": 1703
+ },
+ {
+  "nazov": "Hruny",
+  "kod": 1710
+ },
+ {
+  "nazov": "Hviezdna",
+  "kod": 1789
+ },
+ {
+  "nazov": "Hôrka",
+  "kod": 1705
+ },
+ {
+  "nazov": "Išľa",
+  "kod": 1680
+ },
+ {
+  "nazov": "Jahodová",
+  "kod": 1707
+ },
+ {
+  "nazov": "Jazdecká",
+  "kod": 1569
+ },
+ {
+  "nazov": "Jelšová",
+  "kod": 1648
+ },
+ {
+  "nazov": "Jesenná",
+  "kod": 1647
+ },
+ {
+  "nazov": "Jilemnického",
+  "kod": 1747
+ },
+ {
+  "nazov": "Jurkovičova",
+  "kod": 1594
+ },
+ {
+  "nazov": "Jána Béreša",
+  "kod": 1689
+ },
+ {
+  "nazov": "Jánošíkova",
+  "kod": 1700
+ },
+ {
+  "nazov": "K Surdoku",
+  "kod": 1661
+ },
+ {
+  "nazov": "Kamenná",
+  "kod": 3552
+ },
+ {
+  "nazov": "Kamenná baňa",
+  "kod": 1774
+ },
+ {
+  "nazov": "Kanaš, Husí hrb",
+  "kod": 1726
+ },
+ {
+  "nazov": "Kanaš, Kanaš - Stráže",
+  "kod": 1730
+ },
+ {
+  "nazov": "Kanaš, Kozí rožok",
+  "kod": 1725
+ },
+ {
+  "nazov": "Kanaš, Medzi jarkami",
+  "kod": 1728
+ },
+ {
+  "nazov": "Kanaš, Pri kostole",
+  "kod": 1727
+ },
+ {
+  "nazov": "Kanaš, Sordok",
+  "kod": 2858
+ },
+ {
+  "nazov": "Kanaš, Stará škola",
+  "kod": 1729
+ },
+ {
+  "nazov": "Karpatská",
+  "kod": 1593
+ },
+ {
+  "nazov": "Kollárova",
+  "kod": 1627
+ },
+ {
+  "nazov": "Koryto",
+  "kod": 1663
+ },
+ {
+  "nazov": "Košická",
+  "kod": 1577
+ },
+ {
+  "nazov": "Kpt. Nálepku",
+  "kod": 1660
+ },
+ {
+  "nazov": "Ku Brezinám",
+  "kod": 1787
+ },
+ {
+  "nazov": "Kukučínova",
+  "kod": 1658
+ },
+ {
+  "nazov": "Kvašná voda",
+  "kod": 1737
+ },
+ {
+  "nazov": "Kysucká",
+  "kod": 1659
+ },
+ {
+  "nazov": "Kúpeľná",
+  "kod": 1631
+ },
+ {
+  "nazov": "Kúty",
+  "kod": 1665
+ },
+ {
+  "nazov": "Labutia",
+  "kod": 1780
+ },
+ {
+  "nazov": "Laca Novomeského",
+  "kod": 1615
+ },
+ {
+  "nazov": "Lesnícka",
+  "kod": 1597
+ },
+ {
+  "nazov": "Lesík delostrelcov",
+  "kod": 1634
+ },
+ {
+  "nazov": "Levočská",
+  "kod": 1645
+ },
+ {
+  "nazov": "Limbová",
+  "kod": 2859
+ },
+ {
+  "nazov": "Logistické centrum",
+  "kod": 3553
+ },
+ {
+  "nazov": "Lomnická",
+  "kod": 1580
+ },
+ {
+  "nazov": "Malá stanica",
+  "kod": 3712
+ },
+ {
+  "nazov": "Malý Šariš",
+  "kod": 1670
+ },
+ {
+  "nazov": "Malý Šariš, Nákupné stredisko",
+  "kod": 1672
+ },
+ {
+  "nazov": "Malý Šariš, OÚ M. Šariš",
+  "kod": 1673
+ },
+ {
+  "nazov": "Malý Šariš, Rázcestie Malý Šariš",
+  "kod": 1675
+ },
+ {
+  "nazov": "Malý Šariš, Telekča",
+  "kod": 1674
+ },
+ {
+  "nazov": "Malý Šariš, Šľachtiteľská stanica",
+  "kod": 1671
+ },
+ {
+  "nazov": "Marka Čulena",
+  "kod": 1624
+ },
+ {
+  "nazov": "Martina Benku",
+  "kod": 1595
+ },
+ {
+  "nazov": "Mestská hala",
+  "kod": 1701
+ },
+ {
+  "nazov": "Mičurinova",
+  "kod": 1608
+ },
+ {
+  "nazov": "Moyzesova",
+  "kod": 1653
+ },
+ {
+  "nazov": "Mukačevská",
+  "kod": 1568
+ },
+ {
+  "nazov": "Múzeum Solivar",
+  "kod": 1591
+ },
+ {
+  "nazov": "Mýto",
+  "kod": 1677
+ },
+ {
+  "nazov": "Na brehu",
+  "kod": 1760
+ },
+ {
+  "nazov": "Na Hlavnej",
+  "kod": 1572
+ },
+ {
+  "nazov": "Na Rúrkach",
+  "kod": 1690
+ },
+ {
+  "nazov": "Nižná Šebastová",
+  "kod": 1582
+ },
+ {
+  "nazov": "Nižné lúky",
+  "kod": 1637
+ },
+ {
+  "nazov": "Nová",
+  "kod": 1678
+ },
+ {
+  "nazov": "Nový Solivar",
+  "kod": 1576
+ },
+ {
+  "nazov": "Námestie Kráľovnej pokoja",
+  "kod": 1618
+ },
+ {
+  "nazov": "Námestie mládeže",
+  "kod": 1612
+ },
+ {
+  "nazov": "Obrancov mieru",
+  "kod": 1604
+ },
+ {
+  "nazov": "Odborárska",
+  "kod": 1625
+ },
+ {
+  "nazov": "Okružná",
+  "kod": 1778
+ },
+ {
+  "nazov": "Októbrová",
+  "kod": 1735
+ },
+ {
+  "nazov": "Ostrovček",
+  "kod": 1629
+ },
+ {
+  "nazov": "Pavla Horova",
+  "kod": 1596
+ },
+ {
+  "nazov": "Pavlovičovo námestie",
+  "kod": 1632
+ },
+ {
+  "nazov": "Pažica",
+  "kod": 1583
+ },
+ {
+  "nazov": "Pekárne",
+  "kod": 1600
+ },
+ {
+  "nazov": "Petrovianska",
+  "kod": 3555
+ },
+ {
+  "nazov": "Petőfiho pamätník",
+  "kod": 4749
+ },
+ {
+  "nazov": "Pionierska",
+  "kod": 1646
+ },
+ {
+  "nazov": "Plachty",
+  "kod": 1667
+ },
+ {
+  "nazov": "Plzenská",
+  "kod": 1802
+ },
+ {
+  "nazov": "Pod Hrádkom",
+  "kod": 3734
+ },
+ {
+  "nazov": "Pod Kalváriou",
+  "kod": 1733
+ },
+ {
+  "nazov": "Pod Kamennou baňou",
+  "kod": 1702
+ },
+ {
+  "nazov": "Pod Skalkou",
+  "kod": 1607
+ },
+ {
+  "nazov": "Pod Táborom",
+  "kod": 1638
+ },
+ {
+  "nazov": "Pod Wilecovou hôrkou",
+  "kod": 1772
+ },
+ {
+  "nazov": "Pod Šalgovíkom",
+  "kod": 1613
+ },
+ {
+  "nazov": "Pod Šibeňou",
+  "kod": 1662
+ },
+ {
+  "nazov": "Podhradík",
+  "kod": 4626
+ },
+ {
+  "nazov": "Podhradík, Nižný koniec",
+  "kod": 4624
+ },
+ {
+  "nazov": "Poliklinika",
+  "kod": 1603
+ },
+ {
+  "nazov": "Potočná",
+  "kod": 3735
+ },
+ {
+  "nazov": "Pred Surdokom",
+  "kod": 1783
+ },
+ {
+  "nazov": "Prešovská univerzita",
+  "kod": 3546
+ },
+ {
+  "nazov": "Pri kaplnke",
+  "kod": 1771
+ },
+ {
+  "nazov": "Priemyselné centrum",
+  "kod": 1601
+ },
+ {
+  "nazov": "Prostějovská",
+  "kod": 1565
+ },
+ {
+  "nazov": "Ruská Nová Ves",
+  "kod": 1753
+ },
+ {
+  "nazov": "Ruská Nová Ves, Hulica",
+  "kod": 1752
+ },
+ {
+  "nazov": "Ruská Nová Ves, Na Záhumní",
+  "kod": 1751
+ },
+ {
+  "nazov": "Ruská Nová Ves, Pri zámočku",
+  "kod": 1750
+ },
+ {
+  "nazov": "Rusínska",
+  "kod": 1762
+ },
+ {
+  "nazov": "Rybníčky",
+  "kod": 1664
+ },
+ {
+  "nazov": "Rázcestie Cemjata",
+  "kod": 1676
+ },
+ {
+  "nazov": "Rázcestie Kúty",
+  "kod": 1587
+ },
+ {
+  "nazov": "Rázcestie Rúrky",
+  "kod": 1691
+ },
+ {
+  "nazov": "Rázcestie Šidlovec",
+  "kod": 1606
+ },
+ {
+  "nazov": "Sabinovská, futbal aréna",
+  "kod": 1570
+ },
+ {
+  "nazov": "Sekčovská",
+  "kod": 1709
+ },
+ {
+  "nazov": "Sibírska",
+  "kod": 1623
+ },
+ {
+  "nazov": "Slanská",
+  "kod": 1757
+ },
+ {
+  "nazov": "Sládkovičova",
+  "kod": 1652
+ },
+ {
+  "nazov": "Slávik",
+  "kod": 1768
+ },
+ {
+  "nazov": "Slávičia",
+  "kod": 1767
+ },
+ {
+  "nazov": "Solivar",
+  "kod": 1592
+ },
+ {
+  "nazov": "Solivarská",
+  "kod": 1589
+ },
+ {
+  "nazov": "Soľnobanská",
+  "kod": 1748
+ },
+ {
+  "nazov": "SOŠ lesnícka",
+  "kod": 3695
+ },
+ {
+  "nazov": "Spinea - Záturecká",
+  "kod": 1806
+ },
+ {
+  "nazov": "Stavbárska",
+  "kod": 1699
+ },
+ {
+  "nazov": "Strojnícka",
+  "kod": 1620
+ },
+ {
+  "nazov": "Surdok",
+  "kod": 1668
+ },
+ {
+  "nazov": "Suvorovova",
+  "kod": 1764
+ },
+ {
+  "nazov": "Sázavského",
+  "kod": 1626
+ },
+ {
+  "nazov": "Sídlisko III",
+  "kod": 1564
+ },
+ {
+  "nazov": "Súľovská",
+  "kod": 1786
+ },
+ {
+  "nazov": "Terchovská",
+  "kod": 1785
+ },
+ {
+  "nazov": "Teriakovce",
+  "kod": 1756
+ },
+ {
+  "nazov": "Teriakovce, Na Kruhu",
+  "kod": 1781
+ },
+ {
+  "nazov": "Teriakovce, OÚ Teriakovce",
+  "kod": 1755
+ },
+ {
+  "nazov": "Teriakovce, Priečne",
+  "kod": 3739
+ },
+ {
+  "nazov": "Teriakovce, Rázcestie Teriakovce",
+  "kod": 1754
+ },
+ {
+  "nazov": "Trojica",
+  "kod": 1571
+ },
+ {
+  "nazov": "Vajanského",
+  "kod": 1657
+ },
+ {
+  "nazov": "Valkovská",
+  "kod": 3696
+ },
+ {
+  "nazov": "Vansovej",
+  "kod": 1614
+ },
+ {
+  "nazov": "Veterinárna nemocnica",
+  "kod": 1769
+ },
+ {
+  "nazov": "Veľká pošta",
+  "kod": 1573
+ },
+ {
+  "nazov": "Veľký Šariš",
+  "kod": 1644
+ },
+ {
+  "nazov": "Veľký Šariš, Medulienka",
+  "kod": 1641
+ },
+ {
+  "nazov": "Veľký Šariš, Námestie sv. Jakuba",
+  "kod": 1642
+ },
+ {
+  "nazov": "Veľký Šariš, Pivovar",
+  "kod": 1639
+ },
+ {
+  "nazov": "Veľký Šariš, Rázcestie Kanaš",
+  "kod": 3559
+ },
+ {
+  "nazov": "Veľký Šariš, Staničná",
+  "kod": 3558
+ },
+ {
+  "nazov": "Veľký Šariš, Tulčícka",
+  "kod": 1669
+ },
+ {
+  "nazov": "Veľký Šariš, Varoš",
+  "kod": 1643
+ },
+ {
+  "nazov": "Veľký Šariš, ZŠ Veľký Šariš",
+  "kod": 1782
+ },
+ {
+  "nazov": "Veľký Šariš, Šariš park",
+  "kod": 1779
+ },
+ {
+  "nazov": "Vodná",
+  "kod": 3736
+ },
+ {
+  "nazov": "Vodárenská",
+  "kod": 1788
+ },
+ {
+  "nazov": "Volgogradská",
+  "kod": 1617
+ },
+ {
+  "nazov": "Vranovská",
+  "kod": 1584
+ },
+ {
+  "nazov": "VUKOV",
+  "kod": 1567
+ },
+ {
+  "nazov": "Vydumanec",
+  "kod": 1736
+ },
+ {
+  "nazov": "Vyšná Šebastová",
+  "kod": 4388
+ },
+ {
+  "nazov": "Vyšná Šebastová, Briežky",
+  "kod": 4386
+ },
+ {
+  "nazov": "Vyšná Šebastová, Gbolovky",
+  "kod": 4387
+ },
+ {
+  "nazov": "Vyšná Šebastová, Kamence",
+  "kod": 1792
+ },
+ {
+  "nazov": "Vyšná Šebastová, Kapanoš",
+  "kod": 1797
+ },
+ {
+  "nazov": "Vyšná Šebastová, OcÚ Vyšná Šebastová",
+  "kod": 1794
+ },
+ {
+  "nazov": "Vyšná Šebastová, Pod Maglovcom",
+  "kod": 1795
+ },
+ {
+  "nazov": "Vyšná Šebastová, Rázcestie Vyšná Šebastová",
+  "kod": 1793
+ },
+ {
+  "nazov": "Vyšná Šebastová, Severná",
+  "kod": 1799
+ },
+ {
+  "nazov": "Vyšná Šebastová, Severná, kostol",
+  "kod": 2860
+ },
+ {
+  "nazov": "Vyšná Šebastová, Športový areál",
+  "kod": 1796
+ },
+ {
+  "nazov": "Vyšné lúky",
+  "kod": 1766
+ },
+ {
+  "nazov": "Wilecova hôrka",
+  "kod": 1773
+ },
+ {
+  "nazov": "Za Kalváriou",
+  "kod": 1706
+ },
+ {
+  "nazov": "Za Kútami",
+  "kod": 1666
+ },
+ {
+  "nazov": "Za traťou",
+  "kod": 3551
+ },
+ {
+  "nazov": "Zabíjaná",
+  "kod": 1738
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 1734
+ },
+ {
+  "nazov": "Zlatobanská",
+  "kod": 1761
+ },
+ {
+  "nazov": "ZVL",
+  "kod": 1688
+ },
+ {
+  "nazov": "Záborské",
+  "kod": 1719
+ },
+ {
+  "nazov": "Záborské, Rázcestie Záborské",
+  "kod": 1721
+ },
+ {
+  "nazov": "Záborské, Záborské - stred",
+  "kod": 1720
+ },
+ {
+  "nazov": "Záhradky",
+  "kod": 1749
+ },
+ {
+  "nazov": "Záhradkárska osada",
+  "kod": 1704
+ },
+ {
+  "nazov": "ZŠ Prostějovská",
+  "kod": 3737
+ },
+ {
+  "nazov": "ZŠ Ľubotice",
+  "kod": 3556
+ },
+ {
+  "nazov": "Čertov kameň",
+  "kod": 1741
+ },
+ {
+  "nazov": "Čierny most",
+  "kod": 1574
+ },
+ {
+  "nazov": "Čistička",
+  "kod": 1692
+ },
+ {
+  "nazov": "Ľubochnianska",
+  "kod": 1619
+ },
+ {
+  "nazov": "Ľubotice",
+  "kod": 1715
+ },
+ {
+  "nazov": "Ľubotice, Bardejovská",
+  "kod": 1765
+ },
+ {
+  "nazov": "Ľubotice, Domašská",
+  "kod": 1713
+ },
+ {
+  "nazov": "Ľubotice, Hinrichs",
+  "kod": 1800
+ },
+ {
+  "nazov": "Ľubotice, Jána Kostru",
+  "kod": 1718
+ },
+ {
+  "nazov": "Ľubotice, Kalinčiakova",
+  "kod": 1714
+ },
+ {
+  "nazov": "Ľubotice, Korabinského",
+  "kod": 1717
+ },
+ {
+  "nazov": "Ľubotice, Nižnianska",
+  "kod": 1746
+ },
+ {
+  "nazov": "Ľubotice, Pod nadjazdom",
+  "kod": 1598
+ },
+ {
+  "nazov": "Ľubotice, Strážnická",
+  "kod": 1712
+ },
+ {
+  "nazov": "Ľubotice, Šalgovícka",
+  "kod": 1716
+ },
+ {
+  "nazov": "Šafárikova, cintorín",
+  "kod": 3547
+ },
+ {
+  "nazov": "Šalgovia",
+  "kod": 3738
+ },
+ {
+  "nazov": "Šalgovík",
+  "kod": 1708
+ },
+ {
+  "nazov": "Šarišské Lúky",
+  "kod": 3544
+ },
+ {
+  "nazov": "Šebastovská",
+  "kod": 1711
+ },
+ {
+  "nazov": "Šidlovec",
+  "kod": 1698
+ },
+ {
+  "nazov": "Šidlovská",
+  "kod": 1790
+ },
+ {
+  "nazov": "Širpo",
+  "kod": 1622
+ },
+ {
+  "nazov": "Školské lesy",
+  "kod": 1739
+ },
+ {
+  "nazov": "Škultétyho",
+  "kod": 1609
+ },
+ {
+  "nazov": "Škára",
+  "kod": 1776
+ },
+ {
+  "nazov": "Štúrova",
+  "kod": 1602
+ },
+ {
+  "nazov": "Švábska",
+  "kod": 1579
+ },
+ {
+  "nazov": "Železničná stanica",
+  "kod": 1575
+ }
+]

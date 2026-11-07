@@ -1,0 +1,4854 @@
+[
+ {
+  "nazov": "*",
+  "kod": 7778
+ },
+ {
+  "nazov": "29. augusta",
+  "kod": 401
+ },
+ {
+  "nazov": "8. mája",
+  "kod": 402
+ },
+ {
+  "nazov": "Agátová",
+  "kod": 4705
+ },
+ {
+  "nazov": "Alejová",
+  "kod": 4072
+ },
+ {
+  "nazov": "Alexyho",
+  "kod": 1
+ },
+ {
+  "nazov": "Americké nám.",
+  "kod": 2
+ },
+ {
+  "nazov": "Antolská",
+  "kod": 468
+ },
+ {
+  "nazov": "Areál vod. športov",
+  "kod": 487
+ },
+ {
+  "nazov": "Arménska",
+  "kod": 567
+ },
+ {
+  "nazov": "Astronomická",
+  "kod": 5
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 4
+ },
+ {
+  "nazov": "Avion Shop. Park",
+  "kod": 475
+ },
+ {
+  "nazov": "Avion, IKEA",
+  "kod": 259
+ },
+ {
+  "nazov": "Bajkalská",
+  "kod": 6
+ },
+ {
+  "nazov": "Bakošova",
+  "kod": 7
+ },
+ {
+  "nazov": "Barónka",
+  "kod": 9
+ },
+ {
+  "nazov": "Bedľová",
+  "kod": 536
+ },
+ {
+  "nazov": "Berg bei Wolfsthal, Hauptstraße",
+  "kod": 5321
+ },
+ {
+  "nazov": "Berg bei Wolfsthal, Volksschule",
+  "kod": 5322
+ },
+ {
+  "nazov": "Bernolákovo, Dukelská",
+  "kod": 2909
+ },
+ {
+  "nazov": "Bernolákovo, Gaštanová alej",
+  "kod": 2910
+ },
+ {
+  "nazov": "Bernolákovo, Hlavná",
+  "kod": 2912
+ },
+ {
+  "nazov": "Bernolákovo, Lúčna",
+  "kod": 2917
+ },
+ {
+  "nazov": "Bernolákovo, Moravská",
+  "kod": 4393
+ },
+ {
+  "nazov": "Bernolákovo, Okružná",
+  "kod": 4394
+ },
+ {
+  "nazov": "Bernolákovo, Osiková",
+  "kod": 4395
+ },
+ {
+  "nazov": "Bernolákovo, Sacky",
+  "kod": 2914
+ },
+ {
+  "nazov": "Bernolákovo, Záhrad. osada",
+  "kod": 2918
+ },
+ {
+  "nazov": "Bernolákovo, Školská",
+  "kod": 2915
+ },
+ {
+  "nazov": "Bernolákovo, Žel. stanica",
+  "kod": 3648
+ },
+ {
+  "nazov": "Betliarska",
+  "kod": 525
+ },
+ {
+  "nazov": "Bezenye",
+  "kod": 4569
+ },
+ {
+  "nazov": "Bilíkova",
+  "kod": 12
+ },
+ {
+  "nazov": "Blatné, Bratislavská",
+  "kod": 2921
+ },
+ {
+  "nazov": "Blatné, M. R. Štefánika",
+  "kod": 2925
+ },
+ {
+  "nazov": "Blatné, Vodná nádrž",
+  "kod": 2922
+ },
+ {
+  "nazov": "Blatné, Šenkvická",
+  "kod": 2924
+ },
+ {
+  "nazov": "Blatné, Škola",
+  "kod": 2923
+ },
+ {
+  "nazov": "Blumentál",
+  "kod": 69
+ },
+ {
+  "nazov": "Bodrocká",
+  "kod": 14
+ },
+ {
+  "nazov": "Bodvianska",
+  "kod": 3729
+ },
+ {
+  "nazov": "Bodza",
+  "kod": 3649
+ },
+ {
+  "nazov": "Bojnická",
+  "kod": 15
+ },
+ {
+  "nazov": "Boldog",
+  "kod": 2926
+ },
+ {
+  "nazov": "Borinka, Obecný úrad",
+  "kod": 2928
+ },
+ {
+  "nazov": "Borinka, Pracháreň",
+  "kod": 2927
+ },
+ {
+  "nazov": "Borinka, Pri kapličke",
+  "kod": 4635
+ },
+ {
+  "nazov": "Borinka, Píla",
+  "kod": 2929
+ },
+ {
+  "nazov": "Borinka, Staré pece",
+  "kod": 2930
+ },
+ {
+  "nazov": "Borská",
+  "kod": 16
+ },
+ {
+  "nazov": "Borský Svätý Jur, Kostol",
+  "kod": 2931
+ },
+ {
+  "nazov": "Borský Svätý Jur, Pošta",
+  "kod": 2934
+ },
+ {
+  "nazov": "Borský Svätý Jur, Tomky",
+  "kod": 2932
+ },
+ {
+  "nazov": "Borský Svätý Jur, Vodná nádrž",
+  "kod": 2933
+ },
+ {
+  "nazov": "Borský Svätý Jur, Škola",
+  "kod": 2935
+ },
+ {
+  "nazov": "Bosákova",
+  "kod": 17
+ },
+ {
+  "nazov": "Botanická záhrada",
+  "kod": 18
+ },
+ {
+  "nazov": "Bradáčova",
+  "kod": 19
+ },
+ {
+  "nazov": "Bratislava predmestie",
+  "kod": 3687
+ },
+ {
+  "nazov": "Bratislava-Rača",
+  "kod": 3650
+ },
+ {
+  "nazov": "Bratislava-Železná studienka",
+  "kod": 3528
+ },
+ {
+  "nazov": "Bratislavská",
+  "kod": 398
+ },
+ {
+  "nazov": "Bratská",
+  "kod": 142
+ },
+ {
+  "nazov": "Briežky",
+  "kod": 504
+ },
+ {
+  "nazov": "Brodná",
+  "kod": 20
+ },
+ {
+  "nazov": "Bruck/Leitha",
+  "kod": 4449
+ },
+ {
+  "nazov": "Bubnovka",
+  "kod": 514
+ },
+ {
+  "nazov": "Budatínska",
+  "kod": 21
+ },
+ {
+  "nazov": "Budmerice, Biely vŕšok",
+  "kod": 2961
+ },
+ {
+  "nazov": "Budmerice, Družstvo",
+  "kod": 2965
+ },
+ {
+  "nazov": "Budmerice, Námestie",
+  "kod": 2962
+ },
+ {
+  "nazov": "Budmerice, Podhájska",
+  "kod": 2963
+ },
+ {
+  "nazov": "Budmerice, Potraviny",
+  "kod": 2964
+ },
+ {
+  "nazov": "Budmerice, Silnica",
+  "kod": 2966
+ },
+ {
+  "nazov": "Bukovinská",
+  "kod": 22
+ },
+ {
+  "nazov": "Bukva",
+  "kod": 165
+ },
+ {
+  "nazov": "Bulharská",
+  "kod": 23
+ },
+ {
+  "nazov": "Bulíkova",
+  "kod": 24
+ },
+ {
+  "nazov": "Buzalkova",
+  "kod": 5295
+ },
+ {
+  "nazov": "Bystrická",
+  "kod": 25
+ },
+ {
+  "nazov": "Bystrické sady",
+  "kod": 561
+ },
+ {
+  "nazov": "Bzovícka",
+  "kod": 26
+ },
+ {
+  "nazov": "Báhoň, Starý cintorín",
+  "kod": 2907
+ },
+ {
+  "nazov": "Báhoň, Škola",
+  "kod": 2908
+ },
+ {
+  "nazov": "Báhoň, Žel. stanica",
+  "kod": 2905
+ },
+ {
+  "nazov": "Bárdošova",
+  "kod": 8
+ },
+ {
+  "nazov": "Bílkove Humence, Kostol",
+  "kod": 2894
+ },
+ {
+  "nazov": "Búdková",
+  "kod": 60
+ },
+ {
+  "nazov": "Cabanova",
+  "kod": 548
+ },
+ {
+  "nazov": "Centrum",
+  "kod": 124
+ },
+ {
+  "nazov": "Cesta na Kamzík",
+  "kod": 499
+ },
+ {
+  "nazov": "Chatam Sófer",
+  "kod": 396
+ },
+ {
+  "nazov": "Chlumeckého",
+  "kod": 102
+ },
+ {
+  "nazov": "Chorvátsky Grob, Hornodvorská",
+  "kod": 2943
+ },
+ {
+  "nazov": "Chorvátsky Grob, Javorová alej",
+  "kod": 4491
+ },
+ {
+  "nazov": "Chorvátsky Grob, Lúčna",
+  "kod": 2948
+ },
+ {
+  "nazov": "Chorvátsky Grob, Monar",
+  "kod": 2944
+ },
+ {
+  "nazov": "Chorvátsky Grob, Na Pasienku",
+  "kod": 2945
+ },
+ {
+  "nazov": "Chorvátsky Grob, Námestie",
+  "kod": 2949
+ },
+ {
+  "nazov": "Chorvátsky Grob, Obchodná",
+  "kod": 4547
+ },
+ {
+  "nazov": "Chorvátsky Grob, Triangel",
+  "kod": 2946
+ },
+ {
+  "nazov": "Chorvátsky Grob, Vajnorská",
+  "kod": 2947
+ },
+ {
+  "nazov": "Chorvátsky Grob, Výhon",
+  "kod": 2950
+ },
+ {
+  "nazov": "Chorvátsky Grob, Čierna Voda",
+  "kod": 2942
+ },
+ {
+  "nazov": "Chorvátsky Grob, Školská",
+  "kod": 2941
+ },
+ {
+  "nazov": "Cintorín Petržalka",
+  "kod": 492
+ },
+ {
+  "nazov": "Cintorín Slávičie",
+  "kod": 324
+ },
+ {
+  "nazov": "Cintorín Vrakuňa",
+  "kod": 29
+ },
+ {
+  "nazov": "Clementisova",
+  "kod": 31
+ },
+ {
+  "nazov": "Cvernovka",
+  "kod": 250
+ },
+ {
+  "nazov": "Cyril a Metod",
+  "kod": 221
+ },
+ {
+  "nazov": "Cífer, Centrum",
+  "kod": 2951
+ },
+ {
+  "nazov": "Cífer, Kaplnská",
+  "kod": 2952
+ },
+ {
+  "nazov": "Cífer, Rázcestie Jarná",
+  "kod": 2957
+ },
+ {
+  "nazov": "Cífer, Trnavská",
+  "kod": 2954
+ },
+ {
+  "nazov": "Cífer, Štadiónová",
+  "kod": 2953
+ },
+ {
+  "nazov": "Cífer, Žel. stanica",
+  "kod": 2955
+ },
+ {
+  "nazov": "Danubiana",
+  "kod": 477
+ },
+ {
+  "nazov": "Dargovská",
+  "kod": 518
+ },
+ {
+  "nazov": "Depo Hroboňova",
+  "kod": 3
+ },
+ {
+  "nazov": "Depo Jurajov dvor",
+  "kod": 418
+ },
+ {
+  "nazov": "Depo Krasňany",
+  "kod": 419
+ },
+ {
+  "nazov": "Depo Petržalka",
+  "kod": 53
+ },
+ {
+  "nazov": "Depo Trnávka",
+  "kod": 3641
+ },
+ {
+  "nazov": "Detvianska",
+  "kod": 569
+ },
+ {
+  "nazov": "Deviaty mlyn",
+  "kod": 27
+ },
+ {
+  "nazov": "Devätinová",
+  "kod": 47
+ },
+ {
+  "nazov": "Devínske Jazero",
+  "kod": 3526
+ },
+ {
+  "nazov": "Dievčí hrádok",
+  "kod": 51
+ },
+ {
+  "nazov": "DK Ružinov",
+  "kod": 236
+ },
+ {
+  "nazov": "Dlhá",
+  "kod": 2895
+ },
+ {
+  "nazov": "Dlhá, Matildin dvor",
+  "kod": 2977
+ },
+ {
+  "nazov": "Dlhá, Prosnice",
+  "kod": 2978
+ },
+ {
+  "nazov": "Dlhé diely",
+  "kod": 155
+ },
+ {
+  "nazov": "Dolné koruny",
+  "kod": 427
+ },
+ {
+  "nazov": "Dolné Krčace",
+  "kod": 52
+ },
+ {
+  "nazov": "Dolné Orešany, Obec",
+  "kod": 2980
+ },
+ {
+  "nazov": "Dolné Orešany, Vinohrady",
+  "kod": 3751
+ },
+ {
+  "nazov": "Dolný Bar",
+  "kod": 3652
+ },
+ {
+  "nazov": "Dolný Štál",
+  "kod": 3653
+ },
+ {
+  "nazov": "Domkárska",
+  "kod": 55
+ },
+ {
+  "nazov": "Donovalova",
+  "kod": 485
+ },
+ {
+  "nazov": "Doľany",
+  "kod": 2896
+ },
+ {
+  "nazov": "Doľany, Kostol",
+  "kod": 2979
+ },
+ {
+  "nazov": "Drieňovské lúky",
+  "kod": 313
+ },
+ {
+  "nazov": "Drieňová",
+  "kod": 58
+ },
+ {
+  "nazov": "Drobného",
+  "kod": 59
+ },
+ {
+  "nazov": "Drozdová",
+  "kod": 3749
+ },
+ {
+  "nazov": "Dubová",
+  "kod": 61
+ },
+ {
+  "nazov": "Dubová, Kostol",
+  "kod": 2981
+ },
+ {
+  "nazov": "Dubová, Pri sv. Jánovi",
+  "kod": 2982
+ },
+ {
+  "nazov": "Dudvážska",
+  "kod": 62
+ },
+ {
+  "nazov": "Dulovo nám.",
+  "kod": 63
+ },
+ {
+  "nazov": "Dunajská",
+  "kod": 4073
+ },
+ {
+  "nazov": "Dunajská Lužná, Košariská",
+  "kod": 2983
+ },
+ {
+  "nazov": "Dunajská Lužná, Lipová",
+  "kod": 4492
+ },
+ {
+  "nazov": "Dunajská Lužná, Malinová",
+  "kod": 3645
+ },
+ {
+  "nazov": "Dunajská Lužná, Mariánska",
+  "kod": 2986
+ },
+ {
+  "nazov": "Dunajská Lužná, Nákup. centrum",
+  "kod": 5315
+ },
+ {
+  "nazov": "Dunajská Lužná, Orechová",
+  "kod": 2985
+ },
+ {
+  "nazov": "Dunajská Lužná, Stromová",
+  "kod": 2987
+ },
+ {
+  "nazov": "Dunajská Lužná, Zdrav. centrum",
+  "kod": 2984
+ },
+ {
+  "nazov": "Dunajská Lužná, Zvonica",
+  "kod": 2988
+ },
+ {
+  "nazov": "Dunajská Streda",
+  "kod": 3654
+ },
+ {
+  "nazov": "Dvojstudňové polia",
+  "kod": 442
+ },
+ {
+  "nazov": "Dvory",
+  "kod": 64
+ },
+ {
+  "nazov": "Dúbravská cesta",
+  "kod": 169
+ },
+ {
+  "nazov": "Dúbravčice",
+  "kod": 70
+ },
+ {
+  "nazov": "Edelstal, Hauptstraße",
+  "kod": 5327
+ },
+ {
+  "nazov": "Edelstal, Sportplatz",
+  "kod": 5328
+ },
+ {
+  "nazov": "Einsteinova",
+  "kod": 65
+ },
+ {
+  "nazov": "Ekonom. univerzita",
+  "kod": 66
+ },
+ {
+  "nazov": "Estónska",
+  "kod": 67
+ },
+ {
+  "nazov": "Fafruny",
+  "kod": 4515
+ },
+ {
+  "nazov": "Farmárska",
+  "kod": 4293
+ },
+ {
+  "nazov": "Farského",
+  "kod": 68
+ },
+ {
+  "nazov": "Gagarinova",
+  "kod": 71
+ },
+ {
+  "nazov": "Gajary, Gagarinova",
+  "kod": 2989
+ },
+ {
+  "nazov": "Gajary, Garáže",
+  "kod": 2991
+ },
+ {
+  "nazov": "Gajary, Kostol",
+  "kod": 2990
+ },
+ {
+  "nazov": "Gajary, Na Riadku",
+  "kod": 2992
+ },
+ {
+  "nazov": "Gajary, Nafta",
+  "kod": 2993
+ },
+ {
+  "nazov": "Gajary, Záhorácka",
+  "kod": 2994
+ },
+ {
+  "nazov": "Galanta",
+  "kod": 3655
+ },
+ {
+  "nazov": "Galvaniho",
+  "kod": 3573
+ },
+ {
+  "nazov": "Gattendorf",
+  "kod": 4446
+ },
+ {
+  "nazov": "Gaštanová aleja",
+  "kod": 369
+ },
+ {
+  "nazov": "Gercenova",
+  "kod": 520
+ },
+ {
+  "nazov": "Gerulata",
+  "kod": 309
+ },
+ {
+  "nazov": "Gessayova",
+  "kod": 4796
+ },
+ {
+  "nazov": "Gramatneusiedl",
+  "kod": 4443
+ },
+ {
+  "nazov": "Grófska niva",
+  "kod": 3720
+ },
+ {
+  "nazov": "Guothova",
+  "kod": 506
+ },
+ {
+  "nazov": "Gáň",
+  "kod": 3688
+ },
+ {
+  "nazov": "Götzendorf/Leitha",
+  "kod": 4568
+ },
+ {
+  "nazov": "Haburská",
+  "kod": 73
+ },
+ {
+  "nazov": "Habánsky mlyn",
+  "kod": 449
+ },
+ {
+  "nazov": "Hainburg/Donau, Bahnstrasse",
+  "kod": 591
+ },
+ {
+  "nazov": "Hainburg/Donau, Hauptplatz",
+  "kod": 590
+ },
+ {
+  "nazov": "Hainburg/Donau, Pfaffenbergweg",
+  "kod": 592
+ },
+ {
+  "nazov": "Hainburg/Donau, Pressburger Reichsstrasse",
+  "kod": 588
+ },
+ {
+  "nazov": "Hainburg/Donau, Ungartor/B9",
+  "kod": 589
+ },
+ {
+  "nazov": "Hainburg/Donau, Wiener Tor",
+  "kod": 593
+ },
+ {
+  "nazov": "Hamuliakovo, Centrum",
+  "kod": 2997
+ },
+ {
+  "nazov": "Hamuliakovo, Dunajská Riviéra",
+  "kod": 2996
+ },
+ {
+  "nazov": "Hamuliakovo, Pri píle",
+  "kod": 2998
+ },
+ {
+  "nazov": "Hamuliakovo, Stredný hon",
+  "kod": 2999
+ },
+ {
+  "nazov": "Hany Meličkovej",
+  "kod": 78
+ },
+ {
+  "nazov": "Hanácka",
+  "kod": 77
+ },
+ {
+  "nazov": "Harmincova",
+  "kod": 79
+ },
+ {
+  "nazov": "Havlíčkova",
+  "kod": 483
+ },
+ {
+  "nazov": "Hegyeshalom",
+  "kod": 4442
+ },
+ {
+  "nazov": "Herlianska",
+  "kod": 81
+ },
+ {
+  "nazov": "Hečkova",
+  "kod": 80
+ },
+ {
+  "nazov": "Himberg b. Wien",
+  "kod": 4567
+ },
+ {
+  "nazov": "Hlavná stanica",
+  "kod": 82
+ },
+ {
+  "nazov": "Hodonínska",
+  "kod": 235
+ },
+ {
+  "nazov": "Hodžovo nám.",
+  "kod": 83
+ },
+ {
+  "nazov": "Holíčska",
+  "kod": 84
+ },
+ {
+  "nazov": "Homolova",
+  "kod": 85
+ },
+ {
+  "nazov": "Horná Zlatná",
+  "kod": 3656
+ },
+ {
+  "nazov": "Horné Krčace",
+  "kod": 86
+ },
+ {
+  "nazov": "Horné Orešany, Most",
+  "kod": 3001
+ },
+ {
+  "nazov": "Horné Orešany, Potraviny",
+  "kod": 3002
+ },
+ {
+  "nazov": "Horné Orešany, Reštaurácia",
+  "kod": 3000
+ },
+ {
+  "nazov": "Horský park",
+  "kod": 87
+ },
+ {
+  "nazov": "Horáreň Krasňany",
+  "kod": 3714
+ },
+ {
+  "nazov": "Hospodárska",
+  "kod": 88
+ },
+ {
+  "nazov": "Hrachová",
+  "kod": 574
+ },
+ {
+  "nazov": "Hrad",
+  "kod": 89
+ },
+ {
+  "nazov": "Hrad Devín",
+  "kod": 48
+ },
+ {
+  "nazov": "Hradištná",
+  "kod": 90
+ },
+ {
+  "nazov": "Hraničná",
+  "kod": 91
+ },
+ {
+  "nazov": "Hrnčiarovce nad Parnou, Cíferská",
+  "kod": 3004
+ },
+ {
+  "nazov": "Hroboňova",
+  "kod": 93
+ },
+ {
+  "nazov": "Hrobákova",
+  "kod": 92
+ },
+ {
+  "nazov": "Hronská",
+  "kod": 94
+ },
+ {
+  "nazov": "Hrubá Borša, Golfová",
+  "kod": 3646
+ },
+ {
+  "nazov": "Hrubá Borša, Park",
+  "kod": 3005
+ },
+ {
+  "nazov": "Hrubé lúky",
+  "kod": 577
+ },
+ {
+  "nazov": "Hrubý Šúr, Ihrisko",
+  "kod": 3007
+ },
+ {
+  "nazov": "Hrubý Šúr, Rázcestie Bodoház",
+  "kod": 3006
+ },
+ {
+  "nazov": "Hrubý Šúr, Škola",
+  "kod": 3008
+ },
+ {
+  "nazov": "Hubeného",
+  "kod": 95
+ },
+ {
+  "nazov": "Hubice",
+  "kod": 2897
+ },
+ {
+  "nazov": "Hummelova",
+  "kod": 96
+ },
+ {
+  "nazov": "Hurbanova Ves",
+  "kod": 2898
+ },
+ {
+  "nazov": "Husova",
+  "kod": 97
+ },
+ {
+  "nazov": "Hybešova",
+  "kod": 98
+ },
+ {
+  "nazov": "Hydinárska",
+  "kod": 3433
+ },
+ {
+  "nazov": "Hájnická",
+  "kod": 533
+ },
+ {
+  "nazov": "Hájovňa",
+  "kod": 74
+ },
+ {
+  "nazov": "Hálkova",
+  "kod": 75
+ },
+ {
+  "nazov": "Hálova",
+  "kod": 76
+ },
+ {
+  "nazov": "Húščavova",
+  "kod": 348
+ },
+ {
+  "nazov": "Hýrošova",
+  "kod": 101
+ },
+ {
+  "nazov": "Igram, Cintorín",
+  "kod": 3010
+ },
+ {
+  "nazov": "Igram, Hlavná",
+  "kod": 3009
+ },
+ {
+  "nazov": "Ihrisková",
+  "kod": 103
+ },
+ {
+  "nazov": "Inovecká",
+  "kod": 105
+ },
+ {
+  "nazov": "Ivana Bukovčana",
+  "kod": 107
+ },
+ {
+  "nazov": "Ivanka pri Dunaji",
+  "kod": 3657
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Cintorín",
+  "kod": 3011
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Jazd. škola",
+  "kod": 3015
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Kaštieľ",
+  "kod": 3012
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Metro",
+  "kod": 3013
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Námestie",
+  "kod": 3014
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Palárikova",
+  "kod": 3018
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Senecká",
+  "kod": 2936
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Tesco",
+  "kod": 3016
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Záleská",
+  "kod": 3017
+ },
+ {
+  "nazov": "Ivanka pri Dunaji, Štefánikova",
+  "kod": 3019
+ },
+ {
+  "nazov": "Ivanská cesta",
+  "kod": 72
+ },
+ {
+  "nazov": "Jablonec, Družstvo",
+  "kod": 3021
+ },
+ {
+  "nazov": "Jablonec, Juh",
+  "kod": 2899
+ },
+ {
+  "nazov": "Jablonec, Obecný úrad",
+  "kod": 3020
+ },
+ {
+  "nazov": "Jablonec, Sušička",
+  "kod": 3022
+ },
+ {
+  "nazov": "Jablonové, Centrum",
+  "kod": 3024
+ },
+ {
+  "nazov": "Jablonové, Jablonovský potok",
+  "kod": 3023
+ },
+ {
+  "nazov": "Jablonové, Obecný úrad",
+  "kod": 3025
+ },
+ {
+  "nazov": "Jakubov, Hlavná",
+  "kod": 3030
+ },
+ {
+  "nazov": "Jakubov, Jakubovské námestie",
+  "kod": 3029
+ },
+ {
+  "nazov": "Jakubov, Školská",
+  "kod": 3028
+ },
+ {
+  "nazov": "Jakubov, Štrkovisko",
+  "kod": 3031
+ },
+ {
+  "nazov": "Janotova",
+  "kod": 110
+ },
+ {
+  "nazov": "Janíky, Dolné Janíky",
+  "kod": 3032
+ },
+ {
+  "nazov": "Janíky, Horné Janíky",
+  "kod": 3033
+ },
+ {
+  "nazov": "Jančova",
+  "kod": 109
+ },
+ {
+  "nazov": "Jarovce",
+  "kod": 111
+ },
+ {
+  "nazov": "Jarovce, záhrady",
+  "kod": 112
+ },
+ {
+  "nazov": "Jaskový rad",
+  "kod": 500
+ },
+ {
+  "nazov": "Jasovská",
+  "kod": 113
+ },
+ {
+  "nazov": "Jelačičova",
+  "kod": 114
+ },
+ {
+  "nazov": "Jelka, Dunajská",
+  "kod": 3037
+ },
+ {
+  "nazov": "Jelka, Hlavná",
+  "kod": 3036
+ },
+ {
+  "nazov": "Jelka, Kaštieľ",
+  "kod": 3038
+ },
+ {
+  "nazov": "Jelka, Slaná dolina",
+  "kod": 3040
+ },
+ {
+  "nazov": "Jelka, Vodáreň",
+  "kod": 3752
+ },
+ {
+  "nazov": "Jelka, Zdrav. stredisko",
+  "kod": 3041
+ },
+ {
+  "nazov": "Jelka, Škola",
+  "kod": 3039
+ },
+ {
+  "nazov": "Jesenského",
+  "kod": 116
+ },
+ {
+  "nazov": "Jeséniova",
+  "kod": 115
+ },
+ {
+  "nazov": "Jiráskova",
+  "kod": 117
+ },
+ {
+  "nazov": "Jungmannova",
+  "kod": 118
+ },
+ {
+  "nazov": "Jurajov dvor",
+  "kod": 119
+ },
+ {
+  "nazov": "Jurigovo nám.",
+  "kod": 120
+ },
+ {
+  "nazov": "Jurigrad",
+  "kod": 121
+ },
+ {
+  "nazov": "Južné mesto",
+  "kod": 4790
+ },
+ {
+  "nazov": "Jána Jonáša",
+  "kod": 321
+ },
+ {
+  "nazov": "Jána Jonáša, VW1",
+  "kod": 422
+ },
+ {
+  "nazov": "Jánovce, Juh",
+  "kod": 3034
+ },
+ {
+  "nazov": "Jánovce, Obecný úrad",
+  "kod": 3035
+ },
+ {
+  "nazov": "Jánske hony",
+  "kod": 100
+ },
+ {
+  "nazov": "Júlová",
+  "kod": 532
+ },
+ {
+  "nazov": "Júnová",
+  "kod": 498
+ },
+ {
+  "nazov": "K Zlatému rohu",
+  "kod": 151
+ },
+ {
+  "nazov": "Kadlečík",
+  "kod": 122
+ },
+ {
+  "nazov": "Kadnárova",
+  "kod": 123
+ },
+ {
+  "nazov": "Kalinkovo, Metloviská",
+  "kod": 5085
+ },
+ {
+  "nazov": "Kalinkovo, Nové Kalinkovo",
+  "kod": 3042
+ },
+ {
+  "nazov": "Kalinkovo, Námestie",
+  "kod": 3043
+ },
+ {
+  "nazov": "Kalné jazero",
+  "kod": 526
+ },
+ {
+  "nazov": "Kalvária",
+  "kod": 496
+ },
+ {
+  "nazov": "Kamenáče",
+  "kod": 269
+ },
+ {
+  "nazov": "Kameňolom",
+  "kod": 125
+ },
+ {
+  "nazov": "Kamzík",
+  "kod": 530
+ },
+ {
+  "nazov": "Kamzík, lanovka",
+  "kod": 4121
+ },
+ {
+  "nazov": "Kapitulský dvor",
+  "kod": 158
+ },
+ {
+  "nazov": "Kaplna, Bytovky",
+  "kod": 2900
+ },
+ {
+  "nazov": "Kaplna, Kostol",
+  "kod": 3044
+ },
+ {
+  "nazov": "Kaplna, Na majeri",
+  "kod": 3045
+ },
+ {
+  "nazov": "Kaplna, Obecný úrad",
+  "kod": 3046
+ },
+ {
+  "nazov": "Kaplna, U Šarmíra",
+  "kod": 3047
+ },
+ {
+  "nazov": "Kapucínska",
+  "kod": 126
+ },
+ {
+  "nazov": "Karadžičova",
+  "kod": 127
+ },
+ {
+  "nazov": "Karpatská",
+  "kod": 129
+ },
+ {
+  "nazov": "Karpatské nám.",
+  "kod": 542
+ },
+ {
+  "nazov": "Kaštieľ Rusovce",
+  "kod": 440
+ },
+ {
+  "nazov": "Kittsee",
+  "kod": 4436
+ },
+ {
+  "nazov": "Kittsee, Hauptplatz",
+  "kod": 5324
+ },
+ {
+  "nazov": "Kittsee, InterCity Park/K1",
+  "kod": 5325
+ },
+ {
+  "nazov": "Kittsee, InterCity Park/K2",
+  "kod": 5326
+ },
+ {
+  "nazov": "Kittsee, Schloss",
+  "kod": 5323
+ },
+ {
+  "nazov": "Klanec",
+  "kod": 132
+ },
+ {
+  "nazov": "Kledering b. Wien",
+  "kod": 4566
+ },
+ {
+  "nazov": "Klenová",
+  "kod": 133
+ },
+ {
+  "nazov": "Klepáč",
+  "kod": 134
+ },
+ {
+  "nazov": "Klientske centrum",
+  "kod": 104
+ },
+ {
+  "nazov": "Koliba",
+  "kod": 135
+ },
+ {
+  "nazov": "Koliba P+R",
+  "kod": 573
+ },
+ {
+  "nazov": "Kollárovo nám.",
+  "kod": 136
+ },
+ {
+  "nazov": "Kolmá",
+  "kod": 137
+ },
+ {
+  "nazov": "Komisárky",
+  "kod": 140
+ },
+ {
+  "nazov": "Komárno",
+  "kod": 3659
+ },
+ {
+  "nazov": "Komárno závody",
+  "kod": 3660
+ },
+ {
+  "nazov": "Komárovská",
+  "kod": 139
+ },
+ {
+  "nazov": "Koniarkova",
+  "kod": 141
+ },
+ {
+  "nazov": "Konopiská",
+  "kod": 3700
+ },
+ {
+  "nazov": "Kopčany, sídlisko",
+  "kod": 4397
+ },
+ {
+  "nazov": "Kopčianska",
+  "kod": 3757
+ },
+ {
+  "nazov": "Kopčianska, stred",
+  "kod": 438
+ },
+ {
+  "nazov": "Korytnická",
+  "kod": 143
+ },
+ {
+  "nazov": "Kostolište, Družstvo",
+  "kod": 3052
+ },
+ {
+  "nazov": "Kostolište, Kostol",
+  "kod": 3053
+ },
+ {
+  "nazov": "Kostolište, Križovatka",
+  "kod": 3050
+ },
+ {
+  "nazov": "Kostolište, Martina Benku",
+  "kod": 4671
+ },
+ {
+  "nazov": "Kostolná pri Dunaji",
+  "kod": 3054
+ },
+ {
+  "nazov": "Kostolná pri Dunaji, Malý Šúr",
+  "kod": 3055
+ },
+ {
+  "nazov": "Kovácsova",
+  "kod": 145
+ },
+ {
+  "nazov": "Kozia",
+  "kod": 146
+ },
+ {
+  "nazov": "Košická",
+  "kod": 144
+ },
+ {
+  "nazov": "Košolná, Družstvo",
+  "kod": 3049
+ },
+ {
+  "nazov": "Košolná, Kostol",
+  "kod": 3048
+ },
+ {
+  "nazov": "Krahulčia",
+  "kod": 242
+ },
+ {
+  "nazov": "Krasovského",
+  "kod": 4078
+ },
+ {
+  "nazov": "Kremnická",
+  "kod": 152
+ },
+ {
+  "nazov": "Križovany nad Dudváhom",
+  "kod": 3689
+ },
+ {
+  "nazov": "Krpáš",
+  "kod": 154
+ },
+ {
+  "nazov": "Krásna",
+  "kod": 148
+ },
+ {
+  "nazov": "Kráľovské údolie",
+  "kod": 251
+ },
+ {
+  "nazov": "Kráľová pri Senci, Bodoház",
+  "kod": 3056
+ },
+ {
+  "nazov": "Kráľová pri Senci, Kostol",
+  "kod": 3058
+ },
+ {
+  "nazov": "Kráľová pri Senci, Krmeš",
+  "kod": 3057
+ },
+ {
+  "nazov": "Kráľová pri Senci, Malý Krmeš",
+  "kod": 3061
+ },
+ {
+  "nazov": "Kráľová pri Senci, Výhon",
+  "kod": 3060
+ },
+ {
+  "nazov": "Krížna",
+  "kod": 153
+ },
+ {
+  "nazov": "Krížové polia",
+  "kod": 3574
+ },
+ {
+  "nazov": "Krče",
+  "kod": 149
+ },
+ {
+  "nazov": "Kubačova, NKD",
+  "kod": 412
+ },
+ {
+  "nazov": "Kuchajda",
+  "kod": 436
+ },
+ {
+  "nazov": "Kuchyňa, Horný dvor",
+  "kod": 3062
+ },
+ {
+  "nazov": "Kuchyňa, Kostol",
+  "kod": 3063
+ },
+ {
+  "nazov": "Kuchyňa, Letecká základňa",
+  "kod": 3065
+ },
+ {
+  "nazov": "Kuchyňa, Obecný úrad",
+  "kod": 3064
+ },
+ {
+  "nazov": "Kuchyňa, Rázcestie Vývrat",
+  "kod": 3066
+ },
+ {
+  "nazov": "Kuchyňa, Škola",
+  "kod": 3067
+ },
+ {
+  "nazov": "Kuklovská",
+  "kod": 522
+ },
+ {
+  "nazov": "Kukučínova",
+  "kod": 238
+ },
+ {
+  "nazov": "Kulháň",
+  "kod": 3703
+ },
+ {
+  "nazov": "Kulíškova",
+  "kod": 157
+ },
+ {
+  "nazov": "Kutlíkova",
+  "kod": 383
+ },
+ {
+  "nazov": "Kvačalova",
+  "kod": 159
+ },
+ {
+  "nazov": "Kvetoslavov zastávka",
+  "kod": 3534
+ },
+ {
+  "nazov": "Kvetoslavov, Pri kríži",
+  "kod": 3068
+ },
+ {
+  "nazov": "Kvetoslavov, Žel. stanica",
+  "kod": 3069
+ },
+ {
+  "nazov": "Kúpalisko Lamač",
+  "kod": 575
+ },
+ {
+  "nazov": "Kútiky",
+  "kod": 128
+ },
+ {
+  "nazov": "Kútniky",
+  "kod": 3661
+ },
+ {
+  "nazov": "Kúty",
+  "kod": 3662
+ },
+ {
+  "nazov": "Labutia",
+  "kod": 5310
+ },
+ {
+  "nazov": "Lachova",
+  "kod": 162
+ },
+ {
+  "nazov": "Lakšárska Nová Ves",
+  "kod": 3077
+ },
+ {
+  "nazov": "Lakšárska Nová Ves, Mikulášov",
+  "kod": 3074
+ },
+ {
+  "nazov": "Lakšárska Nová Ves, Šišuláky",
+  "kod": 3076
+ },
+ {
+  "nazov": "Lamač",
+  "kod": 163
+ },
+ {
+  "nazov": "Landererova",
+  "kod": 275
+ },
+ {
+  "nazov": "Lanfranconi",
+  "kod": 161
+ },
+ {
+  "nazov": "Lanovka",
+  "kod": 164
+ },
+ {
+  "nazov": "Lanzendorf-Rannersdorf",
+  "kod": 4565
+ },
+ {
+  "nazov": "Lehnice",
+  "kod": 3663
+ },
+ {
+  "nazov": "Leopoldov",
+  "kod": 3664
+ },
+ {
+  "nazov": "Lesná",
+  "kod": 4703
+ },
+ {
+  "nazov": "Lesopark",
+  "kod": 166
+ },
+ {
+  "nazov": "Letisko / Airport",
+  "kod": 167
+ },
+ {
+  "nazov": "Letisko, cargo",
+  "kod": 3575
+ },
+ {
+  "nazov": "Letové služby",
+  "kod": 3576
+ },
+ {
+  "nazov": "Lieskovec",
+  "kod": 168
+ },
+ {
+  "nazov": "Lieskovská cesta",
+  "kod": 10
+ },
+ {
+  "nazov": "Ligurčeková",
+  "kod": 4294
+ },
+ {
+  "nazov": "Limbach, Cintorín",
+  "kod": 3078
+ },
+ {
+  "nazov": "Limbach, Kruhový objazd",
+  "kod": 3079
+ },
+ {
+  "nazov": "Limbach, Mlynské pole",
+  "kod": 3080
+ },
+ {
+  "nazov": "Limbach, Slnečná",
+  "kod": 3081
+ },
+ {
+  "nazov": "Lipského",
+  "kod": 170
+ },
+ {
+  "nazov": "Lodenica",
+  "kod": 171
+ },
+ {
+  "nazov": "Lopenícka",
+  "kod": 174
+ },
+ {
+  "nazov": "Lovinského",
+  "kod": 175
+ },
+ {
+  "nazov": "Lozorno, Autopriemyselný park",
+  "kod": 3082
+ },
+ {
+  "nazov": "Lozorno, Karpatská",
+  "kod": 3083
+ },
+ {
+  "nazov": "Lozorno, Obecný úrad",
+  "kod": 3085
+ },
+ {
+  "nazov": "Lozorno, P3 Logistic Park",
+  "kod": 3084
+ },
+ {
+  "nazov": "Lozorno, Základná škola",
+  "kod": 3086
+ },
+ {
+  "nazov": "Láb, Cintorínska",
+  "kod": 3070
+ },
+ {
+  "nazov": "Láb, Kostol",
+  "kod": 3071
+ },
+ {
+  "nazov": "Láb, Námestie",
+  "kod": 3072
+ },
+ {
+  "nazov": "Láb, Vrbovec",
+  "kod": 3073
+ },
+ {
+  "nazov": "Líščie nivy",
+  "kod": 208
+ },
+ {
+  "nazov": "Lúky II",
+  "kod": 179
+ },
+ {
+  "nazov": "Lúky V",
+  "kod": 180
+ },
+ {
+  "nazov": "Lúčanka",
+  "kod": 177
+ },
+ {
+  "nazov": "Lúčna",
+  "kod": 178
+ },
+ {
+  "nazov": "Magnetová",
+  "kod": 182
+ },
+ {
+  "nazov": "Magurská",
+  "kod": 183
+ },
+ {
+  "nazov": "Majerská",
+  "kod": 184
+ },
+ {
+  "nazov": "Malacky, Centrum",
+  "kod": 3117
+ },
+ {
+  "nazov": "Malacky, Cesta mládeže",
+  "kod": 3088
+ },
+ {
+  "nazov": "Malacky, Družstevná",
+  "kod": 3090
+ },
+ {
+  "nazov": "Malacky, Džbánkareň",
+  "kod": 3091
+ },
+ {
+  "nazov": "Malacky, Gaštanová",
+  "kod": 5111
+ },
+ {
+  "nazov": "Malacky, Gymnázium",
+  "kod": 3093
+ },
+ {
+  "nazov": "Malacky, Hurbanova",
+  "kod": 3097
+ },
+ {
+  "nazov": "Malacky, Jánošíkova",
+  "kod": 3100
+ },
+ {
+  "nazov": "Malacky, Kompostáreň",
+  "kod": 3121
+ },
+ {
+  "nazov": "Malacky, Kozia",
+  "kod": 3101
+ },
+ {
+  "nazov": "Malacky, Lesná",
+  "kod": 3104
+ },
+ {
+  "nazov": "Malacky, Ludwiga Angerera",
+  "kod": 3105
+ },
+ {
+  "nazov": "Malacky, M. R. Štefánika",
+  "kod": 3107
+ },
+ {
+  "nazov": "Malacky, Na majeri",
+  "kod": 3103
+ },
+ {
+  "nazov": "Malacky, Nad výhonom",
+  "kod": 3115
+ },
+ {
+  "nazov": "Malacky, Nemocnica",
+  "kod": 3109
+ },
+ {
+  "nazov": "Malacky, Novomeského",
+  "kod": 3110
+ },
+ {
+  "nazov": "Malacky, Nový cintorín",
+  "kod": 3111
+ },
+ {
+  "nazov": "Malacky, Námestie SNP",
+  "kod": 3108
+ },
+ {
+  "nazov": "Malacky, Okresný súd",
+  "kod": 3112
+ },
+ {
+  "nazov": "Malacky, Okresný úrad",
+  "kod": 3113
+ },
+ {
+  "nazov": "Malacky, Oslobodenia",
+  "kod": 3129
+ },
+ {
+  "nazov": "Malacky, Pasienky",
+  "kod": 3132
+ },
+ {
+  "nazov": "Malacky, Pezinská",
+  "kod": 5112
+ },
+ {
+  "nazov": "Malacky, Polesie",
+  "kod": 3116
+ },
+ {
+  "nazov": "Malacky, Pri pekárni",
+  "kod": 3118
+ },
+ {
+  "nazov": "Malacky, Pribinova",
+  "kod": 3119
+ },
+ {
+  "nazov": "Malacky, Písniky",
+  "kod": 3114
+ },
+ {
+  "nazov": "Malacky, R. Dilonga",
+  "kod": 3130
+ },
+ {
+  "nazov": "Malacky, Rakárenská",
+  "kod": 3120
+ },
+ {
+  "nazov": "Malacky, Sasinkova",
+  "kod": 3122
+ },
+ {
+  "nazov": "Malacky, Starý cintorín",
+  "kod": 3125
+ },
+ {
+  "nazov": "Malacky, Stromová",
+  "kod": 5113
+ },
+ {
+  "nazov": "Malacky, Sídlisko Juh",
+  "kod": 3133
+ },
+ {
+  "nazov": "Malacky, Tesco",
+  "kod": 3127
+ },
+ {
+  "nazov": "Malacky, Vinohrádok",
+  "kod": 3131
+ },
+ {
+  "nazov": "Malacky, Zdravotné stredisko",
+  "kod": 3134
+ },
+ {
+  "nazov": "Malacky, Záhorácka",
+  "kod": 3123
+ },
+ {
+  "nazov": "Malacky, Záhradná",
+  "kod": 5114
+ },
+ {
+  "nazov": "Malacky, ZŠ Dr. J. Dérera",
+  "kod": 3106
+ },
+ {
+  "nazov": "Malacky, ZŠ Záhorácka",
+  "kod": 3089
+ },
+ {
+  "nazov": "Malacky, ZŠ Štúrova",
+  "kod": 3126
+ },
+ {
+  "nazov": "Malacky, Červený kríž",
+  "kod": 3094
+ },
+ {
+  "nazov": "Malacky, Štadión",
+  "kod": 3124
+ },
+ {
+  "nazov": "Malacky, Žel. stanica",
+  "kod": 3135
+ },
+ {
+  "nazov": "Malinovo, Bratislavská",
+  "kod": 3138
+ },
+ {
+  "nazov": "Malinovo, Ivanská",
+  "kod": 3139
+ },
+ {
+  "nazov": "Malinovo, Kaštieľ",
+  "kod": 3140
+ },
+ {
+  "nazov": "Malinovo, Tomášovská",
+  "kod": 3141
+ },
+ {
+  "nazov": "Malinovo, Tri vody",
+  "kod": 3142
+ },
+ {
+  "nazov": "Malokrasňanská",
+  "kod": 234
+ },
+ {
+  "nazov": "Malá Paka",
+  "kod": 3666
+ },
+ {
+  "nazov": "Malá scéna",
+  "kod": 185
+ },
+ {
+  "nazov": "Malé Leváre, Centrum",
+  "kod": 3137
+ },
+ {
+  "nazov": "Malé Leváre, Cintorín",
+  "kod": 3718
+ },
+ {
+  "nazov": "Malé Leváre, Dedina",
+  "kod": 3136
+ },
+ {
+  "nazov": "Malý Draždiak",
+  "kod": 333
+ },
+ {
+  "nazov": "Malý trh",
+  "kod": 203
+ },
+ {
+  "nazov": "Marchegg",
+  "kod": 4428
+ },
+ {
+  "nazov": "Marianka, Agátová",
+  "kod": 3144
+ },
+ {
+  "nazov": "Marianka, Námestie",
+  "kod": 3145
+ },
+ {
+  "nazov": "Marianka, Stupavská",
+  "kod": 3143
+ },
+ {
+  "nazov": "Mariánska",
+  "kod": 186
+ },
+ {
+  "nazov": "Mariánsky potok",
+  "kod": 2937
+ },
+ {
+  "nazov": "Markova",
+  "kod": 187
+ },
+ {
+  "nazov": "Martinský cintorín",
+  "kod": 188
+ },
+ {
+  "nazov": "Mateja Encingera",
+  "kod": 5108
+ },
+ {
+  "nazov": "Matejkova",
+  "kod": 189
+ },
+ {
+  "nazov": "Matúškova",
+  "kod": 501
+ },
+ {
+  "nazov": "Maximiliána Hella",
+  "kod": 191
+ },
+ {
+  "nazov": "Metrologický ústav",
+  "kod": 3711
+ },
+ {
+  "nazov": "Michal na Ostrove",
+  "kod": 3667
+ },
+ {
+  "nazov": "Micherov majer",
+  "kod": 195
+ },
+ {
+  "nazov": "Mierovo, Kostol",
+  "kod": 3146
+ },
+ {
+  "nazov": "Mierová",
+  "kod": 193
+ },
+ {
+  "nazov": "Mikulášov dvor",
+  "kod": 289
+ },
+ {
+  "nazov": "Milana Marečka",
+  "kod": 196
+ },
+ {
+  "nazov": "Miletičova",
+  "kod": 197
+ },
+ {
+  "nazov": "Miloslavov, Lipový park",
+  "kod": 3148
+ },
+ {
+  "nazov": "Miloslavov, Škola",
+  "kod": 3147
+ },
+ {
+  "nazov": "Miloslavov, Žel. stanica",
+  "kod": 3149
+ },
+ {
+  "nazov": "MiÚ Nové Mesto",
+  "kod": 190
+ },
+ {
+  "nazov": "MiÚ P. Biskupice",
+  "kod": 248
+ },
+ {
+  "nazov": "MiÚ Rača",
+  "kod": 298
+ },
+ {
+  "nazov": "MiÚ Ružinov",
+  "kod": 131
+ },
+ {
+  "nazov": "MiÚ Vajnory",
+  "kod": 406
+ },
+ {
+  "nazov": "MiÚ Vrakuňa",
+  "kod": 364
+ },
+ {
+  "nazov": "MiÚ Záh. Bystrica",
+  "kod": 512
+ },
+ {
+  "nazov": "MiÚ Čunovo",
+  "kod": 41
+ },
+ {
+  "nazov": "Mišíkova",
+  "kod": 484
+ },
+ {
+  "nazov": "Mladá garda",
+  "kod": 199
+ },
+ {
+  "nazov": "Mliekarenská",
+  "kod": 200
+ },
+ {
+  "nazov": "Mlynarovičova",
+  "kod": 201
+ },
+ {
+  "nazov": "Mlynská",
+  "kod": 202
+ },
+ {
+  "nazov": "Mláka",
+  "kod": 337
+ },
+ {
+  "nazov": "Modra, Badogy",
+  "kod": 3162
+ },
+ {
+  "nazov": "Modra, Dolná",
+  "kod": 3151
+ },
+ {
+  "nazov": "Modra, Dukelská",
+  "kod": 3156
+ },
+ {
+  "nazov": "Modra, Komárka",
+  "kod": 3164
+ },
+ {
+  "nazov": "Modra, Majolika",
+  "kod": 3155
+ },
+ {
+  "nazov": "Modra, Malé hliny",
+  "kod": 4381
+ },
+ {
+  "nazov": "Modra, Národná",
+  "kod": 3152
+ },
+ {
+  "nazov": "Modra, Okružná",
+  "kod": 3163
+ },
+ {
+  "nazov": "Modra, Partizánska",
+  "kod": 3153
+ },
+ {
+  "nazov": "Modra, Pod lipou",
+  "kod": 3150
+ },
+ {
+  "nazov": "Modra, Trnavská",
+  "kod": 3154
+ },
+ {
+  "nazov": "Modra, Zochova chata",
+  "kod": 3165
+ },
+ {
+  "nazov": "Modra, Široké",
+  "kod": 3160
+ },
+ {
+  "nazov": "Modra, Šnaudy",
+  "kod": 3161
+ },
+ {
+  "nazov": "Modra, Štefánikova",
+  "kod": 3157
+ },
+ {
+  "nazov": "Modra, Štúrova",
+  "kod": 3158
+ },
+ {
+  "nazov": "Modra, Šúrska",
+  "kod": 3159
+ },
+ {
+  "nazov": "Mokraď",
+  "kod": 56
+ },
+ {
+  "nazov": "Mokrohájska",
+  "kod": 204
+ },
+ {
+  "nazov": "Morava",
+  "kod": 317
+ },
+ {
+  "nazov": "Moravský Svätý Ján",
+  "kod": 3668
+ },
+ {
+  "nazov": "Moravský Svätý Ján, Husarisko",
+  "kod": 3166
+ },
+ {
+  "nazov": "Moravský Svätý Ján, Námestie",
+  "kod": 3167
+ },
+ {
+  "nazov": "Moravský Svätý Ján, Trajlinky",
+  "kod": 3168
+ },
+ {
+  "nazov": "Moravský Svätý Ján, U Habánov",
+  "kod": 3169
+ },
+ {
+  "nazov": "Most Apollo",
+  "kod": 494
+ },
+ {
+  "nazov": "Most pri Bratislave, Centrum",
+  "kod": 3173
+ },
+ {
+  "nazov": "Most pri Bratislave, Dunajská",
+  "kod": 3170
+ },
+ {
+  "nazov": "Most pri Bratislave, Krátka",
+  "kod": 3176
+ },
+ {
+  "nazov": "Most pri Bratislave, Kukučína",
+  "kod": 3174
+ },
+ {
+  "nazov": "Most pri Bratislave, Nálepkova",
+  "kod": 3172
+ },
+ {
+  "nazov": "Most pri Bratislave, Studené",
+  "kod": 3175
+ },
+ {
+  "nazov": "Most pri Bratislave, Technická",
+  "kod": 3171
+ },
+ {
+  "nazov": "Most SNP",
+  "kod": 233
+ },
+ {
+  "nazov": "Moyšova",
+  "kod": 549
+ },
+ {
+  "nazov": "Muchovo nám.",
+  "kod": 209
+ },
+ {
+  "nazov": "Muničné sklady",
+  "kod": 3713
+ },
+ {
+  "nazov": "Muštová",
+  "kod": 3512
+ },
+ {
+  "nazov": "MVE Mošoň",
+  "kod": 564
+ },
+ {
+  "nazov": "Na Grbe",
+  "kod": 210
+ },
+ {
+  "nazov": "Na hrebienku",
+  "kod": 519
+ },
+ {
+  "nazov": "Na križovatkách",
+  "kod": 341
+ },
+ {
+  "nazov": "Na pasekách",
+  "kod": 212
+ },
+ {
+  "nazov": "Na pántoch",
+  "kod": 192
+ },
+ {
+  "nazov": "Na pántoch, stred",
+  "kod": 245
+ },
+ {
+  "nazov": "Na pántoch, školy",
+  "kod": 244
+ },
+ {
+  "nazov": "Na Revíne",
+  "kod": 497
+ },
+ {
+  "nazov": "Na Sitine",
+  "kod": 535
+ },
+ {
+  "nazov": "Nad lúčkami",
+  "kod": 213
+ },
+ {
+  "nazov": "Nad vinicami",
+  "kod": 541
+ },
+ {
+  "nazov": "Napájiská",
+  "kod": 36
+ },
+ {
+  "nazov": "Nem. P. Biskupice",
+  "kod": 226
+ },
+ {
+  "nazov": "Nemocnica Antolská",
+  "kod": 225
+ },
+ {
+  "nazov": "Nemocnica Bory",
+  "kod": 4511
+ },
+ {
+  "nazov": "Nemocnica Kramáre",
+  "kod": 147
+ },
+ {
+  "nazov": "Nemocnica Ružinov",
+  "kod": 276
+ },
+ {
+  "nazov": "Nesto",
+  "kod": 3748
+ },
+ {
+  "nazov": "Neudorf b. Parndorf",
+  "kod": 4426
+ },
+ {
+  "nazov": "Nevädzová",
+  "kod": 227
+ },
+ {
+  "nazov": "Nobelova",
+  "kod": 228
+ },
+ {
+  "nazov": "Novohradská",
+  "kod": 230
+ },
+ {
+  "nazov": "Novoveská",
+  "kod": 231
+ },
+ {
+  "nazov": "Nová Dedinka, Jabloňová",
+  "kod": 3177
+ },
+ {
+  "nazov": "Nová Dedinka, Nová",
+  "kod": 3180
+ },
+ {
+  "nazov": "Nová Dedinka, Obecný úrad",
+  "kod": 3181
+ },
+ {
+  "nazov": "Nová Dedinka, Pri hati",
+  "kod": 3182
+ },
+ {
+  "nazov": "Nová Dedinka, Slnečná",
+  "kod": 3179
+ },
+ {
+  "nazov": "Nová Dedinka, Športová",
+  "kod": 3178
+ },
+ {
+  "nazov": "Nová doba",
+  "kod": 229
+ },
+ {
+  "nazov": "Nová Stráž",
+  "kod": 3669
+ },
+ {
+  "nazov": "Nové Košariská",
+  "kod": 3536
+ },
+ {
+  "nazov": "Nové SND",
+  "kod": 513
+ },
+ {
+  "nazov": "Nový kameňolom",
+  "kod": 232
+ },
+ {
+  "nazov": "Nový Svet",
+  "kod": 2902
+ },
+ {
+  "nazov": "Nový Život, Jazero",
+  "kod": 3185
+ },
+ {
+  "nazov": "Nový Život, Kostol",
+  "kod": 3186
+ },
+ {
+  "nazov": "Nový Život, Malé Tonkovce",
+  "kod": 3183
+ },
+ {
+  "nazov": "Nový Život, Materská škola",
+  "kod": 3187
+ },
+ {
+  "nazov": "Nový Život, Obecný úrad",
+  "kod": 3188
+ },
+ {
+  "nazov": "Nový Život, Tonkovce",
+  "kod": 5086
+ },
+ {
+  "nazov": "Nový Život, Vojtechovce",
+  "kod": 3184
+ },
+ {
+  "nazov": "Nákladný prístav",
+  "kod": 293
+ },
+ {
+  "nazov": "Nákupná",
+  "kod": 216
+ },
+ {
+  "nazov": "Nám. A. Hlinku",
+  "kod": 219
+ },
+ {
+  "nazov": "Nám. Biely kríž",
+  "kod": 217
+ },
+ {
+  "nazov": "Nám. hraničiarov",
+  "kod": 218
+ },
+ {
+  "nazov": "Nám. slobody",
+  "kod": 3643
+ },
+ {
+  "nazov": "Nám. sv. Františka",
+  "kod": 160
+ },
+ {
+  "nazov": "Nám. Ľ. Štúra",
+  "kod": 220
+ },
+ {
+  "nazov": "Nár. onkol. ústav",
+  "kod": 224
+ },
+ {
+  "nazov": "NÚSCH",
+  "kod": 358
+ },
+ {
+  "nazov": "OC Bory",
+  "kod": 559
+ },
+ {
+  "nazov": "OC Einsteinova",
+  "kod": 356
+ },
+ {
+  "nazov": "OC Lúky",
+  "kod": 214
+ },
+ {
+  "nazov": "OC Rača",
+  "kod": 571
+ },
+ {
+  "nazov": "OC Rožňavská",
+  "kod": 45
+ },
+ {
+  "nazov": "OC Slovnaftská",
+  "kod": 557
+ },
+ {
+  "nazov": "OC Stará Vajnorská",
+  "kod": 207
+ },
+ {
+  "nazov": "OC Vajnory",
+  "kod": 281
+ },
+ {
+  "nazov": "Odborárska",
+  "kod": 240
+ },
+ {
+  "nazov": "Okoličná na Ostrove",
+  "kod": 3671
+ },
+ {
+  "nazov": "Okoč",
+  "kod": 3670
+ },
+ {
+  "nazov": "Ondrejovova",
+  "kod": 241
+ },
+ {
+  "nazov": "Ondrejský cintorín",
+  "kod": 30
+ },
+ {
+  "nazov": "Opletalova, VW5",
+  "kod": 566
+ },
+ {
+  "nazov": "Orechová Potôň",
+  "kod": 3672
+ },
+ {
+  "nazov": "Osloboditeľská",
+  "kod": 243
+ },
+ {
+  "nazov": "Ovocná",
+  "kod": 316
+ },
+ {
+  "nazov": "Ovsište",
+  "kod": 246
+ },
+ {
+  "nazov": "Ovsištské nám.",
+  "kod": 247
+ },
+ {
+  "nazov": "Ovčiarska",
+  "kod": 4295
+ },
+ {
+  "nazov": "Oľdza, Rybník",
+  "kod": 3192
+ },
+ {
+  "nazov": "Pajštúnska",
+  "kod": 390
+ },
+ {
+  "nazov": "Pama",
+  "kod": 4424
+ },
+ {
+  "nazov": "Panoráma",
+  "kod": 537
+ },
+ {
+  "nazov": "Panské",
+  "kod": 353
+ },
+ {
+  "nazov": "Parndorf",
+  "kod": 4419
+ },
+ {
+  "nazov": "Parndorf Ort",
+  "kod": 4417
+ },
+ {
+  "nazov": "Partizánska lúka",
+  "kod": 555
+ },
+ {
+  "nazov": "Pastierska",
+  "kod": 253
+ },
+ {
+  "nazov": "Patrónka",
+  "kod": 254
+ },
+ {
+  "nazov": "Paulinské",
+  "kod": 476
+ },
+ {
+  "nazov": "Pažítková",
+  "kod": 255
+ },
+ {
+  "nazov": "PD P. Biskupice",
+  "kod": 268
+ },
+ {
+  "nazov": "Pekná cesta",
+  "kod": 257
+ },
+ {
+  "nazov": "Pekníkova",
+  "kod": 258
+ },
+ {
+  "nazov": "Pernek, Cesta na Babu",
+  "kod": 3194
+ },
+ {
+  "nazov": "Pernek, Hájovňa",
+  "kod": 3195
+ },
+ {
+  "nazov": "Pernek, Ihrisko",
+  "kod": 3193
+ },
+ {
+  "nazov": "Pernek, Obecný úrad",
+  "kod": 3196
+ },
+ {
+  "nazov": "Pernek, Žel. stanica",
+  "kod": 3197
+ },
+ {
+  "nazov": "Petőfiho",
+  "kod": 260
+ },
+ {
+  "nazov": "Pezinok, Amfiteáter",
+  "kod": 3201
+ },
+ {
+  "nazov": "Pezinok, Cintorín Cajla",
+  "kod": 3199
+ },
+ {
+  "nazov": "Pezinok, Dolina Stupy",
+  "kod": 3200
+ },
+ {
+  "nazov": "Pezinok, Dr. Bokesa",
+  "kod": 3198
+ },
+ {
+  "nazov": "Pezinok, Fabiánov mlyn",
+  "kod": 3219
+ },
+ {
+  "nazov": "Pezinok, Fándlyho",
+  "kod": 3220
+ },
+ {
+  "nazov": "Pezinok, Grinava",
+  "kod": 3205
+ },
+ {
+  "nazov": "Pezinok, Jesenského",
+  "kod": 3210
+ },
+ {
+  "nazov": "Pezinok, Kaufland",
+  "kod": 3211
+ },
+ {
+  "nazov": "Pezinok, L. Novomeského",
+  "kod": 3202
+ },
+ {
+  "nazov": "Pezinok, Limbašská",
+  "kod": 3206
+ },
+ {
+  "nazov": "Pezinok, Myslenická",
+  "kod": 3204
+ },
+ {
+  "nazov": "Pezinok, Nemocnica",
+  "kod": 3218
+ },
+ {
+  "nazov": "Pezinok, Pezinská Baba",
+  "kod": 3222
+ },
+ {
+  "nazov": "Pezinok, Radničné námestie",
+  "kod": 3217
+ },
+ {
+  "nazov": "Pezinok, Rudné bane",
+  "kod": 3225
+ },
+ {
+  "nazov": "Pezinok, Sedláčkov jarok",
+  "kod": 3221
+ },
+ {
+  "nazov": "Pezinok, Starý mlyn",
+  "kod": 3207
+ },
+ {
+  "nazov": "Pezinok, Suvorovova",
+  "kod": 3228
+ },
+ {
+  "nazov": "Pezinok, Sídlisko Juh",
+  "kod": 3230
+ },
+ {
+  "nazov": "Pezinok, Sídlisko Sever",
+  "kod": 3227
+ },
+ {
+  "nazov": "Pezinok, Talihov dvor",
+  "kod": 3229
+ },
+ {
+  "nazov": "Pezinok, Trhovisko",
+  "kod": 3213
+ },
+ {
+  "nazov": "Pezinok, Trnavská",
+  "kod": 3231
+ },
+ {
+  "nazov": "Pezinok, Zumberg",
+  "kod": 3223
+ },
+ {
+  "nazov": "Pezinok, ZŠ Kupeckého",
+  "kod": 3214
+ },
+ {
+  "nazov": "Pezinok, Šenkvická",
+  "kod": 3226
+ },
+ {
+  "nazov": "Pezinok, Žel. stanica",
+  "kod": 3233
+ },
+ {
+  "nazov": "Pezinok, Žel. stanica Grinava",
+  "kod": 3209
+ },
+ {
+  "nazov": "Pharos",
+  "kod": 562
+ },
+ {
+  "nazov": "Pieskový hon",
+  "kod": 510
+ },
+ {
+  "nazov": "Piesčiny",
+  "kod": 385
+ },
+ {
+  "nazov": "Pionierska",
+  "kod": 262
+ },
+ {
+  "nazov": "Planét",
+  "kod": 108
+ },
+ {
+  "nazov": "Plavecké Podhradie, Centrum",
+  "kod": 3239
+ },
+ {
+  "nazov": "Plavecké Podhradie, Družstvo",
+  "kod": 3240
+ },
+ {
+  "nazov": "Plavecké Podhradie, Kaštieľ",
+  "kod": 3238
+ },
+ {
+  "nazov": "Plavecké Podhradie, Pod hradom",
+  "kod": 3244
+ },
+ {
+  "nazov": "Plavecké Podhradie, Žel. st.",
+  "kod": 3241
+ },
+ {
+  "nazov": "Plavecký Mikuláš, Družstvo",
+  "kod": 3245
+ },
+ {
+  "nazov": "Plavecký Mikuláš, Nový dvor",
+  "kod": 3246
+ },
+ {
+  "nazov": "Plavecký Mikuláš, Námestie",
+  "kod": 3242
+ },
+ {
+  "nazov": "Plavecký Mikuláš, Obora",
+  "kod": 3243
+ },
+ {
+  "nazov": "Plavecký Peter, Kostol",
+  "kod": 3248
+ },
+ {
+  "nazov": "Plavecký Peter, Potok Hrudky",
+  "kod": 3247
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Budovy",
+  "kod": 3252
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Kamenný mlyn",
+  "kod": 3250
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Kostol",
+  "kod": 3251
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Kozánek",
+  "kod": 3249
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Log. centrum",
+  "kod": 4380
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Rázcestie",
+  "kod": 3253
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Vampil",
+  "kod": 3095
+ },
+ {
+  "nazov": "Plavecký Štvrtok, Žel. stanica",
+  "kod": 3254
+ },
+ {
+  "nazov": "Plniareň plynu",
+  "kod": 296
+ },
+ {
+  "nazov": "Plynárenská",
+  "kod": 263
+ },
+ {
+  "nazov": "Pod Dev. Kobylou",
+  "kod": 206
+ },
+ {
+  "nazov": "Pod gaštanmi",
+  "kod": 404
+ },
+ {
+  "nazov": "Pod Kráľovou horou",
+  "kod": 521
+ },
+ {
+  "nazov": "Pod násypom",
+  "kod": 264
+ },
+ {
+  "nazov": "Pod stanicou",
+  "kod": 274
+ },
+ {
+  "nazov": "Pod vŕškami",
+  "kod": 3750
+ },
+ {
+  "nazov": "Podháj",
+  "kod": 265
+ },
+ {
+  "nazov": "Podkerepušky",
+  "kod": 323
+ },
+ {
+  "nazov": "Podpriehradná",
+  "kod": 420
+ },
+ {
+  "nazov": "Podunajská",
+  "kod": 490
+ },
+ {
+  "nazov": "Podvornice",
+  "kod": 237
+ },
+ {
+  "nazov": "Podzáhradná",
+  "kod": 266
+ },
+ {
+  "nazov": "Polianky",
+  "kod": 267
+ },
+ {
+  "nazov": "Potočná",
+  "kod": 469
+ },
+ {
+  "nazov": "Povodie Dunaja",
+  "kod": 271
+ },
+ {
+  "nazov": "Povraznícka",
+  "kod": 272
+ },
+ {
+  "nazov": "Poštová",
+  "kod": 270
+ },
+ {
+  "nazov": "Pračanská",
+  "kod": 273
+ },
+ {
+  "nazov": "Prellenkirchen, Deutsch-Altenburger Straße",
+  "kod": 5330
+ },
+ {
+  "nazov": "Prellenkirchen, Ortsmitte",
+  "kod": 5329
+ },
+ {
+  "nazov": "Prezident. záhrada",
+  "kod": 222
+ },
+ {
+  "nazov": "Pri Hrubej lúke",
+  "kod": 558
+ },
+ {
+  "nazov": "Pri krematóriu",
+  "kod": 277
+ },
+ {
+  "nazov": "Pri kríži",
+  "kod": 278
+ },
+ {
+  "nazov": "Pri letisku",
+  "kod": 431
+ },
+ {
+  "nazov": "Pri mlyne",
+  "kod": 279
+ },
+ {
+  "nazov": "Pri nadjazde",
+  "kod": 3642
+ },
+ {
+  "nazov": "Pri podchode",
+  "kod": 280
+ },
+ {
+  "nazov": "Pri sade",
+  "kod": 4396
+ },
+ {
+  "nazov": "Pri Sandbergu",
+  "kod": 211
+ },
+ {
+  "nazov": "Pri strelnici",
+  "kod": 582
+ },
+ {
+  "nazov": "Pri zvonici",
+  "kod": 285
+ },
+ {
+  "nazov": "Pri záhradách",
+  "kod": 284
+ },
+ {
+  "nazov": "Pri Šajbách",
+  "kod": 441
+ },
+ {
+  "nazov": "Pribylinská",
+  "kod": 286
+ },
+ {
+  "nazov": "Pridánky",
+  "kod": 287
+ },
+ {
+  "nazov": "Priekopnícka",
+  "kod": 288
+ },
+ {
+  "nazov": "Prievoz, most",
+  "kod": 291
+ },
+ {
+  "nazov": "Prievozská",
+  "kod": 292
+ },
+ {
+  "nazov": "Prokofievova",
+  "kod": 471
+ },
+ {
+  "nazov": "Prokopa Veľkého",
+  "kod": 297
+ },
+ {
+  "nazov": "Prvosienková",
+  "kod": 480
+ },
+ {
+  "nazov": "Prístavná",
+  "kod": 294
+ },
+ {
+  "nazov": "Prístavný most",
+  "kod": 295
+ },
+ {
+  "nazov": "Pusté Úľany",
+  "kod": 3674
+ },
+ {
+  "nazov": "Pálenisko",
+  "kod": 138
+ },
+ {
+  "nazov": "Píla",
+  "kod": 261
+ },
+ {
+  "nazov": "Píla, Pod Červeným Kameňom",
+  "kod": 3234
+ },
+ {
+  "nazov": "Píla, Pri hámri",
+  "kod": 3235
+ },
+ {
+  "nazov": "Píla, Stará škola",
+  "kod": 3237
+ },
+ {
+  "nazov": "Píniová",
+  "kod": 2959
+ },
+ {
+  "nazov": "Púchovská",
+  "kod": 382
+ },
+ {
+  "nazov": "Radničné nám.",
+  "kod": 301
+ },
+ {
+  "nazov": "Radvanská",
+  "kod": 302
+ },
+ {
+  "nazov": "Rajka",
+  "kod": 3675
+ },
+ {
+  "nazov": "Rajka, Autóbuszforduló",
+  "kod": 516
+ },
+ {
+  "nazov": "Rajka, Benzinkút",
+  "kod": 546
+ },
+ {
+  "nazov": "Rajka, Fáskert utca",
+  "kod": 4994
+ },
+ {
+  "nazov": "Rajka, Takarékszövetkezet",
+  "kod": 4709
+ },
+ {
+  "nazov": "Rajka, Véradó park",
+  "kod": 547
+ },
+ {
+  "nazov": "Rajská",
+  "kod": 303
+ },
+ {
+  "nazov": "Rakyta",
+  "kod": 283
+ },
+ {
+  "nazov": "Račianske mýto",
+  "kod": 299
+ },
+ {
+  "nazov": "Reca",
+  "kod": 3676
+ },
+ {
+  "nazov": "Reca, Pošta",
+  "kod": 3257
+ },
+ {
+  "nazov": "Reca, Škola",
+  "kod": 3256
+ },
+ {
+  "nazov": "Regrútska",
+  "kod": 417
+ },
+ {
+  "nazov": "Riazanská",
+  "kod": 304
+ },
+ {
+  "nazov": "Riviéra",
+  "kod": 205
+ },
+ {
+  "nazov": "Rohožník, Hájovňa",
+  "kod": 3262
+ },
+ {
+  "nazov": "Rohožník, Pri moste",
+  "kod": 3264
+ },
+ {
+  "nazov": "Rohožník, Priehrada",
+  "kod": 3265
+ },
+ {
+  "nazov": "Rohožník, Rázcestie cementáreň",
+  "kod": 3260
+ },
+ {
+  "nazov": "Rohožník, Strelnica",
+  "kod": 3267
+ },
+ {
+  "nazov": "Rohožník, Sídlisko",
+  "kod": 3266
+ },
+ {
+  "nazov": "Rohožník, Tesco",
+  "kod": 3258
+ },
+ {
+  "nazov": "Romanova",
+  "kod": 307
+ },
+ {
+  "nazov": "Rostovská",
+  "kod": 565
+ },
+ {
+  "nazov": "Rovinka",
+  "kod": 3538
+ },
+ {
+  "nazov": "Rovinka, Broskyňová",
+  "kod": 4731
+ },
+ {
+  "nazov": "Rovinka, Kostol",
+  "kod": 3268
+ },
+ {
+  "nazov": "Rovinka, Majerská",
+  "kod": 3270
+ },
+ {
+  "nazov": "Rovinka, Obecný úrad",
+  "kod": 3269
+ },
+ {
+  "nazov": "Rozvodná",
+  "kod": 503
+ },
+ {
+  "nazov": "Roľnícka",
+  "kod": 405
+ },
+ {
+  "nazov": "Rudavská",
+  "kod": 560
+ },
+ {
+  "nazov": "Rudolfa Mocka",
+  "kod": 539
+ },
+ {
+  "nazov": "Rusovská cesta",
+  "kod": 310
+ },
+ {
+  "nazov": "Rušňové depo",
+  "kod": 173
+ },
+ {
+  "nazov": "Ružová dolina",
+  "kod": 312
+ },
+ {
+  "nazov": "Rybničná",
+  "kod": 11
+ },
+ {
+  "nazov": "Rádiová",
+  "kod": 300
+ },
+ {
+  "nazov": "Ráztočná",
+  "kod": 2960
+ },
+ {
+  "nazov": "Ríbezľová",
+  "kod": 305
+ },
+ {
+  "nazov": "Sabinovská",
+  "kod": 314
+ },
+ {
+  "nazov": "Sad Janka Kráľa",
+  "kod": 315
+ },
+ {
+  "nazov": "Saleziáni",
+  "kod": 430
+ },
+ {
+  "nazov": "Sarasdorf",
+  "kod": 4564
+ },
+ {
+  "nazov": "Schengenská",
+  "kod": 544
+ },
+ {
+  "nazov": "Schönfeld-Lassee",
+  "kod": 4416
+ },
+ {
+  "nazov": "Segnerova",
+  "kod": 320
+ },
+ {
+  "nazov": "Segnáre",
+  "kod": 319
+ },
+ {
+  "nazov": "Sekule, Kostol",
+  "kod": 3279
+ },
+ {
+  "nazov": "Sekule, Rázc. žel. stanica",
+  "kod": 3280
+ },
+ {
+  "nazov": "Senec, Aut. stanica",
+  "kod": 3281
+ },
+ {
+  "nazov": "Senec, Boldocká",
+  "kod": 3284
+ },
+ {
+  "nazov": "Senec, Bratislavská",
+  "kod": 3282
+ },
+ {
+  "nazov": "Senec, Gardens",
+  "kod": 3287
+ },
+ {
+  "nazov": "Senec, Goodman",
+  "kod": 3288
+ },
+ {
+  "nazov": "Senec, Gymnázium",
+  "kod": 3289
+ },
+ {
+  "nazov": "Senec, Horný dvor",
+  "kod": 3290
+ },
+ {
+  "nazov": "Senec, Logistické centrum",
+  "kod": 3292
+ },
+ {
+  "nazov": "Senec, Mlynský klin",
+  "kod": 3293
+ },
+ {
+  "nazov": "Senec, Nitrianska",
+  "kod": 3286
+ },
+ {
+  "nazov": "Senec, SNP",
+  "kod": 3297
+ },
+ {
+  "nazov": "Senec, Správa ciest",
+  "kod": 3295
+ },
+ {
+  "nazov": "Senec, Tehelná",
+  "kod": 3299
+ },
+ {
+  "nazov": "Senec, Vinohrady",
+  "kod": 3296
+ },
+ {
+  "nazov": "Senec, Šamorínska",
+  "kod": 3294
+ },
+ {
+  "nazov": "Senec, Žel. stanica",
+  "kod": 3301
+ },
+ {
+  "nazov": "Sereď",
+  "kod": 3690
+ },
+ {
+  "nazov": "Shopping Palace",
+  "kod": 308
+ },
+ {
+  "nazov": "Siebenbrunn-Leopoldsdorf",
+  "kod": 4415
+ },
+ {
+  "nazov": "Sihoť",
+  "kod": 414
+ },
+ {
+  "nazov": "Skerličova",
+  "kod": 460
+ },
+ {
+  "nazov": "Sklabinská",
+  "kod": 322
+ },
+ {
+  "nazov": "Slanec",
+  "kod": 3698
+ },
+ {
+  "nazov": "Slavín",
+  "kod": 482
+ },
+ {
+  "nazov": "Sliačska",
+  "kod": 326
+ },
+ {
+  "nazov": "Slov. nár. archív",
+  "kod": 327
+ },
+ {
+  "nazov": "Slovanské nábr.",
+  "kod": 49
+ },
+ {
+  "nazov": "Slovany",
+  "kod": 156
+ },
+ {
+  "nazov": "Slovenský Grob, Chorvátska",
+  "kod": 3310
+ },
+ {
+  "nazov": "Slovenský Grob, Dlhá",
+  "kod": 3312
+ },
+ {
+  "nazov": "Slovenský Grob, Hlavná",
+  "kod": 3314
+ },
+ {
+  "nazov": "Slovenský Grob, Malý Raj",
+  "kod": 3311
+ },
+ {
+  "nazov": "Slovenský Grob, Obecný úrad",
+  "kod": 3313
+ },
+ {
+  "nazov": "Slovenský Grob, Pezinská",
+  "kod": 3315
+ },
+ {
+  "nazov": "Slovenský Grob, Poštová",
+  "kod": 3316
+ },
+ {
+  "nazov": "Slovinská",
+  "kod": 328
+ },
+ {
+  "nazov": "Slovnaftská",
+  "kod": 331
+ },
+ {
+  "nazov": "Slowackého",
+  "kod": 332
+ },
+ {
+  "nazov": "Sládkovičovo",
+  "kod": 3678
+ },
+ {
+  "nazov": "Smolenická",
+  "kod": 334
+ },
+ {
+  "nazov": "Sokolská",
+  "kod": 335
+ },
+ {
+  "nazov": "Solivarská",
+  "kod": 336
+ },
+ {
+  "nazov": "Sološnica, Cementáreň",
+  "kod": 3263
+ },
+ {
+  "nazov": "Sološnica, Centrum",
+  "kod": 2903
+ },
+ {
+  "nazov": "Sološnica, Farma",
+  "kod": 3318
+ },
+ {
+  "nazov": "Sološnica, Pri kríži",
+  "kod": 3317
+ },
+ {
+  "nazov": "Sološnická",
+  "kod": 523
+ },
+ {
+  "nazov": "Spaľovňa",
+  "kod": 339
+ },
+ {
+  "nazov": "Spoločenská",
+  "kod": 340
+ },
+ {
+  "nazov": "Sprinzlov majer",
+  "kod": 367
+ },
+ {
+  "nazov": "Spádovisko I",
+  "kod": 527
+ },
+ {
+  "nazov": "Spádovisko II",
+  "kod": 528
+ },
+ {
+  "nazov": "Stachanovská",
+  "kod": 3719
+ },
+ {
+  "nazov": "Starohájska",
+  "kod": 343
+ },
+ {
+  "nazov": "Stará Vajnorská",
+  "kod": 444
+ },
+ {
+  "nazov": "Staré ihrisko",
+  "kod": 342
+ },
+ {
+  "nazov": "Staré letisko",
+  "kod": 457
+ },
+ {
+  "nazov": "Starý háj",
+  "kod": 57
+ },
+ {
+  "nazov": "Starý kameňolom",
+  "kod": 344
+ },
+ {
+  "nazov": "Stavbárska",
+  "kod": 345
+ },
+ {
+  "nazov": "Staviteľská",
+  "kod": 346
+ },
+ {
+  "nazov": "Stavivá",
+  "kod": 347
+ },
+ {
+  "nazov": "Stn. Dev. Nová Ves",
+  "kod": 459
+ },
+ {
+  "nazov": "Stn. Lamač",
+  "kod": 433
+ },
+ {
+  "nazov": "Stn. Nové Mesto",
+  "kod": 461
+ },
+ {
+  "nazov": "Stn. P. Biskupice",
+  "kod": 462
+ },
+ {
+  "nazov": "Stn. Petržalka",
+  "kod": 463
+ },
+ {
+  "nazov": "Stn. Rusovce",
+  "kod": 464
+ },
+ {
+  "nazov": "Stn. Vajnory",
+  "kod": 466
+ },
+ {
+  "nazov": "Stn. Vinohrady",
+  "kod": 467
+ },
+ {
+  "nazov": "Stn. Vrakuňa",
+  "kod": 35
+ },
+ {
+  "nazov": "Stn. ÚNS",
+  "kod": 465
+ },
+ {
+  "nazov": "Stolárska",
+  "kod": 349
+ },
+ {
+  "nazov": "Strelnica",
+  "kod": 351
+ },
+ {
+  "nazov": "Strmé vŕšky",
+  "kod": 338
+ },
+ {
+  "nazov": "Strojnícka",
+  "kod": 352
+ },
+ {
+  "nazov": "Stromová",
+  "kod": 354
+ },
+ {
+  "nazov": "STU",
+  "kod": 379
+ },
+ {
+  "nazov": "Studenohorská",
+  "kod": 355
+ },
+ {
+  "nazov": "Studená",
+  "kod": 410
+ },
+ {
+  "nazov": "Studená, zastávka",
+  "kod": 198
+ },
+ {
+  "nazov": "Studienka, Holbičky",
+  "kod": 3322
+ },
+ {
+  "nazov": "Studienka, Horný koniec",
+  "kod": 3323
+ },
+ {
+  "nazov": "Studienka, Kostol",
+  "kod": 3324
+ },
+ {
+  "nazov": "Studienka, Tančiboky",
+  "kod": 3325
+ },
+ {
+  "nazov": "Studienka, Vlčie jamy",
+  "kod": 3321
+ },
+ {
+  "nazov": "Stupava, Aut. stanica",
+  "kod": 3326
+ },
+ {
+  "nazov": "Stupava, Bočná",
+  "kod": 3332
+ },
+ {
+  "nazov": "Stupava, Centrum",
+  "kod": 3327
+ },
+ {
+  "nazov": "Stupava, Dlhá",
+  "kod": 4376
+ },
+ {
+  "nazov": "Stupava, Mlynská",
+  "kod": 4377
+ },
+ {
+  "nazov": "Stupava, Mást",
+  "kod": 3328
+ },
+ {
+  "nazov": "Stupava, Obora",
+  "kod": 3329
+ },
+ {
+  "nazov": "Stupava, Pod kopcami",
+  "kod": 3333
+ },
+ {
+  "nazov": "Stupava, Pri majeri",
+  "kod": 4378
+ },
+ {
+  "nazov": "Stupava, Rozvodňa",
+  "kod": 3335
+ },
+ {
+  "nazov": "Stupava, Rybárstvo",
+  "kod": 3330
+ },
+ {
+  "nazov": "Stupava, Vajanského",
+  "kod": 4379
+ },
+ {
+  "nazov": "Stupava, Škola",
+  "kod": 3334
+ },
+ {
+  "nazov": "Stupava, Štadión",
+  "kod": 3331
+ },
+ {
+  "nazov": "Suchohrad",
+  "kod": 3345
+ },
+ {
+  "nazov": "Suchohrad, Bytovky",
+  "kod": 3342
+ },
+ {
+  "nazov": "Suchohrad, Karlov dvor",
+  "kod": 3344
+ },
+ {
+  "nazov": "Suchá nad Parnou, Hoštáky",
+  "kod": 3339
+ },
+ {
+  "nazov": "Suchá nad Parnou, Kostol",
+  "kod": 3340
+ },
+ {
+  "nazov": "Suchá nad Parnou, Ružová dolina",
+  "kod": 3341
+ },
+ {
+  "nazov": "Suché mýto",
+  "kod": 4077
+ },
+ {
+  "nazov": "Suchý mlyn",
+  "kod": 282
+ },
+ {
+  "nazov": "Svoradova",
+  "kod": 252
+ },
+ {
+  "nazov": "Svätý Jur, Kačačnice",
+  "kod": 3347
+ },
+ {
+  "nazov": "Svätý Jur, Krajinská",
+  "kod": 3348
+ },
+ {
+  "nazov": "Svätý Jur, Logistické centrum",
+  "kod": 3350
+ },
+ {
+  "nazov": "Svätý Jur, Námestie",
+  "kod": 3349
+ },
+ {
+  "nazov": "Svätý Jur, Trenčanka",
+  "kod": 3352
+ },
+ {
+  "nazov": "Svätý Jur, Šúr",
+  "kod": 3351
+ },
+ {
+  "nazov": "Svätý Jur, Žel. stanica",
+  "kod": 3353
+ },
+ {
+  "nazov": "Syslia",
+  "kod": 470
+ },
+ {
+  "nazov": "Súbežná",
+  "kod": 479
+ },
+ {
+  "nazov": "Súhvezdná",
+  "kod": 311
+ },
+ {
+  "nazov": "Súmračná",
+  "kod": 357
+ },
+ {
+  "nazov": "T. P. Kolakoviča",
+  "kod": 556
+ },
+ {
+  "nazov": "Tbiliská",
+  "kod": 377
+ },
+ {
+  "nazov": "Technické sklo",
+  "kod": 381
+ },
+ {
+  "nazov": "Tehelná",
+  "kod": 378
+ },
+ {
+  "nazov": "Televízia",
+  "kod": 384
+ },
+ {
+  "nazov": "Tesco Lamač",
+  "kod": 489
+ },
+ {
+  "nazov": "Tománkova",
+  "kod": 388
+ },
+ {
+  "nazov": "Tomášikova",
+  "kod": 389
+ },
+ {
+  "nazov": "Tomášov, Centrum",
+  "kod": 3356
+ },
+ {
+  "nazov": "Tomášov, Doma",
+  "kod": 3354
+ },
+ {
+  "nazov": "Tomášov, Futbalové ihrisko",
+  "kod": 3359
+ },
+ {
+  "nazov": "Tomášov, Malý Dunaj",
+  "kod": 3357
+ },
+ {
+  "nazov": "Tomášov, Malý Madaras",
+  "kod": 3355
+ },
+ {
+  "nazov": "Tomášov, Osada",
+  "kod": 3358
+ },
+ {
+  "nazov": "Tomášov, Rázcestie Vlky",
+  "kod": 3405
+ },
+ {
+  "nazov": "Toryská",
+  "kod": 391
+ },
+ {
+  "nazov": "Tranovského",
+  "kod": 550
+ },
+ {
+  "nazov": "Trautmannsdorf an der Leitha",
+  "kod": 4563
+ },
+ {
+  "nazov": "Trenčianska",
+  "kod": 393
+ },
+ {
+  "nazov": "Trhovisko",
+  "kod": 495
+ },
+ {
+  "nazov": "Trnava, Aut. stanica",
+  "kod": 3360
+ },
+ {
+  "nazov": "Trnava, Dohnányho",
+  "kod": 2686
+ },
+ {
+  "nazov": "Trnava, G. Steinera",
+  "kod": 3361
+ },
+ {
+  "nazov": "Trnava, Orešianska",
+  "kod": 3363
+ },
+ {
+  "nazov": "Trnava, Strojárenská",
+  "kod": 2696
+ },
+ {
+  "nazov": "Trnava, Suchovská",
+  "kod": 3364
+ },
+ {
+  "nazov": "Trnava, Zelený kríčok",
+  "kod": 2692
+ },
+ {
+  "nazov": "Trnava, Žel. stanica",
+  "kod": 2685
+ },
+ {
+  "nazov": "Trnavská cesta",
+  "kod": 439
+ },
+ {
+  "nazov": "Trnavské mýto",
+  "kod": 394
+ },
+ {
+  "nazov": "Trojdomy",
+  "kod": 395
+ },
+ {
+  "nazov": "Tuhovská",
+  "kod": 509
+ },
+ {
+  "nazov": "Tupolevova",
+  "kod": 181
+ },
+ {
+  "nazov": "Tupého",
+  "kod": 397
+ },
+ {
+  "nazov": "Tureň, Obchod",
+  "kod": 3367
+ },
+ {
+  "nazov": "Tureň, Obecný úrad",
+  "kod": 3369
+ },
+ {
+  "nazov": "Tureň, Slanisko",
+  "kod": 3368
+ },
+ {
+  "nazov": "Tôňava",
+  "kod": 538
+ },
+ {
+  "nazov": "Uhliská",
+  "kod": 400
+ },
+ {
+  "nazov": "Uhrovecká",
+  "kod": 46
+ },
+ {
+  "nazov": "Ursínyho",
+  "kod": 403
+ },
+ {
+  "nazov": "Učiteľská",
+  "kod": 399
+ },
+ {
+  "nazov": "V. hrdlo, internát",
+  "kod": 106
+ },
+ {
+  "nazov": "V. hrdlo, záhrady",
+  "kod": 515
+ },
+ {
+  "nazov": "Vajnorská",
+  "kod": 517
+ },
+ {
+  "nazov": "Vajnorský nadjazd",
+  "kod": 215
+ },
+ {
+  "nazov": "Vajnorský potok",
+  "kod": 508
+ },
+ {
+  "nazov": "Vajnory",
+  "kod": 407
+ },
+ {
+  "nazov": "Valašská",
+  "kod": 408
+ },
+ {
+  "nazov": "Vazovova",
+  "kod": 583
+ },
+ {
+  "nazov": "VE Čunovo",
+  "kod": 478
+ },
+ {
+  "nazov": "Veľkolúcky potok",
+  "kod": 543
+ },
+ {
+  "nazov": "Veľká Paka",
+  "kod": 3681
+ },
+ {
+  "nazov": "Veľké Blahovo",
+  "kod": 3682
+ },
+ {
+  "nazov": "Veľké Leváre, Habánsky dvor",
+  "kod": 3370
+ },
+ {
+  "nazov": "Veľké Leváre, T. Vansovej",
+  "kod": 3371
+ },
+ {
+  "nazov": "Veľké Leváre, Závodská",
+  "kod": 3375
+ },
+ {
+  "nazov": "Veľké Leváre, Štúrova",
+  "kod": 3373
+ },
+ {
+  "nazov": "Veľké Leváre, Žel. priecestie",
+  "kod": 3372
+ },
+ {
+  "nazov": "Veľké Leváre, Žel. stanica",
+  "kod": 3374
+ },
+ {
+  "nazov": "Veľké Úľany, Cintorín",
+  "kod": 3378
+ },
+ {
+  "nazov": "Veľké Úľany, Dlhá",
+  "kod": 3377
+ },
+ {
+  "nazov": "Veľké Úľany, Ekoosada",
+  "kod": 3379
+ },
+ {
+  "nazov": "Veľké Úľany, Hajmáš",
+  "kod": 3384
+ },
+ {
+  "nazov": "Veľké Úľany, Lenčehel",
+  "kod": 3381
+ },
+ {
+  "nazov": "Veľké Úľany, Nové Osady",
+  "kod": 3385
+ },
+ {
+  "nazov": "Veľké Úľany, Sedín",
+  "kod": 3386
+ },
+ {
+  "nazov": "Veľké Úľany, Školská",
+  "kod": 3382
+ },
+ {
+  "nazov": "Veľké Úľany, Štefana Majora",
+  "kod": 3376
+ },
+ {
+  "nazov": "Veľký Biel, Bratislavská",
+  "kod": 3390
+ },
+ {
+  "nazov": "Veľký Biel, Malý Biel",
+  "kod": 3388
+ },
+ {
+  "nazov": "Veľký Biel, Materská škola",
+  "kod": 3387
+ },
+ {
+  "nazov": "Veľký Biel, Pošta",
+  "kod": 3389
+ },
+ {
+  "nazov": "Veľký Biel, Žel. stanica",
+  "kod": 3391
+ },
+ {
+  "nazov": "Veľký Draždiak",
+  "kod": 350
+ },
+ {
+  "nazov": "Veľký Grob, Námestie",
+  "kod": 3394
+ },
+ {
+  "nazov": "Veľký Grob, Podháj",
+  "kod": 3393
+ },
+ {
+  "nazov": "Veľký Meder",
+  "kod": 3683
+ },
+ {
+  "nazov": "Vieden. električka",
+  "kod": 4142
+ },
+ {
+  "nazov": "Viedenská cesta",
+  "kod": 4079
+ },
+ {
+  "nazov": "Vienna Airport",
+  "kod": 5292
+ },
+ {
+  "nazov": "Vienna Center (Hbf)",
+  "kod": 5291
+ },
+ {
+  "nazov": "Viničné, Domovina",
+  "kod": 3395
+ },
+ {
+  "nazov": "Viničné, Grobská",
+  "kod": 3397
+ },
+ {
+  "nazov": "Viničné, Objekty",
+  "kod": 3396
+ },
+ {
+  "nazov": "Viničné, Škola",
+  "kod": 3398
+ },
+ {
+  "nazov": "Vinohradnícka",
+  "kod": 386
+ },
+ {
+  "nazov": "Vinosady, Modranská",
+  "kod": 3399
+ },
+ {
+  "nazov": "Vinosady, Pezinská",
+  "kod": 3400
+ },
+ {
+  "nazov": "Vištuk, Dolný koniec",
+  "kod": 3756
+ },
+ {
+  "nazov": "Vištuk, Fajdal",
+  "kod": 3402
+ },
+ {
+  "nazov": "Vištuk, Lipky",
+  "kod": 3404
+ },
+ {
+  "nazov": "Vištuk, Námestie",
+  "kod": 3403
+ },
+ {
+  "nazov": "Vištuk, Šenkvická",
+  "kod": 3401
+ },
+ {
+  "nazov": "Vladimíra Jukla",
+  "kod": 4516
+ },
+ {
+  "nazov": "Vlastenecké nám.",
+  "kod": 4755
+ },
+ {
+  "nazov": "Vlky",
+  "kod": 2904
+ },
+ {
+  "nazov": "Vlárska",
+  "kod": 413
+ },
+ {
+  "nazov": "Vlčie hrdlo",
+  "kod": 329
+ },
+ {
+  "nazov": "Vodná veža",
+  "kod": 4754
+ },
+ {
+  "nazov": "Volkswagen, VW2",
+  "kod": 488
+ },
+ {
+  "nazov": "Vrančovičova",
+  "kod": 421
+ },
+ {
+  "nazov": "Vretenová",
+  "kod": 534
+ },
+ {
+  "nazov": "Vysoká",
+  "kod": 424
+ },
+ {
+  "nazov": "Vysoká pri Morave, Centrum",
+  "kod": 3406
+ },
+ {
+  "nazov": "Vysoká pri Morave, Dúbrava",
+  "kod": 3407
+ },
+ {
+  "nazov": "Vysoká pri Morave, Kozliská",
+  "kod": 3408
+ },
+ {
+  "nazov": "Vysoká pri Morave, Nandin dvor",
+  "kod": 3409
+ },
+ {
+  "nazov": "Vysoká pri Morave, Štrkovňa",
+  "kod": 3410
+ },
+ {
+  "nazov": "Vyšehradská",
+  "kod": 425
+ },
+ {
+  "nazov": "Vápencová",
+  "kod": 473
+ },
+ {
+  "nazov": "Vápenka",
+  "kod": 409
+ },
+ {
+  "nazov": "Východné",
+  "kod": 423
+ },
+ {
+  "nazov": "Vývojová",
+  "kod": 426
+ },
+ {
+  "nazov": "Waitov lom",
+  "kod": 50
+ },
+ {
+  "nazov": "Wien Aspern Nord",
+  "kod": 4404
+ },
+ {
+  "nazov": "Wien Hbf",
+  "kod": 4403
+ },
+ {
+  "nazov": "Wien Simmering",
+  "kod": 4402
+ },
+ {
+  "nazov": "Wien Stadlau",
+  "kod": 4401
+ },
+ {
+  "nazov": "Wien, Grillgasse",
+  "kod": 4562
+ },
+ {
+  "nazov": "Wilfleinsdorf",
+  "kod": 4561
+ },
+ {
+  "nazov": "Wolfsthal, Am Friedhof",
+  "kod": 586
+ },
+ {
+  "nazov": "Wolfsthal, Kirche",
+  "kod": 587
+ },
+ {
+  "nazov": "Za Mokráňom",
+  "kod": 3704
+ },
+ {
+  "nazov": "Zajačie",
+  "kod": 330
+ },
+ {
+  "nazov": "Zamajerské",
+  "kod": 529
+ },
+ {
+  "nazov": "Zemianska Olča",
+  "kod": 3685
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 443
+ },
+ {
+  "nazov": "Zlatná na Ostrove",
+  "kod": 3686
+ },
+ {
+  "nazov": "Zlaté Klasy, Bratislavská",
+  "kod": 3426
+ },
+ {
+  "nazov": "Zlaté Klasy, Centrum",
+  "kod": 3425
+ },
+ {
+  "nazov": "Zlaté Klasy, Nový Trh",
+  "kod": 3424
+ },
+ {
+  "nazov": "Zlaté Klasy, Obecný úrad",
+  "kod": 3427
+ },
+ {
+  "nazov": "Zlaté piesky",
+  "kod": 445
+ },
+ {
+  "nazov": "Zlaté schody",
+  "kod": 446
+ },
+ {
+  "nazov": "Znievska",
+  "kod": 447
+ },
+ {
+  "nazov": "Zochova",
+  "kod": 448
+ },
+ {
+  "nazov": "Zohor, Ihrisko",
+  "kod": 3428
+ },
+ {
+  "nazov": "Zohor, Obecný úrad",
+  "kod": 3429
+ },
+ {
+  "nazov": "Zohor, Rázcestie",
+  "kod": 3430
+ },
+ {
+  "nazov": "Zohor, Žel. stanica",
+  "kod": 3431
+ },
+ {
+  "nazov": "Zoo",
+  "kod": 325
+ },
+ {
+  "nazov": "Zrkadlový háj",
+  "kod": 4789
+ },
+ {
+  "nazov": "Zvončeková",
+  "kod": 452
+ },
+ {
+  "nazov": "Zvončín, rázc.",
+  "kod": 3432
+ },
+ {
+  "nazov": "Záhorská",
+  "kod": 428
+ },
+ {
+  "nazov": "Záhorská Bystrica",
+  "kod": 429
+ },
+ {
+  "nazov": "Záhorská Ves, Cintorín",
+  "kod": 3411
+ },
+ {
+  "nazov": "Záhorská Ves, Hájenka",
+  "kod": 3343
+ },
+ {
+  "nazov": "Záhorská Ves, Kompa",
+  "kod": 3415
+ },
+ {
+  "nazov": "Záhorská Ves, Kultúrny dom",
+  "kod": 3412
+ },
+ {
+  "nazov": "Záhorská Ves, Rázc. Suchohrad",
+  "kod": 3414
+ },
+ {
+  "nazov": "Záhorská Ves, Stupavská",
+  "kod": 3413
+ },
+ {
+  "nazov": "Záhorská Ves, Škola",
+  "kod": 3416
+ },
+ {
+  "nazov": "Záhumenice",
+  "kod": 432
+ },
+ {
+  "nazov": "Záhumenská",
+  "kod": 4559
+ },
+ {
+  "nazov": "Zálesie, Centrum",
+  "kod": 3418
+ },
+ {
+  "nazov": "Zálesie, Cintorín",
+  "kod": 3419
+ },
+ {
+  "nazov": "Zálesie, Domky",
+  "kod": 3417
+ },
+ {
+  "nazov": "Zálesie, Korzo",
+  "kod": 3420
+ },
+ {
+  "nazov": "Záluhy",
+  "kod": 44
+ },
+ {
+  "nazov": "Zálužická",
+  "kod": 411
+ },
+ {
+  "nazov": "Zámocká",
+  "kod": 434
+ },
+ {
+  "nazov": "Záporožská",
+  "kod": 435
+ },
+ {
+  "nazov": "Závadská",
+  "kod": 437
+ },
+ {
+  "nazov": "Závod",
+  "kod": 3684
+ },
+ {
+  "nazov": "Závod, Cintorín",
+  "kod": 3421
+ },
+ {
+  "nazov": "Závod, Dom služieb",
+  "kod": 3422
+ },
+ {
+  "nazov": "Závod, Hajné",
+  "kod": 3423
+ },
+ {
+  "nazov": "Závodná",
+  "kod": 99
+ },
+ {
+  "nazov": "ZŠ Budatínska",
+  "kod": 450
+ },
+ {
+  "nazov": "ZŠ Hubeného",
+  "kod": 3758
+ },
+ {
+  "nazov": "ZŠ Majerníkova",
+  "kod": 451
+ },
+ {
+  "nazov": "Úrad BSK",
+  "kod": 387
+ },
+ {
+  "nazov": "Úrad vlády SR",
+  "kod": 570
+ },
+ {
+  "nazov": "Čakany, Obecný úrad",
+  "kod": 2967
+ },
+ {
+  "nazov": "Častá, Hoštáky",
+  "kod": 2969
+ },
+ {
+  "nazov": "Častá, Námestie",
+  "kod": 2970
+ },
+ {
+  "nazov": "Častá, Pekáreň",
+  "kod": 2971
+ },
+ {
+  "nazov": "Častá, Rázcestie Píla",
+  "kod": 3236
+ },
+ {
+  "nazov": "Častá, Základina",
+  "kod": 2972
+ },
+ {
+  "nazov": "Častá, Červený Kameň",
+  "kod": 2968
+ },
+ {
+  "nazov": "Čataj, Obratisko",
+  "kod": 2974
+ },
+ {
+  "nazov": "Čataj, Pošta",
+  "kod": 2973
+ },
+ {
+  "nazov": "Čataj, Škola",
+  "kod": 2975
+ },
+ {
+  "nazov": "Čenkovce, Maslovce",
+  "kod": 2940
+ },
+ {
+  "nazov": "Čenkovce, Obecný úrad",
+  "kod": 2939
+ },
+ {
+  "nazov": "Čenkovce, Čörge",
+  "kod": 2976
+ },
+ {
+  "nazov": "Čenkovce, Škola",
+  "kod": 2938
+ },
+ {
+  "nazov": "Černockého",
+  "kod": 32
+ },
+ {
+  "nazov": "Červený kríž",
+  "kod": 33
+ },
+ {
+  "nazov": "Červený most",
+  "kod": 416
+ },
+ {
+  "nazov": "Česká",
+  "kod": 239
+ },
+ {
+  "nazov": "Čierny chodník",
+  "kod": 34
+ },
+ {
+  "nazov": "Čierny les",
+  "kod": 256
+ },
+ {
+  "nazov": "ČOV Vlčie hrdlo",
+  "kod": 37
+ },
+ {
+  "nazov": "Čremchová",
+  "kod": 38
+ },
+ {
+  "nazov": "Čulenova",
+  "kod": 39
+ },
+ {
+  "nazov": "Čunovo",
+  "kod": 40
+ },
+ {
+  "nazov": "Čunovo, kostol",
+  "kod": 42
+ },
+ {
+  "nazov": "Čunovo, priehrada",
+  "kod": 486
+ },
+ {
+  "nazov": "Čunovo, záhrady",
+  "kod": 531
+ },
+ {
+  "nazov": "Čunovské jazerá",
+  "kod": 43
+ },
+ {
+  "nazov": "Ľubovnianska",
+  "kod": 176
+ },
+ {
+  "nazov": "Šafranová",
+  "kod": 360
+ },
+ {
+  "nazov": "Šafárikovo nám.",
+  "kod": 359
+ },
+ {
+  "nazov": "Šamorín, Aut. stanica",
+  "kod": 3271
+ },
+ {
+  "nazov": "Šamorín, Bratislavská",
+  "kod": 3272
+ },
+ {
+  "nazov": "Šamorín, Dubová",
+  "kod": 3755
+ },
+ {
+  "nazov": "Šamorín, Gymnázium",
+  "kod": 3753
+ },
+ {
+  "nazov": "Šamorín, Gútorská",
+  "kod": 3274
+ },
+ {
+  "nazov": "Šamorín, Hlboká",
+  "kod": 3754
+ },
+ {
+  "nazov": "Šamorín, Mliečno",
+  "kod": 3275
+ },
+ {
+  "nazov": "Šamorín, Senecká",
+  "kod": 3277
+ },
+ {
+  "nazov": "Šamorín, ZŠ Mateja Bela",
+  "kod": 3278
+ },
+ {
+  "nazov": "Šamorín, Čilistov",
+  "kod": 3273
+ },
+ {
+  "nazov": "Šaštínska",
+  "kod": 524
+ },
+ {
+  "nazov": "Šenkvice, Chorvátska",
+  "kod": 3305
+ },
+ {
+  "nazov": "Šenkvice, Jánska",
+  "kod": 3306
+ },
+ {
+  "nazov": "Šenkvice, Kozare",
+  "kod": 3307
+ },
+ {
+  "nazov": "Šenkvice, Lipová",
+  "kod": 3302
+ },
+ {
+  "nazov": "Šenkvice, Modranská",
+  "kod": 3308
+ },
+ {
+  "nazov": "Šenkvice, Priemyselný park",
+  "kod": 3303
+ },
+ {
+  "nazov": "Šenkvice, Záhradná",
+  "kod": 3304
+ },
+ {
+  "nazov": "Šenkvice, Žel. stanica",
+  "kod": 3309
+ },
+ {
+  "nazov": "Ševčenkova",
+  "kod": 511
+ },
+ {
+  "nazov": "Šikmá",
+  "kod": 361
+ },
+ {
+  "nazov": "Šintavská",
+  "kod": 362
+ },
+ {
+  "nazov": "Šoltésovej",
+  "kod": 365
+ },
+ {
+  "nazov": "Špitálska",
+  "kod": 366
+ },
+ {
+  "nazov": "Štefana Králika",
+  "kod": 370
+ },
+ {
+  "nazov": "Štefanová, Horný koniec",
+  "kod": 3319
+ },
+ {
+  "nazov": "Štefanová, Spoločenský dom",
+  "kod": 3320
+ },
+ {
+  "nazov": "Štepná",
+  "kod": 371
+ },
+ {
+  "nazov": "Štrbská",
+  "kod": 372
+ },
+ {
+  "nazov": "Štvrtok na Ostrove, Centrum",
+  "kod": 3336
+ },
+ {
+  "nazov": "Štvrtok na Ostrove, Čakanská",
+  "kod": 3337
+ },
+ {
+  "nazov": "Šulekova",
+  "kod": 373
+ },
+ {
+  "nazov": "Šustekova",
+  "kod": 374
+ },
+ {
+  "nazov": "Švabinského",
+  "kod": 375
+ },
+ {
+  "nazov": "Švantnerova",
+  "kod": 376
+ },
+ {
+  "nazov": "Šípová",
+  "kod": 363
+ },
+ {
+  "nazov": "Žabotova",
+  "kod": 502
+ },
+ {
+  "nazov": "Žabí majer",
+  "kod": 249
+ },
+ {
+  "nazov": "Žatevná",
+  "kod": 453
+ },
+ {
+  "nazov": "Žehrianska",
+  "kod": 454
+ },
+ {
+  "nazov": "Železničná",
+  "kod": 456
+ },
+ {
+  "nazov": "Železničné múzeum",
+  "kod": 172
+ },
+ {
+  "nazov": "Železná studnička",
+  "kod": 455
+ },
+ {
+  "nazov": "Železná studnička, lanovka",
+  "kod": 4122
+ },
+ {
+  "nazov": "Žitavská",
+  "kod": 458
+ },
+ {
+  "nazov": "Žltá",
+  "kod": 554
+ }
+]

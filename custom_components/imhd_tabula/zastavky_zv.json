@@ -1,0 +1,302 @@
+[
+ {
+  "nazov": "1",
+  "kod": 11203
+ },
+ {
+  "nazov": "2",
+  "kod": 11072
+ },
+ {
+  "nazov": "Agrozet",
+  "kod": 2528
+ },
+ {
+  "nazov": "Andreja Hlinku",
+  "kod": 2613
+ },
+ {
+  "nazov": "Autobusová/Železničná stanica",
+  "kod": 2506
+ },
+ {
+  "nazov": "Bakova Jama",
+  "kod": 2529
+ },
+ {
+  "nazov": "Balkán",
+  "kod": 2559
+ },
+ {
+  "nazov": "Balážovci",
+  "kod": 2549
+ },
+ {
+  "nazov": "Bučina, autobusové nástupište",
+  "kod": 2534
+ },
+ {
+  "nazov": "Bučina, rázcestie",
+  "kod": 2536
+ },
+ {
+  "nazov": "Cintoríny",
+  "kod": 2519
+ },
+ {
+  "nazov": "Continental",
+  "kod": 2616
+ },
+ {
+  "nazov": "Dukelských hrdinov",
+  "kod": 2512
+ },
+ {
+  "nazov": "Dúbravka",
+  "kod": 2546
+ },
+ {
+  "nazov": "Gymnázium",
+  "kod": 2504
+ },
+ {
+  "nazov": "Hrad",
+  "kod": 2560
+ },
+ {
+  "nazov": "Jančiar",
+  "kod": 2557
+ },
+ {
+  "nazov": "Jesenského",
+  "kod": 2611
+ },
+ {
+  "nazov": "Kajanka",
+  "kod": 2545
+ },
+ {
+  "nazov": "Kalinka",
+  "kod": 2524
+ },
+ {
+  "nazov": "Kozáčeka, Centrum",
+  "kod": 2510
+ },
+ {
+  "nazov": "Krsty",
+  "kod": 2556
+ },
+ {
+  "nazov": "Kráľová",
+  "kod": 2555
+ },
+ {
+  "nazov": "Kráľová, konečná",
+  "kod": 2558
+ },
+ {
+  "nazov": "Lipovec",
+  "kod": 2551
+ },
+ {
+  "nazov": "Lipovec, potraviny",
+  "kod": 2552
+ },
+ {
+  "nazov": "Margočinka",
+  "kod": 2511
+ },
+ {
+  "nazov": "Mikona",
+  "kod": 2620
+ },
+ {
+  "nazov": "Mojžišovci",
+  "kod": 2543
+ },
+ {
+  "nazov": "Moyzesova",
+  "kod": 2610
+ },
+ {
+  "nazov": "Môťová, hájovňa",
+  "kod": 2553
+ },
+ {
+  "nazov": "Môťová, rázcestie",
+  "kod": 2533
+ },
+ {
+  "nazov": "Môťová, čerpacia stanica",
+  "kod": 2532
+ },
+ {
+  "nazov": "Nákladná stanica",
+  "kod": 2521
+ },
+ {
+  "nazov": "Námestie SNP",
+  "kod": 2509
+ },
+ {
+  "nazov": "Park Lanice",
+  "kod": 2618
+ },
+ {
+  "nazov": "Pod cintorínom",
+  "kod": 2615
+ },
+ {
+  "nazov": "Pod Dráhy",
+  "kod": 2619
+ },
+ {
+  "nazov": "Pod parkom",
+  "kod": 2612
+ },
+ {
+  "nazov": "Podborová, sídlisko",
+  "kod": 2515
+ },
+ {
+  "nazov": "Podborová, čakáreň",
+  "kod": 2514
+ },
+ {
+  "nazov": "Podborová, žel. prechod",
+  "kod": 2513
+ },
+ {
+  "nazov": "Poliklinika",
+  "kod": 2517
+ },
+ {
+  "nazov": "Polymat",
+  "kod": 2527
+ },
+ {
+  "nazov": "Poľana",
+  "kod": 2520
+ },
+ {
+  "nazov": "PUR-STAV KB",
+  "kod": 2530
+ },
+ {
+  "nazov": "SAD, Bariny",
+  "kod": 2505
+ },
+ {
+  "nazov": "Sekier, dolina",
+  "kod": 2542
+ },
+ {
+  "nazov": "Sekier, dom dôchodcov",
+  "kod": 2541
+ },
+ {
+  "nazov": "Sekier, hájovňa",
+  "kod": 2550
+ },
+ {
+  "nazov": "Sekier, LOM",
+  "kod": 2538
+ },
+ {
+  "nazov": "Sekier, obchod",
+  "kod": 2548
+ },
+ {
+  "nazov": "Sekier, rázcestie",
+  "kod": 2537
+ },
+ {
+  "nazov": "Sekier, sídlisko",
+  "kod": 2540
+ },
+ {
+  "nazov": "Sekier, záhradky",
+  "kod": 2617
+ },
+ {
+  "nazov": "Sekier, základná škola",
+  "kod": 2539
+ },
+ {
+  "nazov": "Sliačan",
+  "kod": 2508
+ },
+ {
+  "nazov": "SPP",
+  "kod": 2526
+ },
+ {
+  "nazov": "Stavoprojekt",
+  "kod": 2516
+ },
+ {
+  "nazov": "Strabag",
+  "kod": 2531
+ },
+ {
+  "nazov": "Strážska cesta",
+  "kod": 2609
+ },
+ {
+  "nazov": "Tanečkovci",
+  "kod": 2544
+ },
+ {
+  "nazov": "Tepláreň",
+  "kod": 2535
+ },
+ {
+  "nazov": "Tále",
+  "kod": 2554
+ },
+ {
+  "nazov": "Vidhold",
+  "kod": 2547
+ },
+ {
+  "nazov": "WUSAM",
+  "kod": 2518
+ },
+ {
+  "nazov": "Zlatý Potok, konečná",
+  "kod": 2614
+ },
+ {
+  "nazov": "Zlatý Potok, Lidl",
+  "kod": 2522
+ },
+ {
+  "nazov": "Zlatý Potok, rázcestie",
+  "kod": 2523
+ },
+ {
+  "nazov": "Zlatý Potok, VI. ZŠ",
+  "kod": 2525
+ },
+ {
+  "nazov": "Západ, obchvat",
+  "kod": 2503
+ },
+ {
+  "nazov": "Západ, Tepličky",
+  "kod": 2621
+ },
+ {
+  "nazov": "Západ, Tulská",
+  "kod": 2502
+ },
+ {
+  "nazov": "Ľudovíta Štúra",
+  "kod": 2608
+ },
+ {
+  "nazov": "Štefánika, ŽSR",
+  "kod": 2507
+ }
+]

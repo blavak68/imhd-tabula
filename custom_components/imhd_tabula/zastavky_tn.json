@@ -1,0 +1,402 @@
+[
+ {
+  "nazov": "28. októbra",
+  "kod": 1391
+ },
+ {
+  "nazov": "A",
+  "kod": 10345
+ },
+ {
+  "nazov": "Akebono",
+  "kod": 1427
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 1345
+ },
+ {
+  "nazov": "B",
+  "kod": 10413
+ },
+ {
+  "nazov": "Bavlnárska",
+  "kod": 4711
+ },
+ {
+  "nazov": "Beckovská",
+  "kod": 1376
+ },
+ {
+  "nazov": "Biskupice, Belá",
+  "kod": 4712
+ },
+ {
+  "nazov": "Biskupice, cintorín",
+  "kod": 1348
+ },
+ {
+  "nazov": "Biskupice, LOT",
+  "kod": 1374
+ },
+ {
+  "nazov": "Biskupice, námestie",
+  "kod": 1349
+ },
+ {
+  "nazov": "Biskupice, SOŠ LT",
+  "kod": 1422
+ },
+ {
+  "nazov": "Biskupice, čistička",
+  "kod": 1347
+ },
+ {
+  "nazov": "Braneckého",
+  "kod": 1350
+ },
+ {
+  "nazov": "Bratislavská",
+  "kod": 1351
+ },
+ {
+  "nazov": "Brnianska",
+  "kod": 1414
+ },
+ {
+  "nazov": "Cintorín Juh",
+  "kod": 1388
+ },
+ {
+  "nazov": "Cintorínska",
+  "kod": 1390
+ },
+ {
+  "nazov": "Detské mestečko",
+  "kod": 1355
+ },
+ {
+  "nazov": "Dlhé Hony",
+  "kod": 1395
+ },
+ {
+  "nazov": "Dolný Šianec",
+  "kod": 1393
+ },
+ {
+  "nazov": "Dubnica nad Váhom",
+  "kod": 4967
+ },
+ {
+  "nazov": "Gen. M. R. Štefánika",
+  "kod": 1399
+ },
+ {
+  "nazov": "Gen. Svobodu",
+  "kod": 1396
+ },
+ {
+  "nazov": "Gymnázium",
+  "kod": 1387
+ },
+ {
+  "nazov": "Hanzlíkovská",
+  "kod": 1354
+ },
+ {
+  "nazov": "Hasičská",
+  "kod": 1356
+ },
+ {
+  "nazov": "Hodžova, kotolňa",
+  "kod": 1357
+ },
+ {
+  "nazov": "Ilava",
+  "kod": 4968
+ },
+ {
+  "nazov": "Inovecká",
+  "kod": 1359
+ },
+ {
+  "nazov": "Inovecká, stred",
+  "kod": 1360
+ },
+ {
+  "nazov": "Istebnícka",
+  "kod": 1361
+ },
+ {
+  "nazov": "Ivana Krasku",
+  "kod": 1377
+ },
+ {
+  "nazov": "Jána Zemana",
+  "kod": 1401
+ },
+ {
+  "nazov": "K výstavisku",
+  "kod": 1400
+ },
+ {
+  "nazov": "Karpatská",
+  "kod": 1416
+ },
+ {
+  "nazov": "Kasárenská",
+  "kod": 1362
+ },
+ {
+  "nazov": "Kasárenská, VOP",
+  "kod": 1363
+ },
+ {
+  "nazov": "Ku štvrtiam",
+  "kod": 1415
+ },
+ {
+  "nazov": "Kubranská, Billa",
+  "kod": 1366
+ },
+ {
+  "nazov": "Kubrica, chata",
+  "kod": 4713
+ },
+ {
+  "nazov": "Kubrica, námestie",
+  "kod": 1365
+ },
+ {
+  "nazov": "Kubrica, záhrady",
+  "kod": 4714
+ },
+ {
+  "nazov": "Kubrická",
+  "kod": 1364
+ },
+ {
+  "nazov": "Kubrá, Dubová",
+  "kod": 1368
+ },
+ {
+  "nazov": "Kubrá, Kyselka",
+  "kod": 1369
+ },
+ {
+  "nazov": "Kubrá, námestie",
+  "kod": 1370
+ },
+ {
+  "nazov": "Kubrá, Záhrady",
+  "kod": 1367
+ },
+ {
+  "nazov": "Lavičková",
+  "kod": 1406
+ },
+ {
+  "nazov": "Legionárska",
+  "kod": 1373
+ },
+ {
+  "nazov": "Mateja Bela",
+  "kod": 1398
+ },
+ {
+  "nazov": "Mestská plaváreň",
+  "kod": 4715
+ },
+ {
+  "nazov": "Na Kameni",
+  "kod": 4716
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 1375
+ },
+ {
+  "nazov": "Nové Mesto nad Váhom",
+  "kod": 4969
+ },
+ {
+  "nazov": "Nozdrkovce",
+  "kod": 1346
+ },
+ {
+  "nazov": "Obchodná akadémia",
+  "kod": 1403
+ },
+ {
+  "nazov": "OC City Park",
+  "kod": 4861
+ },
+ {
+  "nazov": "OC Laugaricio",
+  "kod": 1417
+ },
+ {
+  "nazov": "Old Herold",
+  "kod": 1352
+ },
+ {
+  "nazov": "Opatová, Horeblatie",
+  "kod": 1419
+ },
+ {
+  "nazov": "Opatová, ihrisko",
+  "kod": 4717
+ },
+ {
+  "nazov": "Opatová, Maják",
+  "kod": 1420
+ },
+ {
+  "nazov": "Opatová, nadjazd",
+  "kod": 4718
+ },
+ {
+  "nazov": "Opatová, námestie",
+  "kod": 1379
+ },
+ {
+  "nazov": "Park Úspech",
+  "kod": 1412
+ },
+ {
+  "nazov": "Piešťanská",
+  "kod": 1383
+ },
+ {
+  "nazov": "Pod Juhom",
+  "kod": 1397
+ },
+ {
+  "nazov": "Pod privádzačom",
+  "kod": 1423
+ },
+ {
+  "nazov": "Považská",
+  "kod": 1384
+ },
+ {
+  "nazov": "Považská, kotolňa",
+  "kod": 1385
+ },
+ {
+  "nazov": "Pred poľom",
+  "kod": 1371
+ },
+ {
+  "nazov": "Priemyselný park",
+  "kod": 1418
+ },
+ {
+  "nazov": "Priemyselný park II",
+  "kod": 1424
+ },
+ {
+  "nazov": "Priemyselný park III",
+  "kod": 4636
+ },
+ {
+  "nazov": "Rybáre",
+  "kod": 1409
+ },
+ {
+  "nazov": "Saratovská",
+  "kod": 1389
+ },
+ {
+  "nazov": "Sihoť IV",
+  "kod": 1382
+ },
+ {
+  "nazov": "Soblahovská",
+  "kod": 1392
+ },
+ {
+  "nazov": "Staničná",
+  "kod": 4719
+ },
+ {
+  "nazov": "Stavokov",
+  "kod": 1425
+ },
+ {
+  "nazov": "Tesco",
+  "kod": 1394
+ },
+ {
+  "nazov": "Trenčianska Teplá",
+  "kod": 3480
+ },
+ {
+  "nazov": "Trenčín",
+  "kod": 4970
+ },
+ {
+  "nazov": "Vinohrady",
+  "kod": 1428
+ },
+ {
+  "nazov": "Východná",
+  "kod": 1407
+ },
+ {
+  "nazov": "Za nemocnicou",
+  "kod": 4720
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 1404
+ },
+ {
+  "nazov": "Zlatovská",
+  "kod": 1411
+ },
+ {
+  "nazov": "Zlatovská, SAD",
+  "kod": 1413
+ },
+ {
+  "nazov": "Záblatie, cintorín",
+  "kod": 1426
+ },
+ {
+  "nazov": "Záblatie, stred",
+  "kod": 1410
+ },
+ {
+  "nazov": "Záblatská",
+  "kod": 1408
+ },
+ {
+  "nazov": "ZŠ Hodžova",
+  "kod": 1358
+ },
+ {
+  "nazov": "ZŠ Kubranská",
+  "kod": 1372
+ },
+ {
+  "nazov": "ZŠ Potočná",
+  "kod": 1386
+ },
+ {
+  "nazov": "ZŠ Veľkomoravská",
+  "kod": 1405
+ },
+ {
+  "nazov": "Ľudovíta Stárka",
+  "kod": 1402
+ },
+ {
+  "nazov": "Žilinská",
+  "kod": 1378
+ },
+ {
+  "nazov": "ŽST Opatová",
+  "kod": 1380
+ }
+]

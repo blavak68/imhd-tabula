@@ -1,0 +1,278 @@
+[
+ {
+  "nazov": "1",
+  "kod": 10964
+ },
+ {
+  "nazov": "2",
+  "kod": 11034
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 869
+ },
+ {
+  "nazov": "Bojnice, centrum",
+  "kod": 852
+ },
+ {
+  "nazov": "Bojnice, Dubnica, Komenského",
+  "kod": 872
+ },
+ {
+  "nazov": "Bojnice, Dubnica, Velvárska",
+  "kod": 850
+ },
+ {
+  "nazov": "Bojnice, Jesenského",
+  "kod": 854
+ },
+ {
+  "nazov": "Bojnice, kúpele",
+  "kod": 849
+ },
+ {
+  "nazov": "Bojnice, nemocnica",
+  "kod": 853
+ },
+ {
+  "nazov": "Bojnice, Prievidzská",
+  "kod": 855
+ },
+ {
+  "nazov": "Bojnice, Zámok",
+  "kod": 871
+ },
+ {
+  "nazov": "Bojnice, ZŠ",
+  "kod": 851
+ },
+ {
+  "nazov": "Bojnice, Športová",
+  "kod": 881
+ },
+ {
+  "nazov": "Bojnická cesta",
+  "kod": 901
+ },
+ {
+  "nazov": "Brose",
+  "kod": 889
+ },
+ {
+  "nazov": "Carpathia",
+  "kod": 886
+ },
+ {
+  "nazov": "Centrum",
+  "kod": 860
+ },
+ {
+  "nazov": "Centrum voľného času",
+  "kod": 919
+ },
+ {
+  "nazov": "Cesta poľnohospodárov",
+  "kod": 902
+ },
+ {
+  "nazov": "Ciglianska cesta",
+  "kod": 866
+ },
+ {
+  "nazov": "Cintorín",
+  "kod": 887
+ },
+ {
+  "nazov": "Duklianska",
+  "kod": 916
+ },
+ {
+  "nazov": "Farský kostol",
+  "kod": 863
+ },
+ {
+  "nazov": "Gymnázium",
+  "kod": 888
+ },
+ {
+  "nazov": "Hasičská",
+  "kod": 903
+ },
+ {
+  "nazov": "Hradec",
+  "kod": 892
+ },
+ {
+  "nazov": "J. Kráľa",
+  "kod": 893
+ },
+ {
+  "nazov": "K. Novackého",
+  "kod": 884
+ },
+ {
+  "nazov": "Kino Baník",
+  "kod": 865
+ },
+ {
+  "nazov": "Kolotoč",
+  "kod": 874
+ },
+ {
+  "nazov": "Kopaničky",
+  "kod": 878
+ },
+ {
+  "nazov": "Košovská cesta",
+  "kod": 868
+ },
+ {
+  "nazov": "L. N. Tolstého",
+  "kod": 913
+ },
+ {
+  "nazov": "Lehotská cesta",
+  "kod": 873
+ },
+ {
+  "nazov": "Lesopark",
+  "kod": 883
+ },
+ {
+  "nazov": "M. R. Štefánika",
+  "kod": 915
+ },
+ {
+  "nazov": "Magura",
+  "kod": 864
+ },
+ {
+  "nazov": "Malonecpalská",
+  "kod": 918
+ },
+ {
+  "nazov": "Malá Lehôtka, dolný koniec",
+  "kod": 897
+ },
+ {
+  "nazov": "Malá Lehôtka, kultúrny dom",
+  "kod": 898
+ },
+ {
+  "nazov": "Mariánska",
+  "kod": 899
+ },
+ {
+  "nazov": "Na Záhumní",
+  "kod": 900
+ },
+ {
+  "nazov": "Necpaly, sídlisko",
+  "kod": 875
+ },
+ {
+  "nazov": "Nedožerská cesta",
+  "kod": 921
+ },
+ {
+  "nazov": "Nábrežie sv. Cyrila",
+  "kod": 857
+ },
+ {
+  "nazov": "Okresný súd",
+  "kod": 876
+ },
+ {
+  "nazov": "Okružná",
+  "kod": 859
+ },
+ {
+  "nazov": "Pod lesom",
+  "kod": 917
+ },
+ {
+  "nazov": "Pod skalou",
+  "kod": 861
+ },
+ {
+  "nazov": "Pri Rajčuli",
+  "kod": 879
+ },
+ {
+  "nazov": "Priemyselný park",
+  "kod": 922
+ },
+ {
+  "nazov": "SAD",
+  "kod": 856
+ },
+ {
+  "nazov": "Sama Chalupku",
+  "kod": 862
+ },
+ {
+  "nazov": "Svätoplukova",
+  "kod": 906
+ },
+ {
+  "nazov": "Tulipánová",
+  "kod": 4923
+ },
+ {
+  "nazov": "Ulica energetikov",
+  "kod": 895
+ },
+ {
+  "nazov": "Uniklinika",
+  "kod": 890
+ },
+ {
+  "nazov": "V. Clementisa",
+  "kod": 882
+ },
+ {
+  "nazov": "Veľkonecpalská",
+  "kod": 914
+ },
+ {
+  "nazov": "Veľká Lehôtka, dolný koniec",
+  "kod": 909
+ },
+ {
+  "nazov": "Veľká Lehôtka, horný koniec",
+  "kod": 910
+ },
+ {
+  "nazov": "Veľká Lehôtka, kultúrny dom",
+  "kod": 891
+ },
+ {
+  "nazov": "Vápenická ulica I",
+  "kod": 904
+ },
+ {
+  "nazov": "Vápenická ulica II",
+  "kod": 907
+ },
+ {
+  "nazov": "Včelárska",
+  "kod": 908
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 880
+ },
+ {
+  "nazov": "Ľ. Ondrejova",
+  "kod": 912
+ },
+ {
+  "nazov": "Športová hala",
+  "kod": 867
+ },
+ {
+  "nazov": "Žabník",
+  "kod": 858
+ }
+]

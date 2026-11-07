@@ -1,0 +1,470 @@
+[
+ {
+  "nazov": "A",
+  "kod": 4671
+ },
+ {
+  "nazov": "B. Smetanu",
+  "kod": 2743
+ },
+ {
+  "nazov": "Belgická",
+  "kod": 2766
+ },
+ {
+  "nazov": "Bernolákova brána",
+  "kod": 2683
+ },
+ {
+  "nazov": "BOGE",
+  "kod": 2737
+ },
+ {
+  "nazov": "Boleráz",
+  "kod": 4458
+ },
+ {
+  "nazov": "Botanická",
+  "kod": 2733
+ },
+ {
+  "nazov": "Bratislava predmestie",
+  "kod": 3687
+ },
+ {
+  "nazov": "Bratislava, Hlavná stanica",
+  "kod": 82
+ },
+ {
+  "nazov": "Bratislava, Stn. Nové Mesto",
+  "kod": 461
+ },
+ {
+  "nazov": "Bratislava, Stn. Petržalka",
+  "kod": 463
+ },
+ {
+  "nazov": "Bratislava, Stn. Vinohrady",
+  "kod": 467
+ },
+ {
+  "nazov": "Bratislava-Rača",
+  "kod": 3650
+ },
+ {
+  "nazov": "Bratislavská",
+  "kod": 2689
+ },
+ {
+  "nazov": "Buková",
+  "kod": 4129
+ },
+ {
+  "nazov": "Báhoň, Žel. stanica",
+  "kod": 2905
+ },
+ {
+  "nazov": "Bíňovce",
+  "kod": 4457
+ },
+ {
+  "nazov": "Cerová-Lieskové",
+  "kod": 4130
+ },
+ {
+  "nazov": "City Aréna",
+  "kod": 2695
+ },
+ {
+  "nazov": "City Park",
+  "kod": 2716
+ },
+ {
+  "nazov": "Coburgova",
+  "kod": 2688
+ },
+ {
+  "nazov": "Cífer, Žel. stanica",
+  "kod": 2955
+ },
+ {
+  "nazov": "Dobšinského",
+  "kod": 4794
+ },
+ {
+  "nazov": "Dohnányho",
+  "kod": 2686
+ },
+ {
+  "nazov": "Družba",
+  "kod": 2698
+ },
+ {
+  "nazov": "F. Urbánka",
+  "kod": 4723
+ },
+ {
+  "nazov": "G. Dusíka",
+  "kod": 2761
+ },
+ {
+  "nazov": "G. Steinera",
+  "kod": 3361
+ },
+ {
+  "nazov": "Galanta",
+  "kod": 3655
+ },
+ {
+  "nazov": "Gorkého",
+  "kod": 2690
+ },
+ {
+  "nazov": "Gáň",
+  "kod": 3688
+ },
+ {
+  "nazov": "HKS",
+  "kod": 2694
+ },
+ {
+  "nazov": "Hlboká",
+  "kod": 2735
+ },
+ {
+  "nazov": "Hospodárska",
+  "kod": 2684
+ },
+ {
+  "nazov": "IKEA",
+  "kod": 3631
+ },
+ {
+  "nazov": "J. G. Tajovského",
+  "kod": 2744
+ },
+ {
+  "nazov": "J. Hlubíka",
+  "kod": 2680
+ },
+ {
+  "nazov": "Jablonica",
+  "kod": 4131
+ },
+ {
+  "nazov": "Kamenná cesta, cint.",
+  "kod": 2705
+ },
+ {
+  "nazov": "Kamenný mlyn",
+  "kod": 2706
+ },
+ {
+  "nazov": "Klčovany",
+  "kod": 4126
+ },
+ {
+  "nazov": "Kollárova",
+  "kod": 2701
+ },
+ {
+  "nazov": "Koniarekova",
+  "kod": 2729
+ },
+ {
+  "nazov": "Kopánka",
+  "kod": 2679
+ },
+ {
+  "nazov": "Križovany nad Dudváhom",
+  "kod": 3689
+ },
+ {
+  "nazov": "Kukučínova",
+  "kod": 2887
+ },
+ {
+  "nazov": "Kúty",
+  "kod": 3662
+ },
+ {
+  "nazov": "Leopoldov",
+  "kod": 3664
+ },
+ {
+  "nazov": "Letisko",
+  "kod": 2697
+ },
+ {
+  "nazov": "Linčianska",
+  "kod": 2750
+ },
+ {
+  "nazov": "Lokotka",
+  "kod": 4724
+ },
+ {
+  "nazov": "Mikovíniho",
+  "kod": 2722
+ },
+ {
+  "nazov": "Modranka",
+  "kod": 2724
+ },
+ {
+  "nazov": "Modranka, cint.",
+  "kod": 2725
+ },
+ {
+  "nazov": "Modranka, Jednota",
+  "kod": 2726
+ },
+ {
+  "nazov": "MTF",
+  "kod": 2741
+ },
+ {
+  "nazov": "Na hlinách",
+  "kod": 4725
+ },
+ {
+  "nazov": "Nemečanka",
+  "kod": 2714
+ },
+ {
+  "nazov": "Nerudova",
+  "kod": 2747
+ },
+ {
+  "nazov": "Nevädzová",
+  "kod": 2760
+ },
+ {
+  "nazov": "Nitrianska",
+  "kod": 2723
+ },
+ {
+  "nazov": "Nová",
+  "kod": 2767
+ },
+ {
+  "nazov": "Obchodná akadémia",
+  "kod": 2886
+ },
+ {
+  "nazov": "OBI",
+  "kod": 2764
+ },
+ {
+  "nazov": "Okružná",
+  "kod": 2740
+ },
+ {
+  "nazov": "Okružné nám.",
+  "kod": 2703
+ },
+ {
+  "nazov": "Olympijská",
+  "kod": 2738
+ },
+ {
+  "nazov": "Orešianska",
+  "kod": 3363
+ },
+ {
+  "nazov": "Orion",
+  "kod": 2732
+ },
+ {
+  "nazov": "Ovocná",
+  "kod": 2704
+ },
+ {
+  "nazov": "Pedagogická fakulta",
+  "kod": 2721
+ },
+ {
+  "nazov": "Pekné pole",
+  "kod": 4795
+ },
+ {
+  "nazov": "Pezinok, Žel. stanica",
+  "kod": 3233
+ },
+ {
+  "nazov": "Pezinok, Žel. stanica Grinava",
+  "kod": 3209
+ },
+ {
+  "nazov": "Poliklinika",
+  "kod": 2713
+ },
+ {
+  "nazov": "Prednádražie",
+  "kod": 4727
+ },
+ {
+  "nazov": "Pri Kalvárii",
+  "kod": 4708
+ },
+ {
+  "nazov": "SACHS",
+  "kod": 2768
+ },
+ {
+  "nazov": "Saleziánska",
+  "kod": 2748
+ },
+ {
+  "nazov": "Senica, Železničná stanica",
+  "kod": 679
+ },
+ {
+  "nazov": "Sereď",
+  "kod": 3690
+ },
+ {
+  "nazov": "Sibírska",
+  "kod": 2752
+ },
+ {
+  "nazov": "Slovenská",
+  "kod": 2717
+ },
+ {
+  "nazov": "Smolenice",
+  "kod": 4136
+ },
+ {
+  "nazov": "Spartakovská",
+  "kod": 2700
+ },
+ {
+  "nazov": "Starohájska",
+  "kod": 2757
+ },
+ {
+  "nazov": "Strojárenská",
+  "kod": 2696
+ },
+ {
+  "nazov": "Suchovská",
+  "kod": 3364
+ },
+ {
+  "nazov": "Svätý Jur, Žel. stanica",
+  "kod": 3353
+ },
+ {
+  "nazov": "T. Kružliaka",
+  "kod": 2756
+ },
+ {
+  "nazov": "T. Vansovej, cint.",
+  "kod": 2702
+ },
+ {
+  "nazov": "Tamaškovičova",
+  "kod": 2719
+ },
+ {
+  "nazov": "TMT",
+  "kod": 2765
+ },
+ {
+  "nazov": "Trnava predmestie",
+  "kod": 4410
+ },
+ {
+  "nazov": "Trnava, Aut. stanica",
+  "kod": 3360
+ },
+ {
+  "nazov": "Trnavan",
+  "kod": 2749
+ },
+ {
+  "nazov": "Trstínska",
+  "kod": 2715
+ },
+ {
+  "nazov": "V. Clementisa",
+  "kod": 2699
+ },
+ {
+  "nazov": "Veterná",
+  "kod": 2739
+ },
+ {
+  "nazov": "Viktoríniho nám.",
+  "kod": 2736
+ },
+ {
+  "nazov": "Vodáreň",
+  "kod": 4788
+ },
+ {
+  "nazov": "Vozovka",
+  "kod": 2727
+ },
+ {
+  "nazov": "Východná",
+  "kod": 4710
+ },
+ {
+  "nazov": "Zdravotnícka škola",
+  "kod": 2730
+ },
+ {
+  "nazov": "Zelenečská",
+  "kod": 2745
+ },
+ {
+  "nazov": "Zelený kríčok",
+  "kod": 2692
+ },
+ {
+  "nazov": "Úrad práce",
+  "kod": 2742
+ },
+ {
+  "nazov": "Š. Moyzesa",
+  "kod": 2718
+ },
+ {
+  "nazov": "Šafárikova",
+  "kod": 4728
+ },
+ {
+  "nazov": "Šajdíkové Humence",
+  "kod": 4133
+ },
+ {
+  "nazov": "Šelpice",
+  "kod": 4135
+ },
+ {
+  "nazov": "Šenkvice, Žel. stanica",
+  "kod": 3309
+ },
+ {
+  "nazov": "Špačinská",
+  "kod": 2681
+ },
+ {
+  "nazov": "Šrobárova",
+  "kod": 2682
+ },
+ {
+  "nazov": "Študentská",
+  "kod": 2731
+ },
+ {
+  "nazov": "Žel. stanica",
+  "kod": 2685
+ },
+ {
+  "nazov": "ŽOS",
+  "kod": 2728
+ }
+]

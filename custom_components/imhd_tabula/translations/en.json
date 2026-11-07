@@ -1,0 +1,31 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select city",
+        "data": { "section": "City" }
+      },
+      "stop": {
+        "title": "Add imhd.sk stop",
+        "description": "Select a stop from the list. You can search by typing.",
+        "data": {
+          "stop_id": "Stop",
+          "name": "Custom name (optional)",
+          "limit": "Number of departures"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to imhd.sk."
+    },
+    "abort": {
+      "already_configured": "This stop has already been added.",
+      "no_stops_file": "The file zastavky_<city>.json is missing from the integration folder."
+    }
+  },
+  "options": {
+    "step": {
+      "init": { "data": { "limit": "Number of departures" } }
+    }
+  }
+}

@@ -1,0 +1,266 @@
+[
+ {
+  "nazov": "1",
+  "kod": 11567
+ },
+ {
+  "nazov": "2",
+  "kod": 11513
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 1560
+ },
+ {
+  "nazov": "Dom dôchodcov",
+  "kod": 1527
+ },
+ {
+  "nazov": "Duklianska, eurobus",
+  "kod": 1498
+ },
+ {
+  "nazov": "Embraco",
+  "kod": 1561
+ },
+ {
+  "nazov": "F. Urbánka",
+  "kod": 1562
+ },
+ {
+  "nazov": "Ferčekovce, Gemerská 1",
+  "kod": 1525
+ },
+ {
+  "nazov": "Ferčekovce, Karpatská 8",
+  "kod": 1540
+ },
+ {
+  "nazov": "Ferčekovce, kostol",
+  "kod": 1541
+ },
+ {
+  "nazov": "Ferčekovce, Nitrianska",
+  "kod": 1539
+ },
+ {
+  "nazov": "Ferčekovce, Považská 3",
+  "kod": 1542
+ },
+ {
+  "nazov": "Ferčekovce, Trenčianska",
+  "kod": 1503
+ },
+ {
+  "nazov": "Fándlyho 12",
+  "kod": 3632
+ },
+ {
+  "nazov": "Galéria",
+  "kod": 1529
+ },
+ {
+  "nazov": "Hanulova 36",
+  "kod": 1536
+ },
+ {
+  "nazov": "Hasičská stanica",
+  "kod": 1544
+ },
+ {
+  "nazov": "Hájik",
+  "kod": 1504
+ },
+ {
+  "nazov": "Javorová ul.",
+  "kod": 1548
+ },
+ {
+  "nazov": "Kamenný obrázok",
+  "kod": 1543
+ },
+ {
+  "nazov": "Kaufland",
+  "kod": 1516
+ },
+ {
+  "nazov": "Madaras park - Zoo",
+  "kod": 1522
+ },
+ {
+  "nazov": "Medza, poliklinika",
+  "kod": 1521
+ },
+ {
+  "nazov": "MŠ Hanulova",
+  "kod": 1526
+ },
+ {
+  "nazov": "Nad Medzou, Lidl",
+  "kod": 1535
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 1555
+ },
+ {
+  "nazov": "Novoveská Huta, Detský tábor",
+  "kod": 1508
+ },
+ {
+  "nazov": "Novoveská Huta, Medvedia dolka",
+  "kod": 1553
+ },
+ {
+  "nazov": "Novoveská Huta, Poľovník",
+  "kod": 1552
+ },
+ {
+  "nazov": "Novoveská Huta, Režnák",
+  "kod": 1509
+ },
+ {
+  "nazov": "OC Madaras",
+  "kod": 1515
+ },
+ {
+  "nazov": "Pod nemocnicou",
+  "kod": 1557
+ },
+ {
+  "nazov": "Pod Tepličkou, žel. zastávka",
+  "kod": 1513
+ },
+ {
+  "nazov": "Podskala",
+  "kod": 1556
+ },
+ {
+  "nazov": "Predná Huta",
+  "kod": 1505
+ },
+ {
+  "nazov": "Radlinského, Noves",
+  "kod": 1545
+ },
+ {
+  "nazov": "Radnica",
+  "kod": 1549
+ },
+ {
+  "nazov": "Sadová, BMZ",
+  "kod": 1563
+ },
+ {
+  "nazov": "Skladový areál",
+  "kod": 1546
+ },
+ {
+  "nazov": "Smižany, hasičská stanica",
+  "kod": 1554
+ },
+ {
+  "nazov": "Smižany, Iliašovská 414",
+  "kod": 1501
+ },
+ {
+  "nazov": "Smižany, kaštieľ",
+  "kod": 1497
+ },
+ {
+  "nazov": "Smižany, kostol",
+  "kod": 1507
+ },
+ {
+  "nazov": "Smižany, kultúrny dom",
+  "kod": 1500
+ },
+ {
+  "nazov": "Smižany, Maša, rázc.",
+  "kod": 3723
+ },
+ {
+  "nazov": "Smižany, pošta",
+  "kod": 1514
+ },
+ {
+  "nazov": "Smižany, žel. zastávka",
+  "kod": 1506
+ },
+ {
+  "nazov": "SOŠ Drevárska",
+  "kod": 1550
+ },
+ {
+  "nazov": "Správa ciest",
+  "kod": 1523
+ },
+ {
+  "nazov": "Sídlisko Východ",
+  "kod": 1510
+ },
+ {
+  "nazov": "Sídlisko Západ, kostol",
+  "kod": 1558
+ },
+ {
+  "nazov": "Telep",
+  "kod": 1547
+ },
+ {
+  "nazov": "Trieda 1. mája, Bezručova",
+  "kod": 1519
+ },
+ {
+  "nazov": "Trieda 1. mája, Komenského",
+  "kod": 1518
+ },
+ {
+  "nazov": "Trieda 1. mája, Nejedlého",
+  "kod": 1520
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 1511
+ },
+ {
+  "nazov": "ZŠ Hutnícka",
+  "kod": 1559
+ },
+ {
+  "nazov": "ZŠ Ing. Kožucha",
+  "kod": 1551
+ },
+ {
+  "nazov": "ZŠ Lipová",
+  "kod": 1524
+ },
+ {
+  "nazov": "Športová hala",
+  "kod": 1528
+ },
+ {
+  "nazov": "Štefánikovo nám.",
+  "kod": 1499
+ },
+ {
+  "nazov": "Štúrovo nábrežie 11",
+  "kod": 1533
+ },
+ {
+  "nazov": "Štúrovo nábrežie 13",
+  "kod": 1532
+ },
+ {
+  "nazov": "Štúrovo nábrežie 2",
+  "kod": 1531
+ },
+ {
+  "nazov": "Štúrovo nábrežie 9",
+  "kod": 3640
+ },
+ {
+  "nazov": "Železničná stanica",
+  "kod": 1512
+ }
+]

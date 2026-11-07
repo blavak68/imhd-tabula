@@ -1,0 +1,622 @@
+[
+ {
+  "nazov": "1",
+  "kod": 11439
+ },
+ {
+  "nazov": "29. augusta",
+  "kod": 2186
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 2224
+ },
+ {
+  "nazov": "Bellušova",
+  "kod": 2270
+ },
+ {
+  "nazov": "Buková",
+  "kod": 2266
+ },
+ {
+  "nazov": "BURGMAIER",
+  "kod": 2342
+ },
+ {
+  "nazov": "Cementárenská cesta",
+  "kod": 2285
+ },
+ {
+  "nazov": "Cementárenská cesta, rázcestie",
+  "kod": 2345
+ },
+ {
+  "nazov": "Cesta k nemocnici",
+  "kod": 2254
+ },
+ {
+  "nazov": "Cesta k Smrečine",
+  "kod": 2318
+ },
+ {
+  "nazov": "EUROPA SC",
+  "kod": 2288
+ },
+ {
+  "nazov": "Garbanka",
+  "kod": 2264
+ },
+ {
+  "nazov": "Harmanec, OcÚ",
+  "kod": 2362
+ },
+ {
+  "nazov": "Hlboká",
+  "kod": 2233
+ },
+ {
+  "nazov": "Horná, Prior",
+  "kod": 2227
+ },
+ {
+  "nazov": "Hviezdoslavova",
+  "kod": 2220
+ },
+ {
+  "nazov": "Hviezdoslavova, Alpinka",
+  "kod": 2221
+ },
+ {
+  "nazov": "Iliaš, I.",
+  "kod": 2289
+ },
+ {
+  "nazov": "Iliaš, II.",
+  "kod": 2290
+ },
+ {
+  "nazov": "Iliaš, pri moste",
+  "kod": 2291
+ },
+ {
+  "nazov": "Internátna",
+  "kod": 2188
+ },
+ {
+  "nazov": "Internátna, Astra",
+  "kod": 2189
+ },
+ {
+  "nazov": "Jakub, ihrisko",
+  "kod": 2293
+ },
+ {
+  "nazov": "Jakub, kostol",
+  "kod": 2294
+ },
+ {
+  "nazov": "Jakub, Nový Svet",
+  "kod": 2295
+ },
+ {
+  "nazov": "Jakub, Nový Svet II.",
+  "kod": 2296
+ },
+ {
+  "nazov": "Jakub, rázcestie",
+  "kod": 2297
+ },
+ {
+  "nazov": "Jesenský vŕšok",
+  "kod": 2228
+ },
+ {
+  "nazov": "Karpatská",
+  "kod": 2247
+ },
+ {
+  "nazov": "Kollárova, rázcestie",
+  "kod": 2283
+ },
+ {
+  "nazov": "Komenského",
+  "kod": 2230
+ },
+ {
+  "nazov": "Komenského, PF UMB",
+  "kod": 2229
+ },
+ {
+  "nazov": "Kostiviarska, Jelšová",
+  "kod": 2298
+ },
+ {
+  "nazov": "Kostiviarska, rázc.",
+  "kod": 2299
+ },
+ {
+  "nazov": "Kostiviarska, žst.",
+  "kod": 2281
+ },
+ {
+  "nazov": "Krematórium",
+  "kod": 2276
+ },
+ {
+  "nazov": "Kremnička",
+  "kod": 2277
+ },
+ {
+  "nazov": "Kráľova studňa, hotel",
+  "kod": 4495
+ },
+ {
+  "nazov": "Kyjevské námestie",
+  "kod": 2190
+ },
+ {
+  "nazov": "Lazovná",
+  "kod": 2260
+ },
+ {
+  "nazov": "Magurská",
+  "kod": 2256
+ },
+ {
+  "nazov": "Majer",
+  "kod": 2301
+ },
+ {
+  "nazov": "Majer, otočka",
+  "kod": 2302
+ },
+ {
+  "nazov": "Majerská cesta",
+  "kod": 2303
+ },
+ {
+  "nazov": "MED-ART",
+  "kod": 2343
+ },
+ {
+  "nazov": "Mičinská, Kazačok",
+  "kod": 2223
+ },
+ {
+  "nazov": "Mlynská",
+  "kod": 2304
+ },
+ {
+  "nazov": "Mlynská, otočka",
+  "kod": 2305
+ },
+ {
+  "nazov": "Mládežnícka",
+  "kod": 2216
+ },
+ {
+  "nazov": "Mládežnícka, otočka",
+  "kod": 2215
+ },
+ {
+  "nazov": "Moskovská",
+  "kod": 2667
+ },
+ {
+  "nazov": "Moskovská, rázcestie",
+  "kod": 2192
+ },
+ {
+  "nazov": "Na Karlove",
+  "kod": 2231
+ },
+ {
+  "nazov": "Na Stráni",
+  "kod": 4638
+ },
+ {
+  "nazov": "Nad Moskovskou",
+  "kod": 2169
+ },
+ {
+  "nazov": "Nad Tulskou",
+  "kod": 2668
+ },
+ {
+  "nazov": "Nové Kalište",
+  "kod": 2176
+ },
+ {
+  "nazov": "Nám. S. H. Vajanského",
+  "kod": 2217
+ },
+ {
+  "nazov": "Nám. Štefana Moysesa",
+  "kod": 2226
+ },
+ {
+  "nazov": "Námestie slobody",
+  "kod": 2195
+ },
+ {
+  "nazov": "Námestie Ľ. Štúra, Kaufland",
+  "kod": 2194
+ },
+ {
+  "nazov": "Národná",
+  "kod": 2179
+ },
+ {
+  "nazov": "Okresný úrad",
+  "kod": 2173
+ },
+ {
+  "nazov": "Okružná",
+  "kod": 2271
+ },
+ {
+  "nazov": "Parkovisko Mičinská",
+  "kod": 2284
+ },
+ {
+  "nazov": "Partiz. cesta, Mýto",
+  "kod": 2310
+ },
+ {
+  "nazov": "Partiz. cesta, SVP",
+  "kod": 2308
+ },
+ {
+  "nazov": "Partiz. cesta, tlačiareň",
+  "kod": 2311
+ },
+ {
+  "nazov": "Partiz. cesta, čerp. stanica",
+  "kod": 2278
+ },
+ {
+  "nazov": "Partizánska cesta",
+  "kod": 2187
+ },
+ {
+  "nazov": "Pieninská",
+  "kod": 2249
+ },
+ {
+  "nazov": "Pivovar",
+  "kod": 2196
+ },
+ {
+  "nazov": "Plážové kúpalisko",
+  "kod": 2181
+ },
+ {
+  "nazov": "Pod Hôrkou",
+  "kod": 2239
+ },
+ {
+  "nazov": "Pod Rybou",
+  "kod": 2265
+ },
+ {
+  "nazov": "Podháj, SZU",
+  "kod": 2171
+ },
+ {
+  "nazov": "Podlavice, Gaštanová",
+  "kod": 2313
+ },
+ {
+  "nazov": "Podlavice, Priehrada",
+  "kod": 2314
+ },
+ {
+  "nazov": "Podlavická cesta",
+  "kod": 2242
+ },
+ {
+  "nazov": "Povstalecká cesta",
+  "kod": 2219
+ },
+ {
+  "nazov": "Poľná",
+  "kod": 2175
+ },
+ {
+  "nazov": "Poľná, rázcestie",
+  "kod": 2174
+ },
+ {
+  "nazov": "Priemyselný park, most",
+  "kod": 2344
+ },
+ {
+  "nazov": "Pršianska cesta I.",
+  "kod": 2280
+ },
+ {
+  "nazov": "Pršianska terasa, Medená",
+  "kod": 2332
+ },
+ {
+  "nazov": "Pršianska terasa, Mosadzná",
+  "kod": 2282
+ },
+ {
+  "nazov": "Radvaň Park",
+  "kod": 2341
+ },
+ {
+  "nazov": "Rakytovce",
+  "kod": 2274
+ },
+ {
+  "nazov": "Rakytovce, ihrisko",
+  "kod": 2273
+ },
+ {
+  "nazov": "Rakytovce, PD",
+  "kod": 2275
+ },
+ {
+  "nazov": "Rooseveltova nemocnica",
+  "kod": 2183
+ },
+ {
+  "nazov": "RSC",
+  "kod": 2307
+ },
+ {
+  "nazov": "Rudlovská cesta",
+  "kod": 2235
+ },
+ {
+  "nazov": "Rudlovská cesta, podjazd",
+  "kod": 2236
+ },
+ {
+  "nazov": "Rudlová, Kpt. Jaroša",
+  "kod": 2238
+ },
+ {
+  "nazov": "Rudohorská, dolná",
+  "kod": 2252
+ },
+ {
+  "nazov": "Rudohorská, horná",
+  "kod": 2250
+ },
+ {
+  "nazov": "Rudohorská, stred",
+  "kod": 2251
+ },
+ {
+  "nazov": "Rázc. Kynceľová",
+  "kod": 2315
+ },
+ {
+  "nazov": "Rázc. Rudlová",
+  "kod": 2237
+ },
+ {
+  "nazov": "Rázc. Špania Dolina",
+  "kod": 2279
+ },
+ {
+  "nazov": "SAD",
+  "kod": 2331
+ },
+ {
+  "nazov": "Senica, Jednota",
+  "kod": 2316
+ },
+ {
+  "nazov": "Senica, otočka",
+  "kod": 2317
+ },
+ {
+  "nazov": "Severná",
+  "kod": 2261
+ },
+ {
+  "nazov": "Skubín, Jednota",
+  "kod": 2218
+ },
+ {
+  "nazov": "Skubín, otočka",
+  "kod": 2267
+ },
+ {
+  "nazov": "Skuteckého",
+  "kod": 2225
+ },
+ {
+  "nazov": "Skuteckého, rázcestie",
+  "kod": 2243
+ },
+ {
+  "nazov": "Sládkovičova",
+  "kod": 2170
+ },
+ {
+  "nazov": "Srnková",
+  "kod": 2319
+ },
+ {
+  "nazov": "Starohorská, otočka",
+  "kod": 2263
+ },
+ {
+  "nazov": "Starohorská, Pod Bánošom",
+  "kod": 2320
+ },
+ {
+  "nazov": "Starohorská, rázcestie",
+  "kod": 2253
+ },
+ {
+  "nazov": "Stará Sásová",
+  "kod": 2234
+ },
+ {
+  "nazov": "STK",
+  "kod": 2321
+ },
+ {
+  "nazov": "Strieborné námestie",
+  "kod": 2259
+ },
+ {
+  "nazov": "Sásovská cesta",
+  "kod": 2262
+ },
+ {
+  "nazov": "Sásová, ihrisko",
+  "kod": 2232
+ },
+ {
+  "nazov": "Tajovského, park",
+  "kod": 2269
+ },
+ {
+  "nazov": "Tajovského, pod nemocnicou",
+  "kod": 2268
+ },
+ {
+  "nazov": "Tajovského, UMB",
+  "kod": 2258
+ },
+ {
+  "nazov": "Tajovského, školy",
+  "kod": 2184
+ },
+ {
+  "nazov": "Tatranská",
+  "kod": 2248
+ },
+ {
+  "nazov": "TESCO hypermarket",
+  "kod": 2198
+ },
+ {
+  "nazov": "THK",
+  "kod": 2326
+ },
+ {
+  "nazov": "THK, otočka",
+  "kod": 2257
+ },
+ {
+  "nazov": "THK, rázcestie",
+  "kod": 2327
+ },
+ {
+  "nazov": "Tulská",
+  "kod": 2674
+ },
+ {
+  "nazov": "Tulská, stred",
+  "kod": 2675
+ },
+ {
+  "nazov": "Tulská, záhradky",
+  "kod": 2676
+ },
+ {
+  "nazov": "Uľanka, otočka",
+  "kod": 2329
+ },
+ {
+  "nazov": "Uľanská cesta",
+  "kod": 2328
+ },
+ {
+  "nazov": "Viestova",
+  "kod": 2222
+ },
+ {
+  "nazov": "Vozovňa",
+  "kod": 2202
+ },
+ {
+  "nazov": "Wolkerova",
+  "kod": 2177
+ },
+ {
+  "nazov": "Zelená",
+  "kod": 4639
+ },
+ {
+  "nazov": "Zvolenská cesta, juh",
+  "kod": 2287
+ },
+ {
+  "nazov": "Zvolenská cesta, sever",
+  "kod": 2312
+ },
+ {
+  "nazov": "Zvolenská cesta, stred",
+  "kod": 2292
+ },
+ {
+  "nazov": "Zvolenská cesta, TESCO",
+  "kod": 2330
+ },
+ {
+  "nazov": "ZVT",
+  "kod": 2203
+ },
+ {
+  "nazov": "Úrad PV SR",
+  "kod": 2182
+ },
+ {
+  "nazov": "Úsvit",
+  "kod": 2178
+ },
+ {
+  "nazov": "Ďumbierska",
+  "kod": 2240
+ },
+ {
+  "nazov": "Ďumbierska, ZŠ",
+  "kod": 2255
+ },
+ {
+  "nazov": "Ďumbierska, ŠZŠ",
+  "kod": 2241
+ },
+ {
+  "nazov": "Šalková, centrum",
+  "kod": 2323
+ },
+ {
+  "nazov": "Šalková, Hronská",
+  "kod": 2322
+ },
+ {
+  "nazov": "Šalková, otočka",
+  "kod": 2324
+ },
+ {
+  "nazov": "Šalková, rázcestie",
+  "kod": 2325
+ },
+ {
+  "nazov": "Štadlerovo nábrežie",
+  "kod": 2180
+ },
+ {
+  "nazov": "Štefánikovo nábrežie",
+  "kod": 2197
+ },
+ {
+  "nazov": "Švermova, ESC",
+  "kod": 2172
+ },
+ {
+  "nazov": "Železničná stanica",
+  "kod": 2185
+ }
+]

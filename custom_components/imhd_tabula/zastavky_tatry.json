@@ -1,0 +1,926 @@
+[
+ {
+  "nazov": "1",
+  "kod": 6176
+ },
+ {
+  "nazov": "Allendeho",
+  "kod": 2823
+ },
+ {
+  "nazov": "Autobusová stanica",
+  "kod": 2824
+ },
+ {
+  "nazov": "Bajkalská",
+  "kod": 2799
+ },
+ {
+  "nazov": "Beko",
+  "kod": 2807
+ },
+ {
+  "nazov": "Białka Tatrzańska, Burkat",
+  "kod": 4650
+ },
+ {
+  "nazov": "Białka Tatrzańska, Dolna",
+  "kod": 4649
+ },
+ {
+  "nazov": "Białka Tatrzańska, Grapa",
+  "kod": 4648
+ },
+ {
+  "nazov": "Białka Tatrzańska, Kaniówka",
+  "kod": 4654
+ },
+ {
+  "nazov": "Białka Tatrzańska, Korkoszówka",
+  "kod": 4653
+ },
+ {
+  "nazov": "Białka Tatrzańska, Szkoła",
+  "kod": 4651
+ },
+ {
+  "nazov": "Białka Tatrzańska, Środkowa",
+  "kod": 4652
+ },
+ {
+  "nazov": "Biela voda",
+  "kod": 3497
+ },
+ {
+  "nazov": "Brokoffova",
+  "kod": 3568
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Dolna",
+  "kod": 4655
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Dolna I",
+  "kod": 3499
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Klin",
+  "kod": 3501
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Kościół",
+  "kod": 3500
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Poczta",
+  "kod": 3502
+ },
+ {
+  "nazov": "Bukowina Tatrzańska, Urząd Gminy",
+  "kod": 3486
+ },
+ {
+  "nazov": "Chochołów I",
+  "kod": 4756
+ },
+ {
+  "nazov": "Chochołów II",
+  "kod": 4757
+ },
+ {
+  "nazov": "Chochołów, Chochołowskie Termy",
+  "kod": 4998
+ },
+ {
+  "nazov": "Chochołów, Dolny",
+  "kod": 4758
+ },
+ {
+  "nazov": "Cirkevná škola",
+  "kod": 2802
+ },
+ {
+  "nazov": "Czarna Góra",
+  "kod": 3498
+ },
+ {
+  "nazov": "Danielov dom",
+  "kod": 2151
+ },
+ {
+  "nazov": "Dolný Smokovec",
+  "kod": 2145
+ },
+ {
+  "nazov": "Dom kultúry",
+  "kod": 2775
+ },
+ {
+  "nazov": "Dostojevského",
+  "kod": 2800
+ },
+ {
+  "nazov": "Gronków Górny",
+  "kod": 4646
+ },
+ {
+  "nazov": "Groń",
+  "kod": 4647
+ },
+ {
+  "nazov": "Horný Smokovec",
+  "kod": 2157
+ },
+ {
+  "nazov": "Hraničná",
+  "kod": 2772
+ },
+ {
+  "nazov": "Hviezdoslavova",
+  "kod": 2806
+ },
+ {
+  "nazov": "Jahodná",
+  "kod": 2785
+ },
+ {
+  "nazov": "Jesenského",
+  "kod": 2815
+ },
+ {
+  "nazov": "Juh-nemocnica",
+  "kod": 3564
+ },
+ {
+  "nazov": "Jurgów, Granica",
+  "kod": 4668
+ },
+ {
+  "nazov": "Jurgów, I",
+  "kod": 4656
+ },
+ {
+  "nazov": "Jurgów, II",
+  "kod": 4658
+ },
+ {
+  "nazov": "Jurgów, Remiza",
+  "kod": 4657
+ },
+ {
+  "nazov": "Jurgów, Stacja Narciarska",
+  "kod": 4659
+ },
+ {
+  "nazov": "Kaskáda",
+  "kod": 2804
+ },
+ {
+  "nazov": "Kežmarok, AS",
+  "kod": 4108
+ },
+ {
+  "nazov": "Kežmarok, centrum",
+  "kod": 4111
+ },
+ {
+  "nazov": "Kežmarok, Garbiarska, tri mosty",
+  "kod": 5017
+ },
+ {
+  "nazov": "Kežmarok, Generála Štefánika",
+  "kod": 5018
+ },
+ {
+  "nazov": "Kežmarok, Mučeníkov, ZŠ",
+  "kod": 5019
+ },
+ {
+  "nazov": "Kežmarok, nemocnica",
+  "kod": 4110
+ },
+ {
+  "nazov": "Kežmarok, PDP TAMI",
+  "kod": 5020
+ },
+ {
+  "nazov": "Kežmarok, Plastiflex",
+  "kod": 5021
+ },
+ {
+  "nazov": "Kežmarok, Pradiareň, priem. areál",
+  "kod": 5022
+ },
+ {
+  "nazov": "Kežmarok, Pradiareň, SPTŠ",
+  "kod": 5023
+ },
+ {
+  "nazov": "Kežmarok, Sídl. Juh, Obrancov mieru",
+  "kod": 5024
+ },
+ {
+  "nazov": "Kežmarok, Sídl. Juh, Petržalská",
+  "kod": 5025
+ },
+ {
+  "nazov": "Kežmarok, Sídl. Sever, ZŠ",
+  "kod": 5026
+ },
+ {
+  "nazov": "Kežmarok, Tatraľan",
+  "kod": 5027
+ },
+ {
+  "nazov": "Kežmarok, Tesco",
+  "kod": 5028
+ },
+ {
+  "nazov": "Kežmarok, ZŠ Hradná",
+  "kod": 5029
+ },
+ {
+  "nazov": "Kežmarské Žľaby",
+  "kod": 3496
+ },
+ {
+  "nazov": "Kovošrot",
+  "kod": 2771
+ },
+ {
+  "nazov": "Kościelisko, Chotarz Hajduk",
+  "kod": 4841
+ },
+ {
+  "nazov": "Kościelisko, Chotarz Polany",
+  "kod": 4842
+ },
+ {
+  "nazov": "Kościelisko, Dolina Kościeliska",
+  "kod": 4760
+ },
+ {
+  "nazov": "Kościelisko, Karpielówka",
+  "kod": 4843
+ },
+ {
+  "nazov": "Kościelisko, Nędzówka I",
+  "kod": 4762
+ },
+ {
+  "nazov": "Kościelisko, Nędzówka II",
+  "kod": 4763
+ },
+ {
+  "nazov": "Kościelisko, Ośrodek Zdrowia",
+  "kod": 4844
+ },
+ {
+  "nazov": "Kościelisko, Sobiczkowa",
+  "kod": 4845
+ },
+ {
+  "nazov": "Kościelisko, Szeligówka",
+  "kod": 4846
+ },
+ {
+  "nazov": "Kościelisko, Urząd Gminy",
+  "kod": 4847
+ },
+ {
+  "nazov": "Kościelisko, Wojdyłówka",
+  "kod": 4848
+ },
+ {
+  "nazov": "Košická",
+  "kod": 2813
+ },
+ {
+  "nazov": "Kukučínova",
+  "kod": 2795
+ },
+ {
+  "nazov": "Lendak, OcÚ",
+  "kod": 4083
+ },
+ {
+  "nazov": "Lendak, Tajchy",
+  "kod": 5307
+ },
+ {
+  "nazov": "Letisko Poprad-Tatry",
+  "kod": 5317
+ },
+ {
+  "nazov": "Levoča, Aut. stanica",
+  "kod": 5030
+ },
+ {
+  "nazov": "Levoča, Košická",
+  "kod": 5031
+ },
+ {
+  "nazov": "Levoča, Michala Hlaváčka",
+  "kod": 5032
+ },
+ {
+  "nazov": "Levoča, Nám. Majstra Pavla",
+  "kod": 5033
+ },
+ {
+  "nazov": "Levoča, Pri Podkove",
+  "kod": 5034
+ },
+ {
+  "nazov": "Levoča, Pri strelnici",
+  "kod": 5035
+ },
+ {
+  "nazov": "Levoča, Sídl. Západ I",
+  "kod": 5036
+ },
+ {
+  "nazov": "Levoča, Sídl. Západ II",
+  "kod": 5037
+ },
+ {
+  "nazov": "Levoča, Štúrova, Pri kaplnke",
+  "kod": 5038
+ },
+ {
+  "nazov": "Levoča, Železničná stanica",
+  "kod": 5039
+ },
+ {
+  "nazov": "Levoča, Železničný riadok, MŠ",
+  "kod": 5040
+ },
+ {
+  "nazov": "Levočská",
+  "kod": 2777
+ },
+ {
+  "nazov": "Lidická",
+  "kod": 2811
+ },
+ {
+  "nazov": "Matejovce pri Poprade",
+  "kod": 2164
+ },
+ {
+  "nazov": "Matejovská",
+  "kod": 3572
+ },
+ {
+  "nazov": "Matejovské námestie",
+  "kod": 2822
+ },
+ {
+  "nazov": "Mláky",
+  "kod": 2814
+ },
+ {
+  "nazov": "Moyzesova",
+  "kod": 2782
+ },
+ {
+  "nazov": "Na letisko",
+  "kod": 4092
+ },
+ {
+  "nazov": "NC Forum",
+  "kod": 2801
+ },
+ {
+  "nazov": "Nemocnica",
+  "kod": 2778
+ },
+ {
+  "nazov": "Novy Targ, Rondo",
+  "kod": 4667
+ },
+ {
+  "nazov": "Nová Lesná",
+  "kod": 2143
+ },
+ {
+  "nazov": "Nová Lesná, cintorín",
+  "kod": 4091
+ },
+ {
+  "nazov": "Nová Lesná, Piesčiny",
+  "kod": 4398
+ },
+ {
+  "nazov": "Nová Polianka",
+  "kod": 2152
+ },
+ {
+  "nazov": "Nový Smokovec",
+  "kod": 2147
+ },
+ {
+  "nazov": "Nowy Targ, Aleja Tysiaclecia II",
+  "kod": 4643
+ },
+ {
+  "nazov": "Nowy Targ, Aleja Tysiaclecia III Hala Gorce",
+  "kod": 4644
+ },
+ {
+  "nazov": "Nowy Targ, Dworzec Autobusowy",
+  "kod": 4642
+ },
+ {
+  "nazov": "Nowy Targ, Dworzec Kolejowy",
+  "kod": 4640
+ },
+ {
+  "nazov": "Nowy Targ, Jana Pawla II",
+  "kod": 4645
+ },
+ {
+  "nazov": "Nowy Targ, PKP ul. Kolejowa",
+  "kod": 4641
+ },
+ {
+  "nazov": "Obchodná akadémia",
+  "kod": 3569
+ },
+ {
+  "nazov": "Okresný úrad",
+  "kod": 2784
+ },
+ {
+  "nazov": "Okružná-podchod",
+  "kod": 4792
+ },
+ {
+  "nazov": "Partizánska",
+  "kod": 3567
+ },
+ {
+  "nazov": "Pekná vyhliadka",
+  "kod": 2156
+ },
+ {
+  "nazov": "Pod lesom",
+  "kod": 2144
+ },
+ {
+  "nazov": "Podtatranská",
+  "kod": 2774
+ },
+ {
+  "nazov": "Poprad-Tatry",
+  "kod": 2141
+ },
+ {
+  "nazov": "Popradské Pleso",
+  "kod": 2154
+ },
+ {
+  "nazov": "Poronin, Dom kultury",
+  "kod": 3503
+ },
+ {
+  "nazov": "Poronin, Jesionkówka",
+  "kod": 4764
+ },
+ {
+  "nazov": "Poronin, Kośle",
+  "kod": 4765
+ },
+ {
+  "nazov": "Poronin, Kośne Hamry",
+  "kod": 3504
+ },
+ {
+  "nazov": "Poronin, Misiagi",
+  "kod": 4766
+ },
+ {
+  "nazov": "Poronin, Stasikówka",
+  "kod": 3505
+ },
+ {
+  "nazov": "Priemyselná",
+  "kod": 2805
+ },
+ {
+  "nazov": "Rastislavova",
+  "kod": 2797
+ },
+ {
+  "nazov": "Rožňavská cesta",
+  "kod": 2796
+ },
+ {
+  "nazov": "Ružový sad",
+  "kod": 3571
+ },
+ {
+  "nazov": "Sibír",
+  "kod": 2148
+ },
+ {
+  "nazov": "Skladová",
+  "kod": 2821
+ },
+ {
+  "nazov": "Slobody",
+  "kod": 2817
+ },
+ {
+  "nazov": "Sobotské námestie",
+  "kod": 2816
+ },
+ {
+  "nazov": "Sokolovská",
+  "kod": 2812
+ },
+ {
+  "nazov": "SOŠ remesiel",
+  "kod": 4793
+ },
+ {
+  "nazov": "Spišská Sobota",
+  "kod": 2163
+ },
+ {
+  "nazov": "Stará Lesná",
+  "kod": 2159
+ },
+ {
+  "nazov": "Starý Smokovec",
+  "kod": 2146
+ },
+ {
+  "nazov": "Strážske námestie",
+  "kod": 2820
+ },
+ {
+  "nazov": "Studený Potok",
+  "kod": 2165
+ },
+ {
+  "nazov": "Sv. Cyrila a Metoda",
+  "kod": 2780
+ },
+ {
+  "nazov": "Svit, AS",
+  "kod": 4808
+ },
+ {
+  "nazov": "Svit, Chemosvit",
+  "kod": 4809
+ },
+ {
+  "nazov": "Svit, Kultúrny dom",
+  "kod": 5045
+ },
+ {
+  "nazov": "Svit, Materská škola",
+  "kod": 5046
+ },
+ {
+  "nazov": "Svit, Mäsopriemysel",
+  "kod": 4811
+ },
+ {
+  "nazov": "Svit, Obuva",
+  "kod": 5047
+ },
+ {
+  "nazov": "Svit, Podskalka, Horská",
+  "kod": 5041
+ },
+ {
+  "nazov": "Svit, Podskalka, Jednota",
+  "kod": 5042
+ },
+ {
+  "nazov": "Svit, Podskalka, Okružná",
+  "kod": 5043
+ },
+ {
+  "nazov": "Svit, Podskalka, Skalná",
+  "kod": 5044
+ },
+ {
+  "nazov": "Svit, Pošta",
+  "kod": 5048
+ },
+ {
+  "nazov": "Svit, Tatrapeko",
+  "kod": 5051
+ },
+ {
+  "nazov": "Svit, Ul. 9. mája",
+  "kod": 5052
+ },
+ {
+  "nazov": "Svit, Ul. mieru",
+  "kod": 5053
+ },
+ {
+  "nazov": "Svit, ZŠ",
+  "kod": 4812
+ },
+ {
+  "nazov": "Svit, Štúrova, č. d. 286",
+  "kod": 5049
+ },
+ {
+  "nazov": "Svit, Štúrova, č. d. 294",
+  "kod": 5050
+ },
+ {
+  "nazov": "Tajovského",
+  "kod": 2781
+ },
+ {
+  "nazov": "Tatr. Lomnica P+R",
+  "kod": 4513
+ },
+ {
+  "nazov": "Tatramat",
+  "kod": 2794
+ },
+ {
+  "nazov": "Tatranská Javorina, Podspády",
+  "kod": 4095
+ },
+ {
+  "nazov": "Tatranská Kotlina, Belianska jaskyňa",
+  "kod": 3493
+ },
+ {
+  "nazov": "Tatranská Kotlina, Fľak",
+  "kod": 4086
+ },
+ {
+  "nazov": "Tatranská Kotlina, Kardolina",
+  "kod": 4100
+ },
+ {
+  "nazov": "Tatranská Kotlina, Stará Kotlina",
+  "kod": 4087
+ },
+ {
+  "nazov": "Tatranská Kotlina, Čarda",
+  "kod": 3492
+ },
+ {
+  "nazov": "Tatranská Lesná",
+  "kod": 2158
+ },
+ {
+  "nazov": "Tatranská Lomnica",
+  "kod": 2160
+ },
+ {
+  "nazov": "Tatranská Lomnica, Tatranec",
+  "kod": 4116
+ },
+ {
+  "nazov": "Tatranská Lomnica, zastávka",
+  "kod": 2166
+ },
+ {
+  "nazov": "Tatranská Lomnica, Čukotka",
+  "kod": 4114
+ },
+ {
+  "nazov": "Tatranská Polianka",
+  "kod": 2150
+ },
+ {
+  "nazov": "Tatranské Matliare, kúpele",
+  "kod": 4089
+ },
+ {
+  "nazov": "Tatranské námestie",
+  "kod": 3566
+ },
+ {
+  "nazov": "Tatranské Zruby",
+  "kod": 2149
+ },
+ {
+  "nazov": "Tatranský Lieskovec",
+  "kod": 2161
+ },
+ {
+  "nazov": "Tatravagónka",
+  "kod": 2792
+ },
+ {
+  "nazov": "Teplická",
+  "kod": 2789
+ },
+ {
+  "nazov": "Tesco",
+  "kod": 3561
+ },
+ {
+  "nazov": "Tomášikova",
+  "kod": 2779
+ },
+ {
+  "nazov": "Uherova",
+  "kod": 2783
+ },
+ {
+  "nazov": "Uralská",
+  "kod": 2818
+ },
+ {
+  "nazov": "Velické námestie",
+  "kod": 2787
+ },
+ {
+  "nazov": "Veľká Lomnica, golf",
+  "kod": 2167
+ },
+ {
+  "nazov": "Veľká-cintorín",
+  "kod": 2803
+ },
+ {
+  "nazov": "Veľký Slavkov",
+  "kod": 2142
+ },
+ {
+  "nazov": "Veľký Slavkov, kostol",
+  "kod": 4098
+ },
+ {
+  "nazov": "Veľký Slavkov, Panorama",
+  "kod": 4753
+ },
+ {
+  "nazov": "Veľký Slavkov, ZŠ",
+  "kod": 4384
+ },
+ {
+  "nazov": "Vyšné Hágy",
+  "kod": 2153
+ },
+ {
+  "nazov": "Witów, Biały Potok",
+  "kod": 4767
+ },
+ {
+  "nazov": "Witów, Dolina Chochołowska Skrzyżowanie",
+  "kod": 4769
+ },
+ {
+  "nazov": "Witów, Dolina Wierchowa",
+  "kod": 4770
+ },
+ {
+  "nazov": "Witów, Dolny",
+  "kod": 4997
+ },
+ {
+  "nazov": "Witów, Długoszówka",
+  "kod": 4768
+ },
+ {
+  "nazov": "Witów, Kojsówka Niżna",
+  "kod": 4772
+ },
+ {
+  "nazov": "Witów, Ośrodek Zdrowia",
+  "kod": 4773
+ },
+ {
+  "nazov": "Witów, Szkoła",
+  "kod": 4774
+ },
+ {
+  "nazov": "Witów, Wspólnota Leśna",
+  "kod": 4775
+ },
+ {
+  "nazov": "Zakopane, Aleje 3 Maja Dolne",
+  "kod": 4776
+ },
+ {
+  "nazov": "Zakopane, Czajki",
+  "kod": 4849
+ },
+ {
+  "nazov": "Zakopane, Dworzec autobusowy",
+  "kod": 3507
+ },
+ {
+  "nazov": "Zakopane, Górka",
+  "kod": 4850
+ },
+ {
+  "nazov": "Zakopane, Mała Łąka",
+  "kod": 4778
+ },
+ {
+  "nazov": "Zakopane, Równia Krupowa",
+  "kod": 3510
+ },
+ {
+  "nazov": "Zakopane, Spyrkówka",
+  "kod": 4781
+ },
+ {
+  "nazov": "Zakopane, Szymoszkowa",
+  "kod": 4851
+ },
+ {
+  "nazov": "Zakopane, ul. Chramcówki",
+  "kod": 4783
+ },
+ {
+  "nazov": "Zakopane, ul. Kasprowicza",
+  "kod": 4784
+ },
+ {
+  "nazov": "Zakopane, Ustup",
+  "kod": 4785
+ },
+ {
+  "nazov": "Zimná",
+  "kod": 3565
+ },
+ {
+  "nazov": "Zimný štadión",
+  "kod": 2809
+ },
+ {
+  "nazov": "ZŠ Vagonárska",
+  "kod": 2819
+ },
+ {
+  "nazov": "Šafárikova",
+  "kod": 2786
+ },
+ {
+  "nazov": "Šarišská",
+  "kod": 2788
+ },
+ {
+  "nazov": "Široká",
+  "kod": 2790
+ },
+ {
+  "nazov": "Šoltésovej",
+  "kod": 2798
+ },
+ {
+  "nazov": "Štefánikova",
+  "kod": 2776
+ },
+ {
+  "nazov": "Štrba",
+  "kod": 2162
+ },
+ {
+  "nazov": "Štrbské Pleso",
+  "kod": 2155
+ },
+ {
+  "nazov": "Štúrova",
+  "kod": 2773
+ },
+ {
+  "nazov": "Ždiar, MŠ",
+  "kod": 4102
+ },
+ {
+  "nazov": "Ždiar, Odbočka",
+  "kod": 4103
+ },
+ {
+  "nazov": "Ždiar, Píla",
+  "kod": 4104
+ },
+ {
+  "nazov": "Ždiar, rázc. Bachledova dolina",
+  "kod": 3490
+ },
+ {
+  "nazov": "Ždiar, Starý mlyn",
+  "kod": 3489
+ },
+ {
+  "nazov": "Ždiar, Strednica",
+  "kod": 4106
+ },
+ {
+  "nazov": "Ždiar, Tatra",
+  "kod": 3487
+ },
+ {
+  "nazov": "Železničná",
+  "kod": 2791
+ }
+]

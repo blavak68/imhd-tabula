@@ -1,0 +1,1070 @@
+[
+ {
+  "nazov": "*",
+  "kod": 2064
+ },
+ {
+  "nazov": "A. Kvasa",
+  "kod": 4930
+ },
+ {
+  "nazov": "Alejová, gymnázium",
+  "kod": 1222
+ },
+ {
+  "nazov": "Alpinka",
+  "kod": 1022
+ },
+ {
+  "nazov": "Alvinczyho",
+  "kod": 1023
+ },
+ {
+  "nazov": "Alžbetina, Rektorát UPJŠ",
+  "kod": 1209
+ },
+ {
+  "nazov": "Amfiteáter",
+  "kod": 1024
+ },
+ {
+  "nazov": "Anička",
+  "kod": 1025
+ },
+ {
+  "nazov": "Astória",
+  "kod": 1026
+ },
+ {
+  "nazov": "Atletická",
+  "kod": 1027
+ },
+ {
+  "nazov": "Aténska",
+  "kod": 1129
+ },
+ {
+  "nazov": "Autocamping",
+  "kod": 1028
+ },
+ {
+  "nazov": "Bahýľova",
+  "kod": 1264
+ },
+ {
+  "nazov": "Barca, kostoly",
+  "kod": 1088
+ },
+ {
+  "nazov": "Barca, kultúrny dom",
+  "kod": 1095
+ },
+ {
+  "nazov": "Barca, základná škola",
+  "kod": 1226
+ },
+ {
+  "nazov": "Baňa Bankov",
+  "kod": 1029
+ },
+ {
+  "nazov": "Belehradská",
+  "kod": 1030
+ },
+ {
+  "nazov": "Berlínska",
+  "kod": 1031
+ },
+ {
+  "nazov": "Bernolákova",
+  "kod": 1146
+ },
+ {
+  "nazov": "Bocatiova",
+  "kod": 1257
+ },
+ {
+  "nazov": "Bosákova",
+  "kod": 1038
+ },
+ {
+  "nazov": "Botanická záhrada",
+  "kod": 1032
+ },
+ {
+  "nazov": "Bratislavská",
+  "kod": 1319
+ },
+ {
+  "nazov": "Bruselská",
+  "kod": 1112
+ },
+ {
+  "nazov": "Budanova",
+  "kod": 1242
+ },
+ {
+  "nazov": "Budapeštianska",
+  "kod": 1084
+ },
+ {
+  "nazov": "Bukovecká",
+  "kod": 1138
+ },
+ {
+  "nazov": "Bytový podnik mesta Košice",
+  "kod": 1033
+ },
+ {
+  "nazov": "Cassovar",
+  "kod": 1248
+ },
+ {
+  "nazov": "Centrálne prekladisko rúd",
+  "kod": 1039
+ },
+ {
+  "nazov": "Chrastie",
+  "kod": 1071
+ },
+ {
+  "nazov": "Cottbuská",
+  "kod": 1122
+ },
+ {
+  "nazov": "CVČ Domino",
+  "kod": 1040
+ },
+ {
+  "nazov": "Cyklistická",
+  "kod": 1041
+ },
+ {
+  "nazov": "Dargovských hrdinov, MiÚ",
+  "kod": 1113
+ },
+ {
+  "nazov": "Detský domov Satelit",
+  "kod": 1108
+ },
+ {
+  "nazov": "Diamantová",
+  "kod": 1045
+ },
+ {
+  "nazov": "Dneperská",
+  "kod": 1046
+ },
+ {
+  "nazov": "Dolný Bankov",
+  "kod": 1047
+ },
+ {
+  "nazov": "Dom umenia",
+  "kod": 1048
+ },
+ {
+  "nazov": "Dopravná",
+  "kod": 1185
+ },
+ {
+  "nazov": "DP mesta Košice",
+  "kod": 1050
+ },
+ {
+  "nazov": "Drabova",
+  "kod": 1051
+ },
+ {
+  "nazov": "Dénešova",
+  "kod": 1244
+ },
+ {
+  "nazov": "Džungľa",
+  "kod": 1043
+ },
+ {
+  "nazov": "EcoPoint",
+  "kod": 1255
+ },
+ {
+  "nazov": "Exnárova",
+  "kod": 1053
+ },
+ {
+  "nazov": "EZ Elektrosystémy",
+  "kod": 1054
+ },
+ {
+  "nazov": "Faurecia",
+  "kod": 1249
+ },
+ {
+  "nazov": "Fábryho",
+  "kod": 1055
+ },
+ {
+  "nazov": "Garáž Hornádska",
+  "kod": 1274
+ },
+ {
+  "nazov": "Golianova",
+  "kod": 1056
+ },
+ {
+  "nazov": "Grunt",
+  "kod": 1057
+ },
+ {
+  "nazov": "Gymnázium Opatovská",
+  "kod": 1058
+ },
+ {
+  "nazov": "Haburská",
+  "kod": 1059
+ },
+ {
+  "nazov": "Haniska, Stavadlo 1",
+  "kod": 1271
+ },
+ {
+  "nazov": "Haniska, Unimo",
+  "kod": 1272
+ },
+ {
+  "nazov": "Haniska, železničná stanica",
+  "kod": 1270
+ },
+ {
+  "nazov": "Hanojská",
+  "kod": 1061
+ },
+ {
+  "nazov": "Havlíčkova",
+  "kod": 1200
+ },
+ {
+  "nazov": "Heringeš",
+  "kod": 1254
+ },
+ {
+  "nazov": "Hečkova",
+  "kod": 1062
+ },
+ {
+  "nazov": "Hlavná pošta",
+  "kod": 1063
+ },
+ {
+  "nazov": "Hodonínska",
+  "kod": 1065
+ },
+ {
+  "nazov": "Holubyho",
+  "kod": 1245
+ },
+ {
+  "nazov": "Horný Bankov",
+  "kod": 1066
+ },
+ {
+  "nazov": "Hronská",
+  "kod": 1068
+ },
+ {
+  "nazov": "Hríbová",
+  "kod": 4549
+ },
+ {
+  "nazov": "Húskova",
+  "kod": 1069
+ },
+ {
+  "nazov": "Idanská",
+  "kod": 1157
+ },
+ {
+  "nazov": "Jahodná, chata",
+  "kod": 1073
+ },
+ {
+  "nazov": "Jahodná, horáreň",
+  "kod": 1246
+ },
+ {
+  "nazov": "Jahodná, kopec",
+  "kod": 1074
+ },
+ {
+  "nazov": "Jakabov palác",
+  "kod": 1075
+ },
+ {
+  "nazov": "Janigova",
+  "kod": 1076
+ },
+ {
+  "nazov": "Južná trieda č. 125",
+  "kod": 1176
+ },
+ {
+  "nazov": "Jánošíkova",
+  "kod": 1268
+ },
+ {
+  "nazov": "Kalinovská",
+  "kod": 1077
+ },
+ {
+  "nazov": "Kasárne, Kulturpark",
+  "kod": 1181
+ },
+ {
+  "nazov": "Katastrálny úrad",
+  "kod": 1219
+ },
+ {
+  "nazov": "Kavečany",
+  "kod": 1082
+ },
+ {
+  "nazov": "Kavečany, cintorín",
+  "kod": 1034
+ },
+ {
+  "nazov": "Kavečany, MiÚ",
+  "kod": 1111
+ },
+ {
+  "nazov": "Kino Družba",
+  "kod": 1078
+ },
+ {
+  "nazov": "Klimkovičova",
+  "kod": 1080
+ },
+ {
+  "nazov": "Kokšov Bakša, kostol",
+  "kod": 1241
+ },
+ {
+  "nazov": "Kokšov Bakša, Správa mestskej zelene",
+  "kod": 1238
+ },
+ {
+  "nazov": "Kokšov Bakša, č. d. 2",
+  "kod": 1239
+ },
+ {
+  "nazov": "Kokšov Bakša, č. d. 215",
+  "kod": 1240
+ },
+ {
+  "nazov": "Kolibár",
+  "kod": 1081
+ },
+ {
+  "nazov": "Kovaľská",
+  "kod": 1037
+ },
+ {
+  "nazov": "Košická futbalová aréna",
+  "kod": 3728
+ },
+ {
+  "nazov": "Košická Nová Ves",
+  "kod": 1127
+ },
+ {
+  "nazov": "Košická Nová Ves, cintorín",
+  "kod": 1035
+ },
+ {
+  "nazov": "Krajský súd",
+  "kod": 1089
+ },
+ {
+  "nazov": "Krematórium",
+  "kod": 1091
+ },
+ {
+  "nazov": "Kremnická",
+  "kod": 1092
+ },
+ {
+  "nazov": "Kruhový objazd, Alejová",
+  "kod": 1261
+ },
+ {
+  "nazov": "Kruhový objazd, Moldavská",
+  "kod": 1260
+ },
+ {
+  "nazov": "Kruhový objazd, Trieda SNP",
+  "kod": 1259
+ },
+ {
+  "nazov": "Krupinská",
+  "kod": 1093
+ },
+ {
+  "nazov": "Králičia",
+  "kod": 1201
+ },
+ {
+  "nazov": "Krásna",
+  "kod": 1096
+ },
+ {
+  "nazov": "Kvetná",
+  "kod": 1097
+ },
+ {
+  "nazov": "KVP, kláštor",
+  "kod": 1079
+ },
+ {
+  "nazov": "Lackova",
+  "kod": 1098
+ },
+ {
+  "nazov": "Ladožská",
+  "kod": 1087
+ },
+ {
+  "nazov": "Letecká",
+  "kod": 1099
+ },
+ {
+  "nazov": "Letisko",
+  "kod": 1100
+ },
+ {
+  "nazov": "Levočská",
+  "kod": 1137
+ },
+ {
+  "nazov": "Lingov",
+  "kod": 1101
+ },
+ {
+  "nazov": "Lorinčík",
+  "kod": 1148
+ },
+ {
+  "nazov": "Lorinčík, MiÚ",
+  "kod": 1116
+ },
+ {
+  "nazov": "Ludvíkov Dvor",
+  "kod": 1102
+ },
+ {
+  "nazov": "Luník IX, rázcestie",
+  "kod": 1171
+ },
+ {
+  "nazov": "Luník IX, sídlisko",
+  "kod": 1180
+ },
+ {
+  "nazov": "Luník VIII",
+  "kod": 1119
+ },
+ {
+  "nazov": "Lúčnicová",
+  "kod": 4551
+ },
+ {
+  "nazov": "Madridská",
+  "kod": 1103
+ },
+ {
+  "nazov": "Magistrát mesta Košice",
+  "kod": 1110
+ },
+ {
+  "nazov": "Magnezitárska",
+  "kod": 1104
+ },
+ {
+  "nazov": "Malá stanica",
+  "kod": 1106
+ },
+ {
+  "nazov": "Maša",
+  "kod": 1107
+ },
+ {
+  "nazov": "Mengusovská",
+  "kod": 1109
+ },
+ {
+  "nazov": "Meteorová",
+  "kod": 4801
+ },
+ {
+  "nazov": "Michalovská",
+  "kod": 1118
+ },
+ {
+  "nazov": "Mier",
+  "kod": 1145
+ },
+ {
+  "nazov": "Miestny úrad, KVP",
+  "kod": 1114
+ },
+ {
+  "nazov": "Minská",
+  "kod": 1253
+ },
+ {
+  "nazov": "Mliečna",
+  "kod": 1044
+ },
+ {
+  "nazov": "Mlynská bašta",
+  "kod": 1120
+ },
+ {
+  "nazov": "Moldavská, obchodné centrá",
+  "kod": 1140
+ },
+ {
+  "nazov": "Moskovská",
+  "kod": 1072
+ },
+ {
+  "nazov": "Motorest, Krásna",
+  "kod": 1124
+ },
+ {
+  "nazov": "Moňok",
+  "kod": 1121
+ },
+ {
+  "nazov": "Myslava, kostol",
+  "kod": 1085
+ },
+ {
+  "nazov": "Myslava, Pri škole",
+  "kod": 1225
+ },
+ {
+  "nazov": "Myslavská 87",
+  "kod": 1125
+ },
+ {
+  "nazov": "Májová",
+  "kod": 1105
+ },
+ {
+  "nazov": "Múzeum obetí komunizmu",
+  "kod": 4145
+ },
+ {
+  "nazov": "Napájadlá",
+  "kod": 1070
+ },
+ {
+  "nazov": "Nemocnica Šaca",
+  "kod": 1134
+ },
+ {
+  "nazov": "Nová nemocnica",
+  "kod": 1164
+ },
+ {
+  "nazov": "Nám. Maratónu mieru",
+  "kod": 1126
+ },
+ {
+  "nazov": "Nám. osloboditeľov",
+  "kod": 1130
+ },
+ {
+  "nazov": "Námestie sv. Cyrila a Metoda",
+  "kod": 1267
+ },
+ {
+  "nazov": "Národné námestie",
+  "kod": 1132
+ },
+ {
+  "nazov": "Obchodná akadémia",
+  "kod": 1135
+ },
+ {
+  "nazov": "Obchodné centrum Cassovia",
+  "kod": 1243
+ },
+ {
+  "nazov": "Obchodné centrum Optima",
+  "kod": 1141
+ },
+ {
+  "nazov": "OC Optima, dolný vstup",
+  "kod": 1256
+ },
+ {
+  "nazov": "Okresný úrad",
+  "kod": 1090
+ },
+ {
+  "nazov": "Ovsená",
+  "kod": 1150
+ },
+ {
+  "nazov": "Palackého",
+  "kod": 1151
+ },
+ {
+  "nazov": "Panoráma",
+  "kod": 4751
+ },
+ {
+  "nazov": "Pasteurova",
+  "kod": 1152
+ },
+ {
+  "nazov": "Pereš, vodojem",
+  "kod": 1217
+ },
+ {
+  "nazov": "Perešská",
+  "kod": 1161
+ },
+ {
+  "nazov": "Plynáreň Haniska",
+  "kod": 1156
+ },
+ {
+  "nazov": "Plťová",
+  "kod": 1155
+ },
+ {
+  "nazov": "Pod Furčou",
+  "kod": 1158
+ },
+ {
+  "nazov": "Podhradová",
+  "kod": 1229
+ },
+ {
+  "nazov": "Podjazdy Haniska",
+  "kod": 1159
+ },
+ {
+  "nazov": "Podnikateľská",
+  "kod": 1160
+ },
+ {
+  "nazov": "Polianska",
+  "kod": 1162
+ },
+ {
+  "nazov": "Poliklinika KVP",
+  "kod": 1165
+ },
+ {
+  "nazov": "Poliklinika Sever",
+  "kod": 1166
+ },
+ {
+  "nazov": "Poliklinika Východ",
+  "kod": 1163
+ },
+ {
+  "nazov": "Pollova",
+  "kod": 1266
+ },
+ {
+  "nazov": "Postupimská",
+  "kod": 1139
+ },
+ {
+  "nazov": "Považská, Nová nemocnica",
+  "kod": 1133
+ },
+ {
+  "nazov": "Poľov",
+  "kod": 1149
+ },
+ {
+  "nazov": "Poľov, rázcestie",
+  "kod": 1172
+ },
+ {
+  "nazov": "Poľovská",
+  "kod": 1117
+ },
+ {
+  "nazov": "Poľská",
+  "kod": 1167
+ },
+ {
+  "nazov": "Pošta 2",
+  "kod": 1168
+ },
+ {
+  "nazov": "Prekladisko hotových výrobkov",
+  "kod": 1153
+ },
+ {
+  "nazov": "Pri hati",
+  "kod": 1169
+ },
+ {
+  "nazov": "Pri Hornáde",
+  "kod": 1123
+ },
+ {
+  "nazov": "Pri prachárni, obchodné centrá",
+  "kod": 1170
+ },
+ {
+  "nazov": "Pri Teleku",
+  "kod": 1252
+ },
+ {
+  "nazov": "Priemyselná",
+  "kod": 1206
+ },
+ {
+  "nazov": "Priemyselný park pri letisku",
+  "kod": 1263
+ },
+ {
+  "nazov": "Pytliacka",
+  "kod": 1147
+ },
+ {
+  "nazov": "Radnica Starého mesta",
+  "kod": 1193
+ },
+ {
+  "nazov": "Rašelinové závody",
+  "kod": 4389
+ },
+ {
+  "nazov": "Revúcka",
+  "kod": 1115
+ },
+ {
+  "nazov": "Rovníková",
+  "kod": 1173
+ },
+ {
+  "nazov": "Rozvojová",
+  "kod": 1128
+ },
+ {
+  "nazov": "Rušňové depo",
+  "kod": 1174
+ },
+ {
+  "nazov": "Ružová, OC Galéria",
+  "kod": 1175
+ },
+ {
+  "nazov": "Ryba",
+  "kod": 1067
+ },
+ {
+  "nazov": "Senný trh",
+  "kod": 1178
+ },
+ {
+  "nazov": "Sečovská",
+  "kod": 1177
+ },
+ {
+  "nazov": "Slovenská č. 20",
+  "kod": 1154
+ },
+ {
+  "nazov": "Slovenská č. 42",
+  "kod": 1184
+ },
+ {
+  "nazov": "Slovenský rozhlas",
+  "kod": 1183
+ },
+ {
+  "nazov": "Sládkovičova",
+  "kod": 1182
+ },
+ {
+  "nazov": "Socha Jána Pavla II.",
+  "kod": 1179
+ },
+ {
+  "nazov": "Sofijská",
+  "kod": 1186
+ },
+ {
+  "nazov": "Sokolovská",
+  "kod": 1187
+ },
+ {
+  "nazov": "SOŠ automobilová",
+  "kod": 1188
+ },
+ {
+  "nazov": "Spaľovňa",
+  "kod": 1190
+ },
+ {
+  "nazov": "Spoločenský pavilón",
+  "kod": 1191
+ },
+ {
+  "nazov": "Staničné námestie",
+  "kod": 1234
+ },
+ {
+  "nazov": "Staroslovanská",
+  "kod": 1251
+ },
+ {
+  "nazov": "Starozagorská",
+  "kod": 1194
+ },
+ {
+  "nazov": "Stará nemocnica",
+  "kod": 1192
+ },
+ {
+  "nazov": "Stavadlo 2 NSSK",
+  "kod": 1195
+ },
+ {
+  "nazov": "Stodolova",
+  "kod": 1196
+ },
+ {
+  "nazov": "Suchodolinská",
+  "kod": 1198
+ },
+ {
+  "nazov": "Suchá dolina",
+  "kod": 1197
+ },
+ {
+  "nazov": "Svornosti",
+  "kod": 1199
+ },
+ {
+  "nazov": "Technická univerzita",
+  "kod": 1203
+ },
+ {
+  "nazov": "Tepláreň",
+  "kod": 1204
+ },
+ {
+  "nazov": "Teplého",
+  "kod": 1205
+ },
+ {
+  "nazov": "Tesco, Džungľa",
+  "kod": 1064
+ },
+ {
+  "nazov": "Tomášikova",
+  "kod": 1144
+ },
+ {
+  "nazov": "Tramínová",
+  "kod": 1258
+ },
+ {
+  "nazov": "Trebišovská",
+  "kod": 1207
+ },
+ {
+  "nazov": "Triton",
+  "kod": 1208
+ },
+ {
+  "nazov": "Ulica Sv. Ladislava",
+  "kod": 1094
+ },
+ {
+  "nazov": "Uralská",
+  "kod": 5331
+ },
+ {
+  "nazov": "Učňovská",
+  "kod": 1189
+ },
+ {
+  "nazov": "V úvoze",
+  "kod": 1210
+ },
+ {
+  "nazov": "Valaliky, Volvo, hala pohonu",
+  "kod": 5318
+ },
+ {
+  "nazov": "Valaliky, Volvo, lisovňa",
+  "kod": 5319
+ },
+ {
+  "nazov": "Valaliky, Volvo, vstupný areál",
+  "kod": 5320
+ },
+ {
+  "nazov": "Valcovne NSSK",
+  "kod": 1211
+ },
+ {
+  "nazov": "Važecká",
+  "kod": 1143
+ },
+ {
+  "nazov": "Verejný cintorín",
+  "kod": 1036
+ },
+ {
+  "nazov": "Viničná",
+  "kod": 1212
+ },
+ {
+  "nazov": "Vitalina",
+  "kod": 1213
+ },
+ {
+  "nazov": "Vo výmoli",
+  "kod": 1214
+ },
+ {
+  "nazov": "Vodná",
+  "kod": 1216
+ },
+ {
+  "nazov": "Vodárenská",
+  "kod": 1215
+ },
+ {
+  "nazov": "Vrátnica 4 NSSK",
+  "kod": 1218
+ },
+ {
+  "nazov": "VSS, križovatka",
+  "kod": 1220
+ },
+ {
+  "nazov": "Vstupný areál NSSK",
+  "kod": 1221
+ },
+ {
+  "nazov": "Vyhliadková veža",
+  "kod": 1223
+ },
+ {
+  "nazov": "Vyšné Opátske",
+  "kod": 1086
+ },
+ {
+  "nazov": "Vyšný dvor",
+  "kod": 1250
+ },
+ {
+  "nazov": "Zelená stráň",
+  "kod": 1265
+ },
+ {
+  "nazov": "Zelená stráň, obchodné centrá",
+  "kod": 1269
+ },
+ {
+  "nazov": "Zelený dvor",
+  "kod": 1227
+ },
+ {
+  "nazov": "Zimná",
+  "kod": 1228
+ },
+ {
+  "nazov": "Zoologická záhrada",
+  "kod": 1230
+ },
+ {
+  "nazov": "Zupkova",
+  "kod": 1142
+ },
+ {
+  "nazov": "ZŠ Bernolákova",
+  "kod": 1273
+ },
+ {
+  "nazov": "ZŠ Polianska",
+  "kod": 1343
+ },
+ {
+  "nazov": "Útulok pre zvieratá",
+  "kod": 1247
+ },
+ {
+  "nazov": "Čermeľ",
+  "kod": 1042
+ },
+ {
+  "nazov": "Červený rak",
+  "kod": 4931
+ },
+ {
+  "nazov": "Ďumbierska",
+  "kod": 1052
+ },
+ {
+  "nazov": "Šaca, námestie",
+  "kod": 1131
+ },
+ {
+  "nazov": "Šebastovce",
+  "kod": 1237
+ },
+ {
+  "nazov": "Školy pre telesne postihnutých",
+  "kod": 1049
+ },
+ {
+  "nazov": "Štrbská",
+  "kod": 1202
+ },
+ {
+  "nazov": "Ťahanovská",
+  "kod": 1083
+ },
+ {
+  "nazov": "Železničná nemocnica",
+  "kod": 1233
+ },
+ {
+  "nazov": "Železničná zastávka Valaliky",
+  "kod": 1232
+ },
+ {
+  "nazov": "Železničná zastávka Ťahanovce",
+  "kod": 1231
+ },
+ {
+  "nazov": "Železníky",
+  "kod": 1235
+ },
+ {
+  "nazov": "Železníky, križovatka",
+  "kod": 1136
+ },
+ {
+  "nazov": "Želiarska",
+  "kod": 1224
+ },
+ {
+  "nazov": "Žilinská",
+  "kod": 1236
+ }
+]
