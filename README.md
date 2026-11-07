@@ -2,7 +2,7 @@
 
 Vlastná integrácia (custom component), ktorá zobrazuje odchody z virtuálnej
 zastávkovej tabule [imhd.sk](https://imhd.sk) priamo v Home Assistantovi.
-Dáta chodia v reálnom čase cez socket.io, nie pollingom.
+Dáta chodia v reálnom čase.
 
 > **Neoficiálny projekt.** Nie je spojený so službou imhd.sk ani s jej
 > prevádzkovateľom. Používa rovnaké rozhranie ako webová stránka tabule, ktoré
