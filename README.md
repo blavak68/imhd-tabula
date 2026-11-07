@@ -68,15 +68,7 @@ departures:
     in_minutes: 1
     display: 1 min
     platform: 1125
-    scheduled: '2026-11-07T08:52:36+00:00'
-    delay_min: 0
-    realtime: true
-    stuck: false
 ```
-
-Údaj o meškaní sa počíta ako rozdiel medzi očakávaným a plánovaným časom
-odchodu. Spoje bez sledovania vozidla (cestovný poriadok) majú `realtime:
-false`.
 
 ## Ako to funguje
 
