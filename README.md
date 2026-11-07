@@ -89,11 +89,6 @@ znova pripojí.
 
 ## Vývoj
 
-```bash
-pip install ruff
-ruff check .
-```
-
 GitHub Actions (`.github/workflows/validate.yml`) spúšťa Hassfest, validáciu
 HACS a kontrolu štýlu kódu. Po nahratí tagu `vX.Y.Z` vytvorí
 `release.yml` vydanie s archívom integrácie.
