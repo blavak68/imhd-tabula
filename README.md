@@ -1,4 +1,4 @@
-# Odjazdové zastávkové tabule v SR pre Home Assistant
+# Odjazdové tabule v SR pre Home Assistant
 
 Vlastná integrácia (custom component), ktorá zobrazuje odchody z virtuálnej
 zastávkovej tabule [imhd.sk](https://imhd.sk) priamo v Home Assistantovi.
