@@ -1,15 +1,34 @@
 # Karta Markdown pre dashboard. Upravte názov entity podľa seba.
 type: markdown
 content: |
-  {% set s = 'sensor.NAME' %}
-  {% set mesto = state_attr(s,'city') or '' %}
-  {% set zastavka = state_attr(s,'stop') or '' %}
-  {% set deps = (state_attr(s,'departures') or []) | list %}
-  📍 **{{ zastavka }}** · {{ mesto }}
+  {% set s = 'sensor.NAZOV' %}
+  {% set mesto = state_attr(s,'city')  %}
+  {% set zastavka = state_attr(s,'stop') %}
+  {% set deps = (state_attr(s,'departures') or []) | rejectattr('line','eq','►') | list %}
+  📍 **{{ zastavka }}** · región {{ mesto }}
   {% if deps | length == 0 %}Žiadne plánované odchody{% else %}
   | | Linka | Smer | Odchod |
   |:-:|:-:|:--|--:|
-  {%- for d in deps[:10] %}
-  | {{ '🚆' if d.line | regex_match('^[RS][0-9]') else '🚍' }} | **{{ d.line }}** | {{ d.destination }} | {{ 'teraz' if d.in_minutes < 1 else (d.in_minutes ~ ' min' if d.in_minutes < 60 else (d.time | as_timestamp | timestamp_custom('%H:%M'))) }}{{ ' (+' ~ d.delay_min ~ ')' if d.realtime and d.delay_min and d.delay_min > 0 else '' }} |
-  {%- endfor %}
-  {% endif %}
+  {%- for d in deps[:20] %}
+  | {{ '🚆' if d.line | regex_match('^[RS][0-9]') else '🚍' }} | **{{ d.line
+  }}** | {{ d.destination }} | {{ 'teraz' if d.in_minutes < 1 else (d.in_minutes
+  ~ ' min' if d.in_minutes < 60 else (d.time | as_timestamp |
+  timestamp_custom('%H:%M'))) }} | {%- endfor %} {% endif %}
+card_mod:
+  style:
+    .: |
+      ha-card {
+        border: 0px solid white;
+        border-radius: 1px;
+      }
+    ha-markdown$: |
+      table {
+        border-collapse: collapse !important;
+        width: 100%;
+      }
+      th, td {
+        border: 0px solid gray !important;
+        padding: 4px 8px !important;
+        text-align: center !important;
+        vertical-align: middle;
+      }
