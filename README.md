@@ -51,7 +51,7 @@ Zoznamy sú súbory `custom_components/imhd_tabula/zastavky_<kod>.json`, kde
 `<kod>` je kód mesta z adresy imhd.sk (`ba`, `ke`, `tt`, ...). Formulár ponúka
 mestá, pre ktoré taký súbor existuje. Ak žiadny nie je, zobrazí sa formulár na
 ručné zadanie kódu mesta a ID zastávky (to je parameter `st=` v adrese
-tabule, napr. `imhd.sk/ba/online-zastavkova-tabula?st=3534`).
+tabule, napr. `imhd.sk/ba/online-zastavkova-tabula?st=461`).
 
 ## Karta na dashboard
 
