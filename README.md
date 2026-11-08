@@ -27,8 +27,8 @@ Vyžaduje Home Assistant **2024.12** alebo novší.
 ### Cez HACS (odporúčané)
 
 1. HACS → ⋮ → *Custom repositories*.
-2. Vložte `https://github.com/USER/imhd-tabula`, kategória *Integration*.
-3. Nainštalujte *imhd.sk zastávková tabuľa* a reštartujte Home Assistant.
+2. Vložte `https://github.com/blavak68/odjazdove-tabule-sr`, kategória *Integration*.
+3. Nainštalujte *Odjazdové tabule v SR* a reštartujte Home Assistant.
 
 ### Ručne
 
