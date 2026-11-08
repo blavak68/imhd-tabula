@@ -1,5 +1,10 @@
 # Zmeny
 
+## 0.3.1
+
+-  git commit -am "Oprava: aktualizácia stavu v hlavnej slučke"
+   git tag v0.1.1 && git push && git push --tags
+
 ## 0.2.0
 
 - Projekt premenovaný na „Odjazdové tabule v SR“ (repozitár `odjazdove-tabule-sr`).
