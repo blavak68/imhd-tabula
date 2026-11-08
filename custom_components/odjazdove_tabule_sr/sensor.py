@@ -36,17 +36,22 @@ class DeparturesSensor(SensorEntity):
             identifiers={(DOMAIN, f"{client.section}_{client.stop_id}")}, name=entry.title
         )
 
-    async def async_added_to_hass(self):
+    async def async_added_to_hass(self) -> None:
         self._client.listeners.append(self._refresh)
         self.async_on_remove(lambda: self._client.listeners.remove(self._refresh))
+        # prepočet "in_minutes" a vyradenie odídených spojov
         self.async_on_remove(
             async_track_time_interval(
-                self.hass, lambda _: self._refresh(), timedelta(seconds=30)
+                self.hass, self._handle_interval, timedelta(seconds=30)
             )
         )
 
     @callback
-    def _refresh(self):
+    def _refresh(self) -> None:
+        self.async_write_ha_state()
+
+    @callback
+    def _handle_interval(self, _now: datetime) -> None:
         self.async_write_ha_state()
 
     @property
