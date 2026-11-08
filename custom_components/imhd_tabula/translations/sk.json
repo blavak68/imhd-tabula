@@ -6,7 +6,7 @@
         "data": { "section": "Mesto" }
       },
       "stop": {
-        "title": "Pridať zastávku imhd.sk",
+        "title": "Pridať zastávku",
         "description": "Vyberte zastávku zo zoznamu. Písaním môžete vyhľadávať.",
         "data": {
           "stop_id": "Zastávka",
