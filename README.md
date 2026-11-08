@@ -1,7 +1,7 @@
 # Odjazdové tabule v SR pre Home Assistant
 
 Vlastná integrácia (custom component), ktorá zobrazuje odchody z virtuálnej
-zastávkovej tabule [imhd.sk](https://imhd.sk) priamo v Home Assistantovi.
+zastávkovej tabule imhd.sk priamo v Home Assistantovi.
 Dáta chodia v reálnom čase.
 
 > **Neoficiálny projekt.** Nie je spojený so službou imhd.sk ani s jej
@@ -16,8 +16,7 @@ Dáta chodia v reálnom čase.
 - Výber mesta a zastávky zo zoznamu podľa názvu (písaním sa dá vyhľadávať).
 - Jeden senzor na zastávku. Stav = čas najbližšieho odchodu, atribúty obsahujú
   zoznam odchodov.
-- Atribúty odchodu: linka, smer, čas, minúty do odchodu, nástupište,
-  plánovaný čas, meškanie, príznak živých dát a príznak uviaznutého spoja.
+- Atribúty odchodu: linka, smer, čas, minúty do odchodu, nástupište.
 - Slovenský a anglický preklad rozhrania.
 
 ## Inštalácia
@@ -33,21 +32,21 @@ Vyžaduje Home Assistant **2024.12** alebo novší.
 ### Ručne
 
 1. Stiahnite archív poslednej verzie zo sekcie *Releases*.
-2. Priečinok `custom_components/imhd_tabula` skopírujte do
+2. Priečinok `custom_components/odjazdove-tabule-sr` skopírujte do
    `<config>/custom_components/`.
 3. Reštartujte Home Assistant. Potrebná knižnica `python-socketio` sa
    nainštaluje automaticky.
 
 ## Nastavenie
 
-*Nastavenia → Zariadenia a služby → Pridať integráciu → imhd.sk zastávková
-tabuľa*, potom vyberte mesto a zastávku. Počet zobrazených odchodov sa mení v
+*Nastavenia → Zariadenia a služby → Pridať integráciu → Odjazdové tabule v SR*, 
+potom vyberte mesto a zastávku. Počet zobrazených odchodov sa mení v
 *Konfigurovať*. Ďalšiu zastávku pridáte tým istým postupom, odstránite ju cez
 ⋮ pri zázname.
 
 ### Zoznamy zastávok
 
-Zoznamy sú súbory `custom_components/imhd_tabula/zastavky_<kod>.json`, kde
+Zoznamy sú súbory `custom_components/odjazdove-tabule-sr/zastavky_<kod>.json`, kde
 `<kod>` je kód mesta z adresy imhd.sk (`ba`, `ke`, `tt`, ...). Formulár ponúka
 mestá, pre ktoré taký súbor existuje. Ak žiadny nie je, zobrazí sa formulár na
 ručné zadanie kódu mesta a ID zastávky (to je parameter `st=` v adrese
