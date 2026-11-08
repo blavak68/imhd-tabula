@@ -3,7 +3,7 @@
 ## 0.2.0
 
 - Projekt premenovaný na „Odjazdové tabule v SR“ (repozitár `odjazdove-tabule-sr`).
-  Interná doména integrácie `imhd_tabula` ostáva nezmenená, existujúce nastavenia fungujú ďalej.
+  Interná doména integrácie `odjazdove_tabule_sr` ostáva nezmenená, existujúce nastavenia fungujú ďalej.
 
 ## 0.1.0
 
