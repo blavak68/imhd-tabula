@@ -1,5 +1,5 @@
 {
-  "domain": "imhd_tabula",
+  "domain": "odjazdove_tabule_sr",
   "name": "Odjazdové tabule v SR",
   "codeowners": ["blavak68"],
   "config_flow": true,

@@ -1,4 +1,4 @@
-DOMAIN = "imhd_tabula"
+DOMAIN = "odjazdove_tabule_sr"
 CONF_STOP_ID = "stop_id"
 CONF_SECTION = "section"
 CONF_LIMIT = "limit"
