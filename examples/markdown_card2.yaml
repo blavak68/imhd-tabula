@@ -1,0 +1,48 @@
+type: markdown
+content: >
+  {% set s = 'sensor.NAZOV' %}
+
+  {% set mesto = state_attr(s,'city') or '' %}
+
+  {% set zastavka = state_attr(s,'stop') or '' %}
+
+  {% set deps = (state_attr(s,'departures') or []) | rejectattr('line','eq','►')
+  | list %}
+
+  📍 **{{ zastavka }}** · región {{ mesto }}
+
+  {% if deps | length == 0 %}Žiadne plánované odchody{% else %}
+
+  | | Linka | Smer | Plán | Očakávané | Meškanie |
+
+  |:-:|:-:|:--|:-:|:-:|:-:|
+
+  {%- for d in deps[:20] %}
+
+  | {{ '🚆' if d.line | regex_match('^[RS][0-9]') else '🚍' }} | **{{ d.line
+  }}** | {{ d.destination }} | {{ d.scheduled | as_timestamp |
+  timestamp_custom('%H:%M') if d.scheduled else '–' }} | {{ d.expected |
+  as_timestamp | timestamp_custom('%H:%M') }} | {{ ('+' ~ d.delay_min ~ ' min')
+  if d.delay_min and d.delay_min > 0 else ('včas' if d.realtime else '') }} |
+
+  {%- endfor %}
+
+  {% endif %}
+card_mod:
+  style:
+    .: |
+      ha-card {
+        border: 0px solid white;
+        border-radius: 1px;
+      }
+    ha-markdown$: |
+      table {
+        border-collapse: collapse !important;
+        width: 100%;
+      }
+      th, td {
+        border: 0px solid gray !important;
+        padding: 4px 8px !important;
+        text-align: center !important;
+        vertical-align: middle;
+      }
