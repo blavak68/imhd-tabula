@@ -54,19 +54,25 @@ tabule, napr. `imhd.sk/ba/online-zastavkova-tabula?st=461`).
 
 ## Karta na dashboard
 
-Hotová karta Markdown je v [`examples/markdown_card.yaml`](examples/markdown_card.yaml).
-Názov entity upravte podľa názvu zastávky (napr. `sensor.kvetoslavov_zastavka`).
+Hotová karta Markdown je v [`examples/markdown_card_1.yaml`](examples/markdown_card1.yaml) pripadne [`examples/markdown_card_2.yaml`](examples/markdown_card2.yaml).
+Názov entity upravte podľa názvu zastávky (napr. `sensor.ba_hlavna_stanica`).
 
 Atribút `departures` vyzerá takto:
 
 ```yaml
 departures:
-  - line: '50'
-    destination: Kukučínova
-    time: '2026-11-07T08:52:36+00:00'
-    in_minutes: 1
-    display: 1 min
-    platform: 1125
+  - line: '6'
+    destination: Stodolova
+    time: '2026-11-09T19:00:00+00:00'
+    expected: '2026-11-09T19:00:00+00:00'
+    scheduled: '2026-11-09T19:00:00+00:00'
+    delay_min: 0
+    delay_raw: null
+    in_minutes: 13
+    display: 12 min
+    platform: 3472
+    realtime: false
+    stuck: false
 ```
 
 ## Ako to funguje
