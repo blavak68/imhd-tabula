@@ -100,4 +100,4 @@ HACS a kontrolu štýlu kódu. Po nahratí tagu `vX.Y.Z` vytvorí
 
 ## Licencia
 
-MIT, pozri (LICENSE).
+MIT, pozri [`LICENSE`](LICENSE).
