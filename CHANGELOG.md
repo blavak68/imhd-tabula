@@ -2,8 +2,10 @@
 
 ## 0.3.1
 
--  git commit -am "Oprava: aktualizácia stavu v hlavnej slučke"
-   git tag v0.3.1 && git push && git push --tags
+- Oprava v kode: aktualizácia stavu v hlavnej slučke
+- pridanie mesta Žilina
+- rozírenie atribútov
+- meškania funguje len v MHD BA
 
 ## 0.2.0
 
