@@ -1,9 +1,9 @@
-"""socket.io klient pre imhd.sk."""
+"""socket.io klient pre imhd.sk (neoficiálne rozhranie)."""
 from __future__ import annotations
 
 import asyncio
 import logging
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 
 import socketio
 
@@ -14,11 +14,12 @@ HEADERS = {"Origin": "https://imhd.sk"}
 
 
 def _items(data) -> list[dict]:
+    """Server posiela zoznam objektov (jeden na nástupište)."""
     return data if isinstance(data, list) else list(data.values())
 
 
 class ImhdClient:
-    """Jedno spojenie = jedna zastávka."""
+    """Jedno socket.io spojenie = jedna zastávka."""
 
     def __init__(self, stop_id: int, section: str) -> None:
         self.stop_id = stop_id
@@ -32,81 +33,97 @@ class ImhdClient:
         self.sio.on("cack", self._on_cack)
         self.sio.on("tabs", self._on_tabs)
 
-    async def _on_connect(self):
+    async def _on_connect(self) -> None:
+        _LOGGER.debug("imhd.sk: pripojené, zastávka %s", self.stop_id)
         await self.sio.emit("tabStart", [self.stop_id, ["*"], self.section])
 
-    async def _on_cack(self, data):
+    async def _on_cack(self, data) -> None:
         if data is not True:
             _LOGGER.warning("imhd.sk odmietol spojenie: %s", data)
 
-    async def _on_tabs(self, data):
+    async def _on_tabs(self, data) -> None:
         for item in _items(data):
             if item.get("zastavka") == self.stop_id:
                 self.platforms[item.get("nastupiste")] = item.get("tab", [])
-        for cb in list(self.listeners):
-            cb()
+        for callback in list(self.listeners):
+            callback()
 
     def departures(self) -> list[dict]:
-        now = datetime.now(timezone.utc)
+        """Zoradené budúce odchody zo všetkých nástupíšť."""
+        now = datetime.now(UTC)
         out = []
         for platform, tab in self.platforms.items():
-            for d in tab:
-                ts = d.get("cas")
+            for dep in tab:
+                ts = dep.get("cas")  # očakávaný čas (ms)
                 if not ts:
                     continue
-                when = datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
-                if when < now - timedelta(minutes=1):
+                expected = datetime.fromtimestamp(ts / 1000, tz=UTC)
+                if expected < now - timedelta(minutes=1):
                     continue
+                sched = dep.get("casCP")  # čas podľa cestovného poriadku (ms)
                 out.append(
                     {
-                        "line": d.get("linka"),
-                        "destination": d.get("konecnaZstr"),
-                        "time": when.isoformat(),
-                        "in_minutes": max(0, round((when - now).total_seconds() / 60)),
-                        "display": d.get("odjazd"),
+                        "line": dep.get("linka"),
+                        "destination": dep.get("konecnaZstr"),
+                        "time": expected.isoformat(),
+                        "expected": expected.isoformat(),
+                        "scheduled": (
+                            datetime.fromtimestamp(sched / 1000, tz=UTC).isoformat()
+                            if sched
+                            else None
+                        ),
+                        "delay_min": round((ts - sched) / 60000) if sched else None,
+                        "delay_raw": dep.get("casDelta"),
+                        "in_minutes": max(0, round((expected - now).total_seconds() / 60)),
+                        "display": dep.get("odjazd"),
                         "platform": platform,
+                        "realtime": dep.get("typ") != "cp",
+                        "stuck": bool(dep.get("uviaznute")),
                     }
                 )
-        out.sort(key=lambda x: x["time"])
+        out.sort(key=lambda x: x["expected"])
         return out
 
-    async def run(self):
+    async def run(self) -> None:
         """Beží ako background task; pri páde sa pripája znova."""
         while True:
             try:
                 await self.sio.connect(
-                    URL, socketio_path=SIO_PATH,
-                    transports=["websocket"], headers=HEADERS,
+                    URL,
+                    socketio_path=SIO_PATH,
+                    transports=["websocket"],
+                    headers=HEADERS,
                 )
                 await self.sio.wait()
             except asyncio.CancelledError:
                 raise
             except Exception as err:  # noqa: BLE001
-                _LOGGER.warning("imhd.sk spojenie zlyhalo: %s", err)
+                _LOGGER.warning("imhd.sk: spojenie zlyhalo: %s", err)
             await asyncio.sleep(30)
 
-    async def stop(self):
+    async def stop(self) -> None:
         if self.sio.connected:
             await self.sio.disconnect()
 
 
 async def async_validate(stop_id: int, section: str, timeout: int = 15) -> str | None:
-    """None = OK, inak kód chyby."""
+    """Vráti None, ak server prijal spojenie, inak kód chyby."""
     ok = asyncio.Event()
     sio = socketio.AsyncClient(reconnection=False)
 
-    async def on_connect():
+    async def on_connect() -> None:
         await sio.emit("tabStart", [stop_id, ["*"], section])
 
-    async def on_cack(data):
+    async def on_cack(data) -> None:
         if data is True:
             ok.set()
 
     sio.on("connect", on_connect)
     sio.on("cack", on_cack)
     try:
-        await sio.connect(URL, socketio_path=SIO_PATH,
-                          transports=["websocket"], headers=HEADERS)
+        await sio.connect(
+            URL, socketio_path=SIO_PATH, transports=["websocket"], headers=HEADERS
+        )
         await asyncio.wait_for(ok.wait(), timeout)
         return None
     except Exception:  # noqa: BLE001
