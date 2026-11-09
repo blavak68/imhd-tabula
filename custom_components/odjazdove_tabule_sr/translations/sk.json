@@ -13,19 +13,36 @@
           "name": "Vlastný názov (nepovinné)",
           "limit": "Počet odchodov"
         }
+      },
+      "manual": {
+        "title": "Pridať zastávku",
+        "description": "Zoznam zastávok nie je k dispozícii, zadajte údaje ručne. Kód mesta je prvá časť adresy imhd.sk/<kod>/..., ID zastávky je parameter st= v adrese zastávkovej tabule.",
+        "data": {
+          "section": "Kód mesta",
+          "stop_id": "ID zastávky",
+          "name": "Názov",
+          "limit": "Počet odchodov"
+        }
       }
     },
     "error": {
-      "cannot_connect": "Nepodarilo sa pripojiť k imhd.sk."
+      "cannot_connect": "Nepodarilo sa pripojiť k službe."
     },
     "abort": {
-      "already_configured": "Táto zastávka je už pridaná.",
-      "no_stops_file": "V priečinku integrácie chýba súbor zastavky_<mesto>.json."
+      "already_configured": "Táto zastávka je už pridaná."
     }
   },
   "options": {
     "step": {
-      "init": { "data": { "limit": "Počet odchodov" } }
+      "init": {
+        "data": { "limit": "Počet odchodov" }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "delay": { "name": "Meškanie" }
     }
   }
 }
+
