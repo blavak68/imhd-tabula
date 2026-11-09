@@ -1,7 +1,7 @@
 # Karta Markdown pre dashboard. Upravte názov entity podľa seba.
 type: markdown
 content: >
-  {% set s = 'sensor.kvetoslavov_zastavka' %}
+  {% set s = 'sensor.NAZOV' %}
 
   {% set mesto = state_attr(s,'city')  %}
 
