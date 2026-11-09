@@ -1,0 +1,518 @@
+[
+ {
+  "nazov": "*",
+  "kod": 3450
+ },
+ {
+  "nazov": "*",
+  "kod": 3451
+ },
+ {
+  "nazov": "*",
+  "kod": 3452
+ },
+ {
+  "nazov": "Antona Bernoláka",
+  "kod": 1930
+ },
+ {
+  "nazov": "Asanačný podnik",
+  "kod": 1864
+ },
+ {
+  "nazov": "Bagarova",
+  "kod": 1869
+ },
+ {
+  "nazov": "Bratislavská",
+  "kod": 1827
+ },
+ {
+  "nazov": "Brodno",
+  "kod": 1818
+ },
+ {
+  "nazov": "Brodňanská",
+  "kod": 1817
+ },
+ {
+  "nazov": "Budatínska",
+  "kod": 1898
+ },
+ {
+  "nazov": "Budatínsky hrad",
+  "kod": 1823
+ },
+ {
+  "nazov": "Bytčianska",
+  "kod": 1847
+ },
+ {
+  "nazov": "Bytčica",
+  "kod": 1924
+ },
+ {
+  "nazov": "Bánovská cesta",
+  "kod": 1921
+ },
+ {
+  "nazov": "Bánová",
+  "kod": 1808
+ },
+ {
+  "nazov": "Centrálna",
+  "kod": 1876
+ },
+ {
+  "nazov": "Cestárska",
+  "kod": 1828
+ },
+ {
+  "nazov": "Chlmecké námestie",
+  "kod": 1848
+ },
+ {
+  "nazov": "Cintorínska",
+  "kod": 1883
+ },
+ {
+  "nazov": "Dolná",
+  "kod": 1820
+ },
+ {
+  "nazov": "Dolná Trnovská",
+  "kod": 1884
+ },
+ {
+  "nazov": "Dubeň, obch. centrum",
+  "kod": 1913
+ },
+ {
+  "nazov": "Elektrovod",
+  "kod": 1856
+ },
+ {
+  "nazov": "Essenská",
+  "kod": 4074
+ },
+ {
+  "nazov": "eXtreme park",
+  "kod": 1922
+ },
+ {
+  "nazov": "Fakultná nemocnica",
+  "kod": 1841
+ },
+ {
+  "nazov": "Farebná",
+  "kod": 1926
+ },
+ {
+  "nazov": "Fatranská",
+  "kod": 1891
+ },
+ {
+  "nazov": "Furdekova",
+  "kod": 1867
+ },
+ {
+  "nazov": "Hlinská",
+  "kod": 1853
+ },
+ {
+  "nazov": "Hollého",
+  "kod": 1830
+ },
+ {
+  "nazov": "Horná Trnovská",
+  "kod": 1885
+ },
+ {
+  "nazov": "Hričovská",
+  "kod": 1880
+ },
+ {
+  "nazov": "Hurbanova",
+  "kod": 1831
+ },
+ {
+  "nazov": "Hviezdoslavova",
+  "kod": 1920
+ },
+ {
+  "nazov": "HYZA",
+  "kod": 1865
+ },
+ {
+  "nazov": "Hálkova",
+  "kod": 1829
+ },
+ {
+  "nazov": "Hôrecká",
+  "kod": 1916
+ },
+ {
+  "nazov": "Jaseňová",
+  "kod": 1877
+ },
+ {
+  "nazov": "Jastrabia",
+  "kod": 1896
+ },
+ {
+  "nazov": "Jedľová",
+  "kod": 1809
+ },
+ {
+  "nazov": "K cintorínu",
+  "kod": 1810
+ },
+ {
+  "nazov": "Kamenná, domáce potreby",
+  "kod": 1859
+ },
+ {
+  "nazov": "Kamenná, kovošrot",
+  "kod": 1860
+ },
+ {
+  "nazov": "Kamenná, obchodné centrum",
+  "kod": 1862
+ },
+ {
+  "nazov": "Kamenná, PRIUS",
+  "kod": 1861
+ },
+ {
+  "nazov": "Komenského",
+  "kod": 1832
+ },
+ {
+  "nazov": "Kortinská",
+  "kod": 1901
+ },
+ {
+  "nazov": "Košická, TESCO hypermarket",
+  "kod": 1833
+ },
+ {
+  "nazov": "Kragujevská",
+  "kod": 1834
+ },
+ {
+  "nazov": "Kultúrny dom",
+  "kod": 1824
+ },
+ {
+  "nazov": "Kvačalova, DPMŽ",
+  "kod": 1908
+ },
+ {
+  "nazov": "Kysucká",
+  "kod": 1835
+ },
+ {
+  "nazov": "Letná",
+  "kod": 1821
+ },
+ {
+  "nazov": "Limbová",
+  "kod": 1878
+ },
+ {
+  "nazov": "Magočovská",
+  "kod": 1886
+ },
+ {
+  "nazov": "Mateja Bela",
+  "kod": 1914
+ },
+ {
+  "nazov": "Matice slovenskej",
+  "kod": 1892
+ },
+ {
+  "nazov": "Mostná",
+  "kod": 1854
+ },
+ {
+  "nazov": "Motel Šibenice",
+  "kod": 1870
+ },
+ {
+  "nazov": "Na chotári",
+  "kod": 1909
+ },
+ {
+  "nazov": "Na Horevaží, TESCO hypermarket",
+  "kod": 1836
+ },
+ {
+  "nazov": "Na lány",
+  "kod": 1822
+ },
+ {
+  "nazov": "Na stanicu",
+  "kod": 1825
+ },
+ {
+  "nazov": "Na Straník",
+  "kod": 1906
+ },
+ {
+  "nazov": "Nová menza",
+  "kod": 1925
+ },
+ {
+  "nazov": "Námestie Sv. J. Bosca",
+  "kod": 1811
+ },
+ {
+  "nazov": "Obchodná",
+  "kod": 1893
+ },
+ {
+  "nazov": "Oceliarska",
+  "kod": 1868
+ },
+ {
+  "nazov": "Oslobodenia",
+  "kod": 1812
+ },
+ {
+  "nazov": "Ovocinárska",
+  "kod": 1887
+ },
+ {
+  "nazov": "Park Ľ. Štúra",
+  "kod": 1814
+ },
+ {
+  "nazov": "Pažite",
+  "kod": 1826
+ },
+ {
+  "nazov": "Pietna, Krematórium",
+  "kod": 1910
+ },
+ {
+  "nazov": "Plaváreň",
+  "kod": 1816
+ },
+ {
+  "nazov": "Pod hájom",
+  "kod": 1919
+ },
+ {
+  "nazov": "Pod Kozínom",
+  "kod": 1902
+ },
+ {
+  "nazov": "Pod vinicou",
+  "kod": 1912
+ },
+ {
+  "nazov": "Pod záhradkou",
+  "kod": 1903
+ },
+ {
+  "nazov": "Polícia",
+  "kod": 1837
+ },
+ {
+  "nazov": "Potoky",
+  "kod": 1888
+ },
+ {
+  "nazov": "Považský Chlmec",
+  "kod": 1849
+ },
+ {
+  "nazov": "Poľná",
+  "kod": 1855
+ },
+ {
+  "nazov": "Poštová",
+  "kod": 1894
+ },
+ {
+  "nazov": "Predmestská",
+  "kod": 1838
+ },
+ {
+  "nazov": "Pri celulózke",
+  "kod": 1851
+ },
+ {
+  "nazov": "Pri Kysuci",
+  "kod": 1850
+ },
+ {
+  "nazov": "Pri Váhu",
+  "kod": 4081
+ },
+ {
+  "nazov": "Priehradná",
+  "kod": 1881
+ },
+ {
+  "nazov": "Prieložná",
+  "kod": 1882
+ },
+ {
+  "nazov": "Priemyselná",
+  "kod": 1839
+ },
+ {
+  "nazov": "Prípojná",
+  "kod": 1900
+ },
+ {
+  "nazov": "Rakové",
+  "kod": 1889
+ },
+ {
+  "nazov": "Rosinky",
+  "kod": 1871
+ },
+ {
+  "nazov": "Rosinská, plemenársky podnik",
+  "kod": 1873
+ },
+ {
+  "nazov": "Rosinská, Výskumný ústav výpočtovej techniky",
+  "kod": 1872
+ },
+ {
+  "nazov": "Rudnayova",
+  "kod": 1813
+ },
+ {
+  "nazov": "Rybné námestie",
+  "kod": 1866
+ },
+ {
+  "nazov": "Rázcestie Hričov",
+  "kod": 1905
+ },
+ {
+  "nazov": "Rázusova",
+  "kod": 1840
+ },
+ {
+  "nazov": "Salaš",
+  "kod": 1907
+ },
+ {
+  "nazov": "Saleziánska",
+  "kod": 1858
+ },
+ {
+  "nazov": "Slnečné námestie",
+  "kod": 1915
+ },
+ {
+  "nazov": "Smreková",
+  "kod": 1879
+ },
+ {
+  "nazov": "Stanica Solinky",
+  "kod": 1863
+ },
+ {
+  "nazov": "Stavomontáže",
+  "kod": 1857
+ },
+ {
+  "nazov": "Stodolova",
+  "kod": 1852
+ },
+ {
+  "nazov": "Sv. Cyrila a Metoda",
+  "kod": 1895
+ },
+ {
+  "nazov": "Tulipánová",
+  "kod": 1815
+ },
+ {
+  "nazov": "Univerzitná",
+  "kod": 1933
+ },
+ {
+  "nazov": "Veľká okružná",
+  "kod": 1844
+ },
+ {
+  "nazov": "Veľká okružná, Aupark",
+  "kod": 1843
+ },
+ {
+  "nazov": "Vodná nádrž Hričov",
+  "kod": 1904
+ },
+ {
+  "nazov": "Vodné dielo",
+  "kod": 2890
+ },
+ {
+  "nazov": "Vranie",
+  "kod": 1897
+ },
+ {
+  "nazov": "Vrútky, žel. stanica",
+  "kod": 4266
+ },
+ {
+  "nazov": "Zvolenská",
+  "kod": 1875
+ },
+ {
+  "nazov": "Zábrežná",
+  "kod": 1819
+ },
+ {
+  "nazov": "Zástranie",
+  "kod": 1911
+ },
+ {
+  "nazov": "Závodská",
+  "kod": 1845
+ },
+ {
+  "nazov": "Závodského",
+  "kod": 1917
+ },
+ {
+  "nazov": "Údolná",
+  "kod": 1899
+ },
+ {
+  "nazov": "Šibenice, STK",
+  "kod": 1874
+ },
+ {
+  "nazov": "Športové centrum",
+  "kod": 4929
+ },
+ {
+  "nazov": "Štefánikovo námestie",
+  "kod": 1842
+ },
+ {
+  "nazov": "Železničná stanica",
+  "kod": 1846
+ },
+ {
+  "nazov": "Žilinská Lehota",
+  "kod": 1923
+ },
+ {
+  "nazov": "Žilinská univerzita",
+  "kod": 1890
+ },
+ {
+  "nazov": "Žitná",
+  "kod": 1918
+ }
+]
