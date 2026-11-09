@@ -54,7 +54,7 @@ tabule, napr. `imhd.sk/ba/online-zastavkova-tabula?st=461`).
 
 ## Karta na dashboard
 
-Hotová karta Markdown je v [`examples/markdown_card_1.yaml`](examples/markdown_card1.yaml) pripadne [`examples/markdown_card_2.yaml`](examples/markdown_card2.yaml).
+Hotová karta Markdown je v [`examples/markdown_card1.yaml`](examples/markdown_card1.yaml) pripadne [`examples/markdown_card2.yaml`](examples/markdown_card2.yaml).
 Názov entity upravte podľa názvu zastávky (napr. `sensor.ba_hlavna_stanica`).
 
 Atribút `departures` vyzerá takto:
