@@ -1,15 +1,27 @@
 # Karta Markdown pre dashboard. Upravte názov entity podľa seba.
 type: markdown
-content: |
-  {% set s = 'sensor.NAZOV' %}
+content: >
+  {% set s = 'sensor.kvetoslavov_zastavka' %}
+
   {% set mesto = state_attr(s,'city')  %}
+
   {% set zastavka = state_attr(s,'stop') %}
-  {% set deps = (state_attr(s,'departures') or []) | rejectattr('line','eq','►') | list %}
+
+  {% set deps = (state_attr(s,'departures') or []) | rejectattr('line','eq','►')
+  | list %}
+
+
   📍 **{{ zastavka }}** · región {{ mesto }}
+
+
   {% if deps | length == 0 %}Žiadne plánované odchody{% else %}
+
   | | Linka | Smer | Odchod |
+
   |:-:|:-:|:--|--:|
+
   {%- for d in deps[:20] %}
+
   | {{ '🚆' if d.line | regex_match('^[RS][0-9]') else '🚍' }} | **{{ d.line
   }}** | {{ d.destination }} | {{ 'teraz' if d.in_minutes < 1 else (d.in_minutes
   ~ ' min' if d.in_minutes < 60 else (d.time | as_timestamp |
