@@ -2,30 +2,46 @@
   "config": {
     "step": {
       "user": {
-        "title": "Select city",
+        "title": "Choose a city",
         "data": { "section": "City" }
       },
       "stop": {
-        "title": "Add stop",
-        "description": "Select a stop from the list. You can search by typing.",
+        "title": "Add a stop",
+        "description": "Choose a stop from the list. You can type to search.",
         "data": {
           "stop_id": "Stop",
           "name": "Custom name (optional)",
           "limit": "Number of departures"
         }
+      },
+      "manual": {
+        "title": "Add a stop",
+        "description": "No stop list is available, enter the details manually. The city code is the first part of the address imhd.sk/<code>/..., the stop ID is the st= parameter in the departure board URL.",
+        "data": {
+          "section": "City code",
+          "stop_id": "Stop ID",
+          "name": "Name",
+          "limit": "Number of departures"
+        }
       }
     },
     "error": {
-      "cannot_connect": "Failed to connect to imhd.sk."
+      "cannot_connect": "Could not connect to the service."
     },
     "abort": {
-      "already_configured": "This stop has already been added.",
-      "no_stops_file": "The file zastavky_<city>.json is missing from the integration folder."
+      "already_configured": "This stop is already added."
     }
   },
   "options": {
     "step": {
-      "init": { "data": { "limit": "Number of departures" } }
+      "init": {
+        "data": { "limit": "Number of departures" }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "delay": { "name": "Delay" }
     }
   }
 }
